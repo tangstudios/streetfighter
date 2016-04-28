@@ -1,0 +1,24 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual C# Express 2010
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "streetfightertest", "streetfightertest\streetfightertest\streetfightertest.csproj", "{BEA2D148-2E7C-4B72-9854-E2BA42E7477F}"
+EndProject
+Project("{96E2B04D-8817-42C6-938A-82C39BA4D311}") = "streetfightertestContent", "streetfightertest\streetfightertestContent\streetfightertestContent.contentproj", "{831D6FD2-0EEC-4FEC-B6BA-127E7EEFBFA9}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x86 = Debug|x86
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{BEA2D148-2E7C-4B72-9854-E2BA42E7477F}.Debug|x86.ActiveCfg = Debug|x86
+		{BEA2D148-2E7C-4B72-9854-E2BA42E7477F}.Debug|x86.Build.0 = Debug|x86
+		{BEA2D148-2E7C-4B72-9854-E2BA42E7477F}.Release|x86.ActiveCfg = Release|x86
+		{BEA2D148-2E7C-4B72-9854-E2BA42E7477F}.Release|x86.Build.0 = Release|x86
+		{831D6FD2-0EEC-4FEC-B6BA-127E7EEFBFA9}.Debug|x86.ActiveCfg = Debug|x86
+		{831D6FD2-0EEC-4FEC-B6BA-127E7EEFBFA9}.Release|x86.ActiveCfg = Release|x86
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

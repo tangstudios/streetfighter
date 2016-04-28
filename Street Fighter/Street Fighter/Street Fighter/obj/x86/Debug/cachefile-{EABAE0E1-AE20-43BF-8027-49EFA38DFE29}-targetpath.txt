@@ -1,0 +1,343 @@
+Content\TitleFont.xnb
+Content\TextFont.xnb
+Content\BigTitleFont.xnb
+Content\title_screen_background.xnb
+Content\ShoulderClicks\LeftShoulder_Clicked.xnb
+Content\ShoulderClicks\LeftShoulder_NotClicked.xnb
+Content\ShoulderClicks\RightShoulder_Clicked.xnb
+Content\ShoulderClicks\RightShoulder_NotClicked.xnb
+Content\ken\1 idle\ken_idle1.xnb
+Content\ken\1 idle\ken_idle2.xnb
+Content\ken\1 idle\ken_idle3.xnb
+Content\ken\1 idle\ken_idle4.xnb
+Content\ken\10 forward medium punch\ken_forward_medium_punch1.xnb
+Content\ken\10 forward medium punch\ken_forward_medium_punch2.xnb
+Content\ken\10 forward medium punch\ken_forward_medium_punch3.xnb
+Content\ken\10 forward medium punch\ken_forward_medium_punch4.xnb
+Content\ken\10 forward medium punch\ken_forward_medium_punch5.xnb
+Content\ken\10 forward medium punch\ken_forward_medium_punch6.xnb
+Content\ken\10 forward medium punch\ken_forward_medium_punch7.xnb
+Content\ken\11 forward high punch\ken_forward_high_punch1.xnb
+Content\ken\11 forward high punch\ken_forward_high_punch2.xnb
+Content\ken\11 forward high punch\ken_forward_high_punch3.xnb
+Content\ken\11 forward high punch\ken_forward_high_punch4.xnb
+Content\ken\11 forward high punch\ken_forward_high_punch5.xnb
+Content\ken\12 low-medium kick\ken_low_medium_kick1.xnb
+Content\ken\12 low-medium kick\ken_low_medium_kick2.xnb
+Content\ken\12 low-medium kick\ken_low_medium_kick3.xnb
+Content\ken\14 forward low kick\ken_forward_low_kick1.xnb
+Content\ken\14 forward low kick\ken_forward_low_kick2.xnb
+Content\ken\14 forward low kick\ken_forward_low_kick3.xnb
+Content\ken\15 forward medium kick\ken_forward_medium_kick1.xnb
+Content\ken\15 forward medium kick\ken_forward_medium_kick2.xnb
+Content\ken\15 forward medium kick\ken_forward_medium_kick3.xnb
+Content\ken\15 forward medium kick\ken_forward_medium_kick4.xnb
+Content\ken\15 forward medium kick\ken_forward_medium_kick5.xnb
+Content\ken\16 forward high kick\ken_forward_high_kick1.xnb
+Content\ken\16 forward high kick\ken_forward_high_kick2.xnb
+Content\ken\16 forward high kick\ken_forward_high_kick3.xnb
+Content\ken\16 forward high kick\ken_forward_high_kick4.xnb
+Content\ken\16 forward high kick\ken_forward_high_kick5.xnb
+Content\ken\17 crouch low-medium punch\ken_crouch_low_medium_punch1.xnb
+Content\ken\17 crouch low-medium punch\ken_crouch_low_medium_punch2.xnb
+Content\ken\17 crouch low-medium punch\ken_crouch_low_medium_punch3.xnb
+Content\ken\19 crouch high punch\ken_crouch_high_punch1.xnb
+Content\ken\19 crouch high punch\ken_crouch_high_punch2.xnb
+Content\ken\19 crouch high punch\ken_crouch_high_punch3.xnb
+Content\ken\19 crouch high punch\ken_crouch_high_punch4.xnb
+Content\ken\19 crouch high punch\ken_crouch_high_punch5.xnb
+Content\ken\2 walking\ken_walking1.xnb
+Content\ken\2 walking\ken_walking2.xnb
+Content\ken\2 walking\ken_walking3.xnb
+Content\ken\2 walking\ken_walking4.xnb
+Content\ken\2 walking\ken_walking5.xnb
+Content\ken\20 crouch low kick\ken_crouch_low_kick1.xnb
+Content\ken\20 crouch low kick\ken_crouch_low_kick2.xnb
+Content\ken\20 crouch low kick\ken_crouch_low_kick3.xnb
+Content\ken\21 crouch medium kick\ken_crouch_medium_kick1.xnb
+Content\ken\21 crouch medium kick\ken_crouch_medium_kick2.xnb
+Content\ken\21 crouch medium kick\ken_crouch_medium_kick3.xnb
+Content\ken\22 crouch high kick\ken_crouch_high_kick1.xnb
+Content\ken\22 crouch high kick\ken_crouch_high_kick2.xnb
+Content\ken\22 crouch high kick\ken_crouch_high_kick3.xnb
+Content\ken\22 crouch high kick\ken_crouch_high_kick4.xnb
+Content\ken\22 crouch high kick\ken_crouch_high_kick5.xnb
+Content\ken\28 hadouken\hadouken_projectile1.xnb
+Content\ken\28 hadouken\hadouken_projectile2.xnb
+Content\ken\28 hadouken\hadouken_projectile3.xnb
+Content\ken\28 hadouken\hadouken_projectile4.xnb
+Content\ken\28 hadouken\hadouken_projectile5.xnb
+Content\ken\28 hadouken\hadouken_projectile6.xnb
+Content\ken\28 hadouken\ken_hadouken1.xnb
+Content\ken\28 hadouken\ken_hadouken2.xnb
+Content\ken\28 hadouken\ken_hadouken3.xnb
+Content\ken\28 hadouken\ken_hadouken4.xnb
+Content\ken\28 hadouken\ken_projectile_hadouken1.xnb
+Content\ken\28 hadouken\ken_projectile_hadouken2.xnb
+Content\ken\28 hadouken\ken_projectile_hadouken3.xnb
+Content\ken\28 hadouken\ken_projectile_hadouken4.xnb
+Content\ken\28 hadouken\ken_projectile_hadouken5.xnb
+Content\ken\28 hadouken\ken_projectile_hadouken6.xnb
+Content\ken\29 tatsumaki\ken_tatsumaki1.xnb
+Content\ken\29 tatsumaki\ken_tatsumaki10.xnb
+Content\ken\29 tatsumaki\ken_tatsumaki11.xnb
+Content\ken\29 tatsumaki\ken_tatsumaki12.xnb
+Content\ken\29 tatsumaki\ken_tatsumaki13.xnb
+Content\ken\29 tatsumaki\ken_tatsumaki2.xnb
+Content\ken\29 tatsumaki\ken_tatsumaki3.xnb
+Content\ken\29 tatsumaki\ken_tatsumaki4.xnb
+Content\ken\29 tatsumaki\ken_tatsumaki5.xnb
+Content\ken\29 tatsumaki\ken_tatsumaki6.xnb
+Content\ken\29 tatsumaki\ken_tatsumaki7.xnb
+Content\ken\29 tatsumaki\ken_tatsumaki8.xnb
+Content\ken\29 tatsumaki\ken_tatsumaki9.xnb
+Content\ken\3 jumping\ken_jumping1.xnb
+Content\ken\3 jumping\ken_jumping2.xnb
+Content\ken\3 jumping\ken_jumping3.xnb
+Content\ken\3 jumping\ken_jumping4.xnb
+Content\ken\3 jumping\ken_jumping5.xnb
+Content\ken\3 jumping\ken_jumping6.xnb
+Content\ken\3 jumping\ken_jumping7.xnb
+Content\ken\30 shoryuken\ken_shoryuken1.xnb
+Content\ken\30 shoryuken\ken_shoryuken2.xnb
+Content\ken\30 shoryuken\ken_shoryuken3.xnb
+Content\ken\30 shoryuken\ken_shoryuken4.xnb
+Content\ken\30 shoryuken\ken_shoryuken5.xnb
+Content\ken\30 shoryuken\ken_shoryuken6.xnb
+Content\ken\30 shoryuken\ken_shoryuken7.xnb
+Content\ken\31 hit\ken_hit1.xnb
+Content\ken\31 hit\ken_hit2.xnb
+Content\ken\31 hit\ken_hit3.xnb
+Content\ken\31 hit\ken_hit4.xnb
+Content\ken\32 face hit\ken_face_hit1.xnb
+Content\ken\32 face hit\ken_face_hit2.xnb
+Content\ken\32 face hit\ken_face_hit3.xnb
+Content\ken\32 face hit\ken_face_hit4.xnb
+Content\ken\33 crouch hit\ken_crouch_hit.xnb
+Content\ken\34 knockdown and recover\ken_knockdown1.xnb
+Content\ken\34 knockdown and recover\ken_knockdown2.xnb
+Content\ken\34 knockdown and recover\ken_knockdown3.xnb
+Content\ken\34 knockdown and recover\ken_knockdown4.xnb
+Content\ken\34 knockdown and recover\ken_knockdown5.xnb
+Content\ken\34 knockdown and recover\ken_knockdown6.xnb
+Content\ken\34 knockdown and recover\ken_knockdown7.xnb
+Content\ken\34 knockdown and recover\ken_knockdown8.xnb
+Content\ken\34 knockdown and recover\ken_knockdown9.xnb
+Content\ken\35 knockout\ken_knockout1.xnb
+Content\ken\35 knockout\ken_knockout2.xnb
+Content\ken\35 knockout\ken_knockout3.xnb
+Content\ken\35 knockout\ken_knockout4.xnb
+Content\ken\35 knockout\ken_knockout5.xnb
+Content\ken\36 victory\ken_victory1.xnb
+Content\ken\36 victory\ken_victory2.xnb
+Content\ken\36 victory\ken_victory3.xnb
+Content\ken\4 crouch\ken_crouch.xnb
+Content\ken\5 block\ken_block_crouching.xnb
+Content\ken\5 block\ken_block_standing.xnb
+Content\ken\6 forward jump\ken_forward_jump1.xnb
+Content\ken\6 forward jump\ken_forward_jump2.xnb
+Content\ken\6 forward jump\ken_forward_jump3.xnb
+Content\ken\6 forward jump\ken_forward_jump4.xnb
+Content\ken\6 forward jump\ken_forward_jump5.xnb
+Content\ken\6 forward jump\ken_forward_jump6.xnb
+Content\ken\7 low punch\ken_low_punch1.xnb
+Content\ken\7 low punch\ken_low_punch2.xnb
+Content\ken\7 low punch\ken_low_punch3.xnb
+Content\ken\8 medium-high punch\ken_medium_high_punch1.xnb
+Content\ken\8 medium-high punch\ken_medium_high_punch2.xnb
+Content\ken\8 medium-high punch\ken_medium_high_punch3.xnb
+Content\ken\8 medium-high punch\ken_medium_high_punch4.xnb
+Content\ken\8 medium-high punch\ken_medium_high_punch5.xnb
+Content\ken\9 forward low punch\ken_forward_low_punch1.xnb
+Content\ken\9 forward low punch\ken_forward_low_punch2.xnb
+Content\ken\9 forward low punch\ken_forward_low_punch3.xnb
+Content\ken\ken_position_template.xnb
+Content\ryu\1 idle\ryu_idle1.xnb
+Content\ryu\1 idle\ryu_idle2.xnb
+Content\ryu\1 idle\ryu_idle3.xnb
+Content\ryu\1 idle\ryu_idle4.xnb
+Content\ryu\10 forward medium punch\ryu_forward_medium_punch1.xnb
+Content\ryu\10 forward medium punch\ryu_forward_medium_punch2.xnb
+Content\ryu\10 forward medium punch\ryu_forward_medium_punch3.xnb
+Content\ryu\10 forward medium punch\ryu_forward_medium_punch4.xnb
+Content\ryu\10 forward medium punch\ryu_forward_medium_punch5.xnb
+Content\ryu\10 forward medium punch\ryu_forward_medium_punch6.xnb
+Content\ryu\10 forward medium punch\ryu_forward_medium_punch7.xnb
+Content\ryu\11 forward high punch\ryu_forward_high_punch1.xnb
+Content\ryu\11 forward high punch\ryu_forward_high_punch2.xnb
+Content\ryu\11 forward high punch\ryu_forward_high_punch3.xnb
+Content\ryu\11 forward high punch\ryu_forward_high_punch4.xnb
+Content\ryu\11 forward high punch\ryu_forward_high_punch5.xnb
+Content\ryu\12 low-medium kick\ryu_low_medium_kick1.xnb
+Content\ryu\12 low-medium kick\ryu_low_medium_kick2.xnb
+Content\ryu\12 low-medium kick\ryu_low_medium_kick3.xnb
+Content\ryu\13 high kick\ryu_high_kick1.xnb
+Content\ryu\13 high kick\ryu_high_kick2.xnb
+Content\ryu\13 high kick\ryu_high_kick3.xnb
+Content\ryu\13 high kick\ryu_high_kick4.xnb
+Content\ryu\13 high kick\ryu_high_kick5.xnb
+Content\ryu\14 forward low kick\ryu_forward_low_kick1.xnb
+Content\ryu\14 forward low kick\ryu_forward_low_kick2.xnb
+Content\ryu\14 forward low kick\ryu_forward_low_kick3.xnb
+Content\ryu\15 forward medium kick\ryu_forward_medium_kick1.xnb
+Content\ryu\15 forward medium kick\ryu_forward_medium_kick2.xnb
+Content\ryu\15 forward medium kick\ryu_forward_medium_kick3.xnb
+Content\ryu\15 forward medium kick\ryu_forward_medium_kick4.xnb
+Content\ryu\15 forward medium kick\ryu_forward_medium_kick5.xnb
+Content\ryu\16 forward high kick\ryu_forward_high_kick1.xnb
+Content\ryu\16 forward high kick\ryu_forward_high_kick2.xnb
+Content\ryu\16 forward high kick\ryu_forward_high_kick3.xnb
+Content\ryu\16 forward high kick\ryu_forward_high_kick4.xnb
+Content\ryu\16 forward high kick\ryu_forward_high_kick5.xnb
+Content\ryu\17 crouch low-medium punch\ryu_crouch_low_medium_punch1.xnb
+Content\ryu\17 crouch low-medium punch\ryu_crouch_low_medium_punch2.xnb
+Content\ryu\17 crouch low-medium punch\ryu_crouch_low_medium_punch3.xnb
+Content\ryu\19 crouch high punch\ryu_crouch_high_punch1.xnb
+Content\ryu\19 crouch high punch\ryu_crouch_high_punch2.xnb
+Content\ryu\19 crouch high punch\ryu_crouch_high_punch3.xnb
+Content\ryu\19 crouch high punch\ryu_crouch_high_punch4.xnb
+Content\ryu\19 crouch high punch\ryu_crouch_high_punch5.xnb
+Content\ryu\2 walking\ryu_walking1.xnb
+Content\ryu\2 walking\ryu_walking2.xnb
+Content\ryu\2 walking\ryu_walking3.xnb
+Content\ryu\2 walking\ryu_walking4.xnb
+Content\ryu\2 walking\ryu_walking5.xnb
+Content\ryu\20 crouch low kick\ryu_crouch_low_kick1.xnb
+Content\ryu\20 crouch low kick\ryu_crouch_low_kick2.xnb
+Content\ryu\20 crouch low kick\ryu_crouch_low_kick3.xnb
+Content\ryu\21 crouch medium kick\ryu_crouch_medium_kick1.xnb
+Content\ryu\21 crouch medium kick\ryu_crouch_medium_kick2.xnb
+Content\ryu\21 crouch medium kick\ryu_crouch_medium_kick3.xnb
+Content\ryu\22 crouch high kick\ryu_crouch_high_kick1.xnb
+Content\ryu\22 crouch high kick\ryu_crouch_high_kick2.xnb
+Content\ryu\22 crouch high kick\ryu_crouch_high_kick3.xnb
+Content\ryu\22 crouch high kick\ryu_crouch_high_kick4.xnb
+Content\ryu\22 crouch high kick\ryu_crouch_high_kick5.xnb
+Content\ryu\28 hadouken\hadouken_projectile1.xnb
+Content\ryu\28 hadouken\hadouken_projectile2.xnb
+Content\ryu\28 hadouken\hadouken_projectile3.xnb
+Content\ryu\28 hadouken\hadouken_projectile4.xnb
+Content\ryu\28 hadouken\hadouken_projectile5.xnb
+Content\ryu\28 hadouken\hadouken_projectile6.xnb
+Content\ryu\28 hadouken\ryu_hadouken1.xnb
+Content\ryu\28 hadouken\ryu_hadouken2.xnb
+Content\ryu\28 hadouken\ryu_hadouken3.xnb
+Content\ryu\28 hadouken\ryu_hadouken4.xnb
+Content\ryu\29 tatsumaki\ryu_tatsumaki1.xnb
+Content\ryu\29 tatsumaki\ryu_tatsumaki10.xnb
+Content\ryu\29 tatsumaki\ryu_tatsumaki11.xnb
+Content\ryu\29 tatsumaki\ryu_tatsumaki12.xnb
+Content\ryu\29 tatsumaki\ryu_tatsumaki2.xnb
+Content\ryu\29 tatsumaki\ryu_tatsumaki3.xnb
+Content\ryu\29 tatsumaki\ryu_tatsumaki4.xnb
+Content\ryu\29 tatsumaki\ryu_tatsumaki5.xnb
+Content\ryu\29 tatsumaki\ryu_tatsumaki6.xnb
+Content\ryu\29 tatsumaki\ryu_tatsumaki7.xnb
+Content\ryu\29 tatsumaki\ryu_tatsumaki8.xnb
+Content\ryu\29 tatsumaki\ryu_tatsumaki9.xnb
+Content\ryu\3 jumping\ryu_jumping1.xnb
+Content\ryu\3 jumping\ryu_jumping2.xnb
+Content\ryu\3 jumping\ryu_jumping3.xnb
+Content\ryu\3 jumping\ryu_jumping4.xnb
+Content\ryu\3 jumping\ryu_jumping5.xnb
+Content\ryu\3 jumping\ryu_jumping6.xnb
+Content\ryu\3 jumping\ryu_jumping7.xnb
+Content\ryu\30 shoryuken\ryu_shoryuken1.xnb
+Content\ryu\30 shoryuken\ryu_shoryuken2.xnb
+Content\ryu\30 shoryuken\ryu_shoryuken3.xnb
+Content\ryu\30 shoryuken\ryu_shoryuken4.xnb
+Content\ryu\30 shoryuken\ryu_shoryuken5.xnb
+Content\ryu\30 shoryuken\ryu_shoryuken6.xnb
+Content\ryu\30 shoryuken\ryu_shoryuken7.xnb
+Content\ryu\31 hit\ryu_hit1.xnb
+Content\ryu\31 hit\ryu_hit2.xnb
+Content\ryu\31 hit\ryu_hit3.xnb
+Content\ryu\31 hit\ryu_hit4.xnb
+Content\ryu\32 face hit\ryu_face_hit1.xnb
+Content\ryu\32 face hit\ryu_face_hit2.xnb
+Content\ryu\32 face hit\ryu_face_hit3.xnb
+Content\ryu\32 face hit\ryu_face_hit4.xnb
+Content\ryu\33 crouch hit\ryu_crouch_hit.xnb
+Content\ryu\34 knockdown and recover\ryu_knockdown1.xnb
+Content\ryu\34 knockdown and recover\ryu_knockdown2.xnb
+Content\ryu\34 knockdown and recover\ryu_knockdown3.xnb
+Content\ryu\34 knockdown and recover\ryu_knockdown4.xnb
+Content\ryu\34 knockdown and recover\ryu_knockdown5.xnb
+Content\ryu\34 knockdown and recover\ryu_knockdown6.xnb
+Content\ryu\34 knockdown and recover\ryu_knockdown7.xnb
+Content\ryu\34 knockdown and recover\ryu_knockdown8.xnb
+Content\ryu\34 knockdown and recover\ryu_knockdown9.xnb
+Content\ryu\35 knockout\ryu_knockout1.xnb
+Content\ryu\35 knockout\ryu_knockout2.xnb
+Content\ryu\35 knockout\ryu_knockout3.xnb
+Content\ryu\35 knockout\ryu_knockout4.xnb
+Content\ryu\35 knockout\ryu_knockout5.xnb
+Content\ryu\36 victory\ryu_victory1.xnb
+Content\ryu\36 victory\ryu_victory2.xnb
+Content\ryu\36 victory\ryu_victory3.xnb
+Content\ryu\4 crouch\ryu_crouch.xnb
+Content\ryu\5 block\ryu_block_crouching.xnb
+Content\ryu\5 block\ryu_block_standing.xnb
+Content\ryu\6 forward jump\ryu_forward_jump1.xnb
+Content\ryu\6 forward jump\ryu_forward_jump2.xnb
+Content\ryu\6 forward jump\ryu_forward_jump3.xnb
+Content\ryu\6 forward jump\ryu_forward_jump4.xnb
+Content\ryu\6 forward jump\ryu_forward_jump5.xnb
+Content\ryu\6 forward jump\ryu_forward_jump6.xnb
+Content\ryu\7 low punch\ryu_low_punch1.xnb
+Content\ryu\7 low punch\ryu_low_punch2.xnb
+Content\ryu\7 low punch\ryu_low_punch3.xnb
+Content\ryu\8 medium-high punch\ryu_medium_high_punch1.xnb
+Content\ryu\8 medium-high punch\ryu_medium_high_punch2.xnb
+Content\ryu\8 medium-high punch\ryu_medium_high_punch3.xnb
+Content\ryu\8 medium-high punch\ryu_medium_high_punch4.xnb
+Content\ryu\8 medium-high punch\ryu_medium_high_punch5.xnb
+Content\ryu\9 forward low punch\ryu_forward_low_punch1.xnb
+Content\ryu\9 forward low punch\ryu_forward_low_punch2.xnb
+Content\ryu\9 forward low punch\ryu_forward_low_punch3.xnb
+Content\ryu\ryu_position_template.xnb
+Content\attack_hitbox.xnb
+Content\health_bar_danger.xnb
+Content\health_bar_healthy.xnb
+Content\health_bar_warning.xnb
+Content\hitbox.xnb
+Content\ken\13 high kick\ken_high_kick1.xnb
+Content\ken\13 high kick\ken_high_kick2.xnb
+Content\ken\13 high kick\ken_high_kick3.xnb
+Content\ken\13 high kick\ken_high_kick4.xnb
+Content\ken\13 high kick\ken_high_kick5.xnb
+Content\xboxcontrols_attacks.xnb
+Content\xboxcontrols_dpad.xnb
+Content\street_fighter_background.xnb
+Content\globe.xnb
+Content\chun_li_background.xnb
+Content\ken_background.xnb
+Content\button_sounds\instruction_screen_ready.xnb
+Content\button_sounds\instruction_screen_start.xnb
+Content\button_sounds\title_screen_start.xnb
+Content\narrator_sounds\fight.xnb
+Content\narrator_sounds\you_win.xnb
+Content\character_sounds\ken_attack.xnb
+Content\character_sounds\ken_death.xnb
+Content\character_sounds\ken_hadouken.xnb
+Content\character_sounds\ken_shoryuken.xnb
+Content\character_sounds\ken_tatsumaki.xnb
+Content\character_sounds\ryu_attack.xnb
+Content\character_sounds\ryu_death.xnb
+Content\character_sounds\ryu_shoryuken.xnb
+Content\character_sounds\ryu_tatsumaki.xnb
+Content\hit_sounds\block.xnb
+Content\hit_sounds\hit_high.xnb
+Content\hit_sounds\hit_medium.xnb
+Content\hit_sounds\hit_small.xnb
+Content\character_sounds\ryu_hadouken.xnb
+Content\music\chunli_theme.xnb
+Content\music\chunli_theme.wma
+Content\music\instruction_screen_music.xnb
+Content\music\instruction_screen_music.wma
+Content\music\ken_theme.xnb
+Content\music\ken_theme.wma
+Content\music\ryu_theme.xnb
+Content\music\ryu_theme.wma
+Content\music\title_screen_music.xnb
+Content\music\title_screen_music.wma

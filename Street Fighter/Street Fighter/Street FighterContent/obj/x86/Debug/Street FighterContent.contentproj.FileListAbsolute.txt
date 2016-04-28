@@ -1,0 +1,5 @@
+H:\5th Period - Waltner\game\Street Fighter\Street Fighter\Street FighterContent\obj\x86\Debug\Street FighterContent.contentprojResolveAssemblyReference.cache
+C:\Users\Wilson\Documents\Visual Studio 2010\Projects\Street Fighter\Street Fighter\Street FighterContent\obj\x86\Debug\Street FighterContent.contentprojResolveAssemblyReference.cache
+F:\Street Fighter\Street Fighter\Street Fighter\Street FighterContent\obj\x86\Debug\Street FighterContent.contentprojResolveAssemblyReference.cache
+H:\5th Period - Waltner\Final_Project\Street Fighter\Street Fighter\Street FighterContent\obj\x86\Debug\Street FighterContent.contentprojResolveAssemblyReference.cache
+C:\Users\Wilson\Documents\Street Fighter\Street Fighter\Street Fighter\Street FighterContent\obj\x86\Debug\Street FighterContent.contentprojResolveAssemblyReference.cache

@@ -1,0 +1,1146 @@
+H:\5th Period - Waltner\game\streetfightertest\streetfightertest\streetfightertest\bin\x86\Debug\Content\ken_idle1.xnb
+H:\5th Period - Waltner\game\streetfightertest\streetfightertest\streetfightertest\bin\x86\Debug\Content\ken_idle2.xnb
+H:\5th Period - Waltner\game\streetfightertest\streetfightertest\streetfightertest\bin\x86\Debug\Content\ken_idle3.xnb
+H:\5th Period - Waltner\game\streetfightertest\streetfightertest\streetfightertest\bin\x86\Debug\Content\ken_idle4.xnb
+H:\5th Period - Waltner\game\streetfightertest\streetfightertest\streetfightertest\bin\x86\Debug\streetfightertest.exe
+H:\5th Period - Waltner\game\streetfightertest\streetfightertest\streetfightertest\bin\x86\Debug\streetfightertest.pdb
+H:\5th Period - Waltner\game\streetfightertest\streetfightertest\streetfightertest\obj\x86\Debug\streetfightertest.csprojResolveAssemblyReference.cache
+H:\5th Period - Waltner\game\streetfightertest\streetfightertest\streetfightertest\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+H:\5th Period - Waltner\game\streetfightertest\streetfightertest\streetfightertest\obj\x86\Debug\streetfightertest.exe
+H:\5th Period - Waltner\game\streetfightertest\streetfightertest\streetfightertest\obj\x86\Debug\streetfightertest.pdb
+H:\5th Period - Waltner\game\streetfightertest\streetfightertest\streetfightertest\bin\x86\Debug\Content\ken_walking1.xnb
+H:\5th Period - Waltner\game\streetfightertest\streetfightertest\streetfightertest\bin\x86\Debug\Content\ken_walking2.xnb
+H:\5th Period - Waltner\game\streetfightertest\streetfightertest\streetfightertest\bin\x86\Debug\Content\ken_walking3.xnb
+H:\5th Period - Waltner\game\streetfightertest\streetfightertest\streetfightertest\bin\x86\Debug\Content\ken_walking4.xnb
+H:\5th Period - Waltner\game\streetfightertest\streetfightertest\streetfightertest\bin\x86\Debug\Content\ken_walking5.xnb
+H:\5th Period - Waltner\game\streetfightertest\streetfightertest\streetfightertest\bin\x86\Debug\Content\ken_jumping1.xnb
+H:\5th Period - Waltner\game\streetfightertest\streetfightertest\streetfightertest\bin\x86\Debug\Content\ken_jumping2.xnb
+H:\5th Period - Waltner\game\streetfightertest\streetfightertest\streetfightertest\bin\x86\Debug\Content\ken_jumping3.xnb
+H:\5th Period - Waltner\game\streetfightertest\streetfightertest\streetfightertest\bin\x86\Debug\Content\ken_jumping4.xnb
+H:\5th Period - Waltner\game\streetfightertest\streetfightertest\streetfightertest\bin\x86\Debug\Content\ken_jumping5.xnb
+H:\5th Period - Waltner\game\streetfightertest\streetfightertest\streetfightertest\bin\x86\Debug\Content\ken_jumping6.xnb
+H:\5th Period - Waltner\game\streetfightertest\streetfightertest\streetfightertest\bin\x86\Debug\Content\ken_jumping7.xnb
+H:\5th Period - Waltner\game\streetfightertest\streetfightertest\streetfightertest\bin\x86\Debug\Content\ken_crouch.xnb
+H:\5th Period - Waltner\game\streetfightertest\streetfightertest\streetfightertest\bin\x86\Debug\Content\ken_forwardjump1.xnb
+H:\5th Period - Waltner\game\streetfightertest\streetfightertest\streetfightertest\bin\x86\Debug\Content\ken_forwardjump2.xnb
+H:\5th Period - Waltner\game\streetfightertest\streetfightertest\streetfightertest\bin\x86\Debug\Content\ken_forwardjump3.xnb
+H:\5th Period - Waltner\game\streetfightertest\streetfightertest\streetfightertest\bin\x86\Debug\Content\ken_forwardjump4.xnb
+H:\5th Period - Waltner\game\streetfightertest\streetfightertest\streetfightertest\bin\x86\Debug\Content\ken_forwardjump5.xnb
+H:\5th Period - Waltner\game\streetfightertest\streetfightertest\streetfightertest\bin\x86\Debug\Content\ken_forwardjump6.xnb
+H:\5th Period - Waltner\game\streetfightertest\streetfightertest\streetfightertest\bin\x86\Debug\Content\ken_low_punch1.xnb
+H:\5th Period - Waltner\game\streetfightertest\streetfightertest\streetfightertest\bin\x86\Debug\Content\ken_low_punch2.xnb
+H:\5th Period - Waltner\game\streetfightertest\streetfightertest\streetfightertest\bin\x86\Debug\Content\ken_low_punch3.xnb
+H:\5th Period - Waltner\game\streetfightertest\streetfightertest\streetfightertest\bin\x86\Debug\Content\ken_medium_high_punch1.xnb
+H:\5th Period - Waltner\game\streetfightertest\streetfightertest\streetfightertest\bin\x86\Debug\Content\ken_medium_high_punch2.xnb
+H:\5th Period - Waltner\game\streetfightertest\streetfightertest\streetfightertest\bin\x86\Debug\Content\ken_medium_high_punch3.xnb
+H:\5th Period - Waltner\game\streetfightertest\streetfightertest\streetfightertest\bin\x86\Debug\Content\ken_medium_high_punch4.xnb
+H:\5th Period - Waltner\game\streetfightertest\streetfightertest\streetfightertest\bin\x86\Debug\Content\ken_medium_high_punch5.xnb
+H:\5th Period - Waltner\game\streetfightertest\streetfightertest\streetfightertest\bin\x86\Debug\Content\ken_crouch_low_medium_punch1.xnb
+H:\5th Period - Waltner\game\streetfightertest\streetfightertest\streetfightertest\bin\x86\Debug\Content\ken_crouch_low_medium_punch2.xnb
+H:\5th Period - Waltner\game\streetfightertest\streetfightertest\streetfightertest\bin\x86\Debug\Content\ken_crouch_low_medium_punch3.xnb
+H:\5th Period - Waltner\game\streetfightertest\streetfightertest\streetfightertest\bin\x86\Debug\Content\ken_crouch_high_punch1.xnb
+H:\5th Period - Waltner\game\streetfightertest\streetfightertest\streetfightertest\bin\x86\Debug\Content\ken_crouch_high_punch2.xnb
+H:\5th Period - Waltner\game\streetfightertest\streetfightertest\streetfightertest\bin\x86\Debug\Content\ken_crouch_high_punch3.xnb
+H:\5th Period - Waltner\game\streetfightertest\streetfightertest\streetfightertest\bin\x86\Debug\Content\ken_crouch_high_punch4.xnb
+H:\5th Period - Waltner\game\streetfightertest\streetfightertest\streetfightertest\bin\x86\Debug\Content\ken_crouch_high_punch5.xnb
+H:\5th Period - Waltner\game\streetfightertest\streetfightertest\streetfightertest\bin\x86\Debug\Content\ken_low_medium_kick1.xnb
+H:\5th Period - Waltner\game\streetfightertest\streetfightertest\streetfightertest\bin\x86\Debug\Content\ken_low_medium_kick2.xnb
+H:\5th Period - Waltner\game\streetfightertest\streetfightertest\streetfightertest\bin\x86\Debug\Content\ken_low_medium_kick3.xnb
+H:\5th Period - Waltner\game\streetfightertest\streetfightertest\streetfightertest\bin\x86\Debug\Content\ken_high_kick1.xnb
+H:\5th Period - Waltner\game\streetfightertest\streetfightertest\streetfightertest\bin\x86\Debug\Content\ken_high_kick2.xnb
+H:\5th Period - Waltner\game\streetfightertest\streetfightertest\streetfightertest\bin\x86\Debug\Content\ken_high_kick3.xnb
+H:\5th Period - Waltner\game\streetfightertest\streetfightertest\streetfightertest\bin\x86\Debug\Content\ken_high_kick4.xnb
+H:\5th Period - Waltner\game\streetfightertest\streetfightertest\streetfightertest\bin\x86\Debug\Content\ken_high_kick5.xnb
+H:\5th Period - Waltner\game\streetfightertest\streetfightertest\streetfightertest\bin\x86\Debug\Content\ken_crouch_low_kick1.xnb
+H:\5th Period - Waltner\game\streetfightertest\streetfightertest\streetfightertest\bin\x86\Debug\Content\ken_crouch_low_kick2.xnb
+H:\5th Period - Waltner\game\streetfightertest\streetfightertest\streetfightertest\bin\x86\Debug\Content\ken_crouch_low_kick3.xnb
+H:\5th Period - Waltner\game\streetfightertest\streetfightertest\streetfightertest\bin\x86\Debug\Content\ken_crouch_medium_kick1.xnb
+H:\5th Period - Waltner\game\streetfightertest\streetfightertest\streetfightertest\bin\x86\Debug\Content\ken_crouch_medium_kick2.xnb
+H:\5th Period - Waltner\game\streetfightertest\streetfightertest\streetfightertest\bin\x86\Debug\Content\ken_crouch_medium_kick3.xnb
+H:\5th Period - Waltner\game\streetfightertest\streetfightertest\streetfightertest\bin\x86\Debug\Content\ken_crouch_high_kick1.xnb
+H:\5th Period - Waltner\game\streetfightertest\streetfightertest\streetfightertest\bin\x86\Debug\Content\ken_crouch_high_kick2.xnb
+H:\5th Period - Waltner\game\streetfightertest\streetfightertest\streetfightertest\bin\x86\Debug\Content\ken_crouch_high_kick3.xnb
+H:\5th Period - Waltner\game\streetfightertest\streetfightertest\streetfightertest\bin\x86\Debug\Content\ken_crouch_high_kick4.xnb
+H:\5th Period - Waltner\game\streetfightertest\streetfightertest\streetfightertest\bin\x86\Debug\Content\ken_crouch_high_kick5.xnb
+H:\5th Period - Waltner\game\streetfightertest\streetfightertest\streetfightertest\bin\x86\Debug\Content\ken_tatsumaki1.xnb
+H:\5th Period - Waltner\game\streetfightertest\streetfightertest\streetfightertest\bin\x86\Debug\Content\ken_tatsumaki2.xnb
+H:\5th Period - Waltner\game\streetfightertest\streetfightertest\streetfightertest\bin\x86\Debug\Content\ken_tatsumaki3.xnb
+H:\5th Period - Waltner\game\streetfightertest\streetfightertest\streetfightertest\bin\x86\Debug\Content\ken_tatsumaki4.xnb
+H:\5th Period - Waltner\game\streetfightertest\streetfightertest\streetfightertest\bin\x86\Debug\Content\ken_tatsumaki5.xnb
+H:\5th Period - Waltner\game\streetfightertest\streetfightertest\streetfightertest\bin\x86\Debug\Content\ken_tatsumaki6.xnb
+H:\5th Period - Waltner\game\streetfightertest\streetfightertest\streetfightertest\bin\x86\Debug\Content\ken_tatsumaki7.xnb
+H:\5th Period - Waltner\game\streetfightertest\streetfightertest\streetfightertest\bin\x86\Debug\Content\ken_tatsumaki8.xnb
+H:\5th Period - Waltner\game\streetfightertest\streetfightertest\streetfightertest\bin\x86\Debug\Content\ken_tatsumaki9.xnb
+H:\5th Period - Waltner\game\streetfightertest\streetfightertest\streetfightertest\bin\x86\Debug\Content\ken_shoryuken1.xnb
+H:\5th Period - Waltner\game\streetfightertest\streetfightertest\streetfightertest\bin\x86\Debug\Content\ken_shoryuken2.xnb
+H:\5th Period - Waltner\game\streetfightertest\streetfightertest\streetfightertest\bin\x86\Debug\Content\ken_shoryuken3.xnb
+H:\5th Period - Waltner\game\streetfightertest\streetfightertest\streetfightertest\bin\x86\Debug\Content\ken_shoryuken4.xnb
+H:\5th Period - Waltner\game\streetfightertest\streetfightertest\streetfightertest\bin\x86\Debug\Content\ken_shoryuken5.xnb
+H:\5th Period - Waltner\game\streetfightertest\streetfightertest\streetfightertest\bin\x86\Debug\Content\ken_shoryuken6.xnb
+H:\5th Period - Waltner\game\streetfightertest\streetfightertest\streetfightertest\bin\x86\Debug\Content\ken_shoryuken7.xnb
+H:\5th Period - Waltner\game\streetfightertest\streetfightertest\streetfightertest\bin\x86\Debug\Content\ken_hadouken1.xnb
+H:\5th Period - Waltner\game\streetfightertest\streetfightertest\streetfightertest\bin\x86\Debug\Content\ken_hadouken2.xnb
+H:\5th Period - Waltner\game\streetfightertest\streetfightertest\streetfightertest\bin\x86\Debug\Content\ken_hadouken3.xnb
+H:\5th Period - Waltner\game\streetfightertest\streetfightertest\streetfightertest\bin\x86\Debug\Content\ken_hadouken4.xnb
+H:\5th Period - Waltner\game\streetfightertest\streetfightertest\streetfightertest\bin\x86\Debug\Content\ken_projectile_hadouken1.xnb
+H:\5th Period - Waltner\game\streetfightertest\streetfightertest\streetfightertest\bin\x86\Debug\Content\ken_projectile_hadouken2.xnb
+H:\5th Period - Waltner\game\streetfightertest\streetfightertest\streetfightertest\bin\x86\Debug\Content\ken_projectile_hadouken3.xnb
+H:\5th Period - Waltner\game\streetfightertest\streetfightertest\streetfightertest\bin\x86\Debug\Content\ken_projectile_hadouken4.xnb
+H:\5th Period - Waltner\game\streetfightertest\streetfightertest\streetfightertest\bin\x86\Debug\Content\ken_projectile_hadouken5.xnb
+H:\5th Period - Waltner\game\streetfightertest\streetfightertest\streetfightertest\bin\x86\Debug\Content\ken_projectile_hadouken6.xnb
+E:\Street Fighter\streetfightertest\streetfightertest\streetfightertest\bin\x86\Debug\Content\ken_crouch.xnb
+E:\Street Fighter\streetfightertest\streetfightertest\streetfightertest\bin\x86\Debug\Content\ken_idle1.xnb
+E:\Street Fighter\streetfightertest\streetfightertest\streetfightertest\bin\x86\Debug\Content\ken_idle2.xnb
+E:\Street Fighter\streetfightertest\streetfightertest\streetfightertest\bin\x86\Debug\Content\ken_idle3.xnb
+E:\Street Fighter\streetfightertest\streetfightertest\streetfightertest\bin\x86\Debug\Content\ken_idle4.xnb
+E:\Street Fighter\streetfightertest\streetfightertest\streetfightertest\bin\x86\Debug\Content\ken_walking1.xnb
+E:\Street Fighter\streetfightertest\streetfightertest\streetfightertest\bin\x86\Debug\Content\ken_walking2.xnb
+E:\Street Fighter\streetfightertest\streetfightertest\streetfightertest\bin\x86\Debug\Content\ken_walking3.xnb
+E:\Street Fighter\streetfightertest\streetfightertest\streetfightertest\bin\x86\Debug\Content\ken_walking4.xnb
+E:\Street Fighter\streetfightertest\streetfightertest\streetfightertest\bin\x86\Debug\Content\ken_walking5.xnb
+E:\Street Fighter\streetfightertest\streetfightertest\streetfightertest\bin\x86\Debug\Content\ken_jumping1.xnb
+E:\Street Fighter\streetfightertest\streetfightertest\streetfightertest\bin\x86\Debug\Content\ken_jumping2.xnb
+E:\Street Fighter\streetfightertest\streetfightertest\streetfightertest\bin\x86\Debug\Content\ken_jumping3.xnb
+E:\Street Fighter\streetfightertest\streetfightertest\streetfightertest\bin\x86\Debug\Content\ken_jumping4.xnb
+E:\Street Fighter\streetfightertest\streetfightertest\streetfightertest\bin\x86\Debug\Content\ken_jumping5.xnb
+E:\Street Fighter\streetfightertest\streetfightertest\streetfightertest\bin\x86\Debug\Content\ken_jumping6.xnb
+E:\Street Fighter\streetfightertest\streetfightertest\streetfightertest\bin\x86\Debug\Content\ken_jumping7.xnb
+E:\Street Fighter\streetfightertest\streetfightertest\streetfightertest\bin\x86\Debug\Content\ken_forwardjump1.xnb
+E:\Street Fighter\streetfightertest\streetfightertest\streetfightertest\bin\x86\Debug\Content\ken_forwardjump2.xnb
+E:\Street Fighter\streetfightertest\streetfightertest\streetfightertest\bin\x86\Debug\Content\ken_forwardjump3.xnb
+E:\Street Fighter\streetfightertest\streetfightertest\streetfightertest\bin\x86\Debug\Content\ken_forwardjump4.xnb
+E:\Street Fighter\streetfightertest\streetfightertest\streetfightertest\bin\x86\Debug\Content\ken_forwardjump5.xnb
+E:\Street Fighter\streetfightertest\streetfightertest\streetfightertest\bin\x86\Debug\Content\ken_forwardjump6.xnb
+E:\Street Fighter\streetfightertest\streetfightertest\streetfightertest\bin\x86\Debug\Content\ken_low_punch1.xnb
+E:\Street Fighter\streetfightertest\streetfightertest\streetfightertest\bin\x86\Debug\Content\ken_low_punch2.xnb
+E:\Street Fighter\streetfightertest\streetfightertest\streetfightertest\bin\x86\Debug\Content\ken_low_punch3.xnb
+E:\Street Fighter\streetfightertest\streetfightertest\streetfightertest\bin\x86\Debug\Content\ken_medium_high_punch1.xnb
+E:\Street Fighter\streetfightertest\streetfightertest\streetfightertest\bin\x86\Debug\Content\ken_medium_high_punch2.xnb
+E:\Street Fighter\streetfightertest\streetfightertest\streetfightertest\bin\x86\Debug\Content\ken_medium_high_punch3.xnb
+E:\Street Fighter\streetfightertest\streetfightertest\streetfightertest\bin\x86\Debug\Content\ken_medium_high_punch4.xnb
+E:\Street Fighter\streetfightertest\streetfightertest\streetfightertest\bin\x86\Debug\Content\ken_medium_high_punch5.xnb
+E:\Street Fighter\streetfightertest\streetfightertest\streetfightertest\bin\x86\Debug\Content\ken_crouch_low_medium_punch1.xnb
+E:\Street Fighter\streetfightertest\streetfightertest\streetfightertest\bin\x86\Debug\Content\ken_crouch_low_medium_punch2.xnb
+E:\Street Fighter\streetfightertest\streetfightertest\streetfightertest\bin\x86\Debug\Content\ken_crouch_low_medium_punch3.xnb
+E:\Street Fighter\streetfightertest\streetfightertest\streetfightertest\bin\x86\Debug\Content\ken_crouch_high_punch1.xnb
+E:\Street Fighter\streetfightertest\streetfightertest\streetfightertest\bin\x86\Debug\Content\ken_crouch_high_punch2.xnb
+E:\Street Fighter\streetfightertest\streetfightertest\streetfightertest\bin\x86\Debug\Content\ken_crouch_high_punch3.xnb
+E:\Street Fighter\streetfightertest\streetfightertest\streetfightertest\bin\x86\Debug\Content\ken_crouch_high_punch4.xnb
+E:\Street Fighter\streetfightertest\streetfightertest\streetfightertest\bin\x86\Debug\Content\ken_crouch_high_punch5.xnb
+E:\Street Fighter\streetfightertest\streetfightertest\streetfightertest\bin\x86\Debug\Content\ken_low_medium_kick1.xnb
+E:\Street Fighter\streetfightertest\streetfightertest\streetfightertest\bin\x86\Debug\Content\ken_low_medium_kick2.xnb
+E:\Street Fighter\streetfightertest\streetfightertest\streetfightertest\bin\x86\Debug\Content\ken_low_medium_kick3.xnb
+E:\Street Fighter\streetfightertest\streetfightertest\streetfightertest\bin\x86\Debug\Content\ken_high_kick1.xnb
+E:\Street Fighter\streetfightertest\streetfightertest\streetfightertest\bin\x86\Debug\Content\ken_high_kick2.xnb
+E:\Street Fighter\streetfightertest\streetfightertest\streetfightertest\bin\x86\Debug\Content\ken_high_kick3.xnb
+E:\Street Fighter\streetfightertest\streetfightertest\streetfightertest\bin\x86\Debug\Content\ken_high_kick4.xnb
+E:\Street Fighter\streetfightertest\streetfightertest\streetfightertest\bin\x86\Debug\Content\ken_high_kick5.xnb
+E:\Street Fighter\streetfightertest\streetfightertest\streetfightertest\bin\x86\Debug\Content\ken_crouch_low_kick1.xnb
+E:\Street Fighter\streetfightertest\streetfightertest\streetfightertest\bin\x86\Debug\Content\ken_crouch_low_kick2.xnb
+E:\Street Fighter\streetfightertest\streetfightertest\streetfightertest\bin\x86\Debug\Content\ken_crouch_low_kick3.xnb
+E:\Street Fighter\streetfightertest\streetfightertest\streetfightertest\bin\x86\Debug\Content\ken_crouch_medium_kick1.xnb
+E:\Street Fighter\streetfightertest\streetfightertest\streetfightertest\bin\x86\Debug\Content\ken_crouch_medium_kick2.xnb
+E:\Street Fighter\streetfightertest\streetfightertest\streetfightertest\bin\x86\Debug\Content\ken_crouch_medium_kick3.xnb
+E:\Street Fighter\streetfightertest\streetfightertest\streetfightertest\bin\x86\Debug\Content\ken_crouch_high_kick1.xnb
+E:\Street Fighter\streetfightertest\streetfightertest\streetfightertest\bin\x86\Debug\Content\ken_crouch_high_kick2.xnb
+E:\Street Fighter\streetfightertest\streetfightertest\streetfightertest\bin\x86\Debug\Content\ken_crouch_high_kick3.xnb
+E:\Street Fighter\streetfightertest\streetfightertest\streetfightertest\bin\x86\Debug\Content\ken_crouch_high_kick4.xnb
+E:\Street Fighter\streetfightertest\streetfightertest\streetfightertest\bin\x86\Debug\Content\ken_crouch_high_kick5.xnb
+E:\Street Fighter\streetfightertest\streetfightertest\streetfightertest\bin\x86\Debug\Content\ken_tatsumaki1.xnb
+E:\Street Fighter\streetfightertest\streetfightertest\streetfightertest\bin\x86\Debug\Content\ken_tatsumaki2.xnb
+E:\Street Fighter\streetfightertest\streetfightertest\streetfightertest\bin\x86\Debug\Content\ken_tatsumaki3.xnb
+E:\Street Fighter\streetfightertest\streetfightertest\streetfightertest\bin\x86\Debug\Content\ken_tatsumaki4.xnb
+E:\Street Fighter\streetfightertest\streetfightertest\streetfightertest\bin\x86\Debug\Content\ken_tatsumaki5.xnb
+E:\Street Fighter\streetfightertest\streetfightertest\streetfightertest\bin\x86\Debug\Content\ken_tatsumaki6.xnb
+E:\Street Fighter\streetfightertest\streetfightertest\streetfightertest\bin\x86\Debug\Content\ken_tatsumaki7.xnb
+E:\Street Fighter\streetfightertest\streetfightertest\streetfightertest\bin\x86\Debug\Content\ken_tatsumaki8.xnb
+E:\Street Fighter\streetfightertest\streetfightertest\streetfightertest\bin\x86\Debug\Content\ken_tatsumaki9.xnb
+E:\Street Fighter\streetfightertest\streetfightertest\streetfightertest\bin\x86\Debug\Content\ken_shoryuken1.xnb
+E:\Street Fighter\streetfightertest\streetfightertest\streetfightertest\bin\x86\Debug\Content\ken_shoryuken2.xnb
+E:\Street Fighter\streetfightertest\streetfightertest\streetfightertest\bin\x86\Debug\Content\ken_shoryuken3.xnb
+E:\Street Fighter\streetfightertest\streetfightertest\streetfightertest\bin\x86\Debug\Content\ken_shoryuken4.xnb
+E:\Street Fighter\streetfightertest\streetfightertest\streetfightertest\bin\x86\Debug\Content\ken_shoryuken5.xnb
+E:\Street Fighter\streetfightertest\streetfightertest\streetfightertest\bin\x86\Debug\Content\ken_shoryuken6.xnb
+E:\Street Fighter\streetfightertest\streetfightertest\streetfightertest\bin\x86\Debug\Content\ken_shoryuken7.xnb
+E:\Street Fighter\streetfightertest\streetfightertest\streetfightertest\bin\x86\Debug\Content\ken_hadouken1.xnb
+E:\Street Fighter\streetfightertest\streetfightertest\streetfightertest\bin\x86\Debug\Content\ken_hadouken2.xnb
+E:\Street Fighter\streetfightertest\streetfightertest\streetfightertest\bin\x86\Debug\Content\ken_hadouken3.xnb
+E:\Street Fighter\streetfightertest\streetfightertest\streetfightertest\bin\x86\Debug\Content\ken_hadouken4.xnb
+E:\Street Fighter\streetfightertest\streetfightertest\streetfightertest\bin\x86\Debug\Content\ken_projectile_hadouken1.xnb
+E:\Street Fighter\streetfightertest\streetfightertest\streetfightertest\bin\x86\Debug\Content\ken_projectile_hadouken2.xnb
+E:\Street Fighter\streetfightertest\streetfightertest\streetfightertest\bin\x86\Debug\Content\ken_projectile_hadouken3.xnb
+E:\Street Fighter\streetfightertest\streetfightertest\streetfightertest\bin\x86\Debug\Content\ken_projectile_hadouken4.xnb
+E:\Street Fighter\streetfightertest\streetfightertest\streetfightertest\bin\x86\Debug\Content\ken_projectile_hadouken5.xnb
+E:\Street Fighter\streetfightertest\streetfightertest\streetfightertest\bin\x86\Debug\Content\ken_projectile_hadouken6.xnb
+E:\Street Fighter\streetfightertest\streetfightertest\streetfightertest\bin\x86\Debug\streetfightertest.exe
+E:\Street Fighter\streetfightertest\streetfightertest\streetfightertest\bin\x86\Debug\streetfightertest.pdb
+E:\Street Fighter\streetfightertest\streetfightertest\streetfightertest\obj\x86\Debug\streetfightertest.csprojResolveAssemblyReference.cache
+E:\Street Fighter\streetfightertest\streetfightertest\streetfightertest\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+E:\Street Fighter\streetfightertest\streetfightertest\streetfightertest\obj\x86\Debug\streetfightertest.exe
+E:\Street Fighter\streetfightertest\streetfightertest\streetfightertest\obj\x86\Debug\streetfightertest.pdb
+E:\Street Fighter\streetfightertest\streetfightertest\streetfightertest\bin\x86\Debug\Content\ken_tatsumaki10.xnb
+E:\Street Fighter\streetfightertest\streetfightertest\streetfightertest\bin\x86\Debug\Content\ken_tatsumaki11.xnb
+E:\Street Fighter\streetfightertest\streetfightertest\streetfightertest\bin\x86\Debug\Content\ken_tatsumaki12.xnb
+E:\Street Fighter\streetfightertest\streetfightertest\streetfightertest\bin\x86\Debug\Content\ken_tatsumaki13.xnb
+E:\Street Fighter\streetfightertest\streetfightertest\streetfightertest\bin\x86\Debug\Content\ken_forward_low_punch1.xnb
+E:\Street Fighter\streetfightertest\streetfightertest\streetfightertest\bin\x86\Debug\Content\ken_forward_low_punch2.xnb
+E:\Street Fighter\streetfightertest\streetfightertest\streetfightertest\bin\x86\Debug\Content\ken_forward_low_punch3.xnb
+E:\Street Fighter\streetfightertest\streetfightertest\streetfightertest\bin\x86\Debug\Content\ken_forward_medium_punch1.xnb
+E:\Street Fighter\streetfightertest\streetfightertest\streetfightertest\bin\x86\Debug\Content\ken_forward_medium_punch2.xnb
+E:\Street Fighter\streetfightertest\streetfightertest\streetfightertest\bin\x86\Debug\Content\ken_forward_medium_punch3.xnb
+E:\Street Fighter\streetfightertest\streetfightertest\streetfightertest\bin\x86\Debug\Content\ken_forward_medium_punch4.xnb
+E:\Street Fighter\streetfightertest\streetfightertest\streetfightertest\bin\x86\Debug\Content\ken_forward_medium_punch5.xnb
+E:\Street Fighter\streetfightertest\streetfightertest\streetfightertest\bin\x86\Debug\Content\ken_forward_medium_punch6.xnb
+E:\Street Fighter\streetfightertest\streetfightertest\streetfightertest\bin\x86\Debug\Content\ken_forward_medium_punch7.xnb
+E:\Street Fighter\streetfightertest\streetfightertest\streetfightertest\bin\x86\Debug\Content\ken_forward_high_punch1.xnb
+E:\Street Fighter\streetfightertest\streetfightertest\streetfightertest\bin\x86\Debug\Content\ken_forward_high_punch2.xnb
+E:\Street Fighter\streetfightertest\streetfightertest\streetfightertest\bin\x86\Debug\Content\ken_forward_high_punch3.xnb
+E:\Street Fighter\streetfightertest\streetfightertest\streetfightertest\bin\x86\Debug\Content\ken_forward_high_punch4.xnb
+E:\Street Fighter\streetfightertest\streetfightertest\streetfightertest\bin\x86\Debug\Content\ken_forward_high_punch5.xnb
+E:\Street Fighter\streetfightertest\streetfightertest\streetfightertest\bin\x86\Debug\Content\ken_forward_low_kick1.xnb
+E:\Street Fighter\streetfightertest\streetfightertest\streetfightertest\bin\x86\Debug\Content\ken_forward_low_kick2.xnb
+E:\Street Fighter\streetfightertest\streetfightertest\streetfightertest\bin\x86\Debug\Content\ken_forward_low_kick3.xnb
+E:\Street Fighter\streetfightertest\streetfightertest\streetfightertest\bin\x86\Debug\Content\ken_forward_medium_kick1.xnb
+E:\Street Fighter\streetfightertest\streetfightertest\streetfightertest\bin\x86\Debug\Content\ken_forward_medium_kick2.xnb
+E:\Street Fighter\streetfightertest\streetfightertest\streetfightertest\bin\x86\Debug\Content\ken_forward_medium_kick3.xnb
+E:\Street Fighter\streetfightertest\streetfightertest\streetfightertest\bin\x86\Debug\Content\ken_forward_medium_kick4.xnb
+E:\Street Fighter\streetfightertest\streetfightertest\streetfightertest\bin\x86\Debug\Content\ken_forward_medium_kick5.xnb
+E:\Street Fighter\streetfightertest\streetfightertest\streetfightertest\bin\x86\Debug\Content\ken_forward_high_kick1.xnb
+E:\Street Fighter\streetfightertest\streetfightertest\streetfightertest\bin\x86\Debug\Content\ken_forward_high_kick2.xnb
+E:\Street Fighter\streetfightertest\streetfightertest\streetfightertest\bin\x86\Debug\Content\ken_forward_high_kick3.xnb
+E:\Street Fighter\streetfightertest\streetfightertest\streetfightertest\bin\x86\Debug\Content\ken_forward_high_kick4.xnb
+E:\Street Fighter\streetfightertest\streetfightertest\streetfightertest\bin\x86\Debug\Content\ken_forward_high_kick5.xnb
+H:\5th Period - Waltner\Final_Project\streetfightertest\streetfightertest\streetfightertest\bin\x86\Debug\Content\ken_crouch.xnb
+H:\5th Period - Waltner\Final_Project\streetfightertest\streetfightertest\streetfightertest\bin\x86\Debug\Content\ken_idle1.xnb
+H:\5th Period - Waltner\Final_Project\streetfightertest\streetfightertest\streetfightertest\bin\x86\Debug\Content\ken_idle2.xnb
+H:\5th Period - Waltner\Final_Project\streetfightertest\streetfightertest\streetfightertest\bin\x86\Debug\Content\ken_idle3.xnb
+H:\5th Period - Waltner\Final_Project\streetfightertest\streetfightertest\streetfightertest\bin\x86\Debug\Content\ken_idle4.xnb
+H:\5th Period - Waltner\Final_Project\streetfightertest\streetfightertest\streetfightertest\bin\x86\Debug\Content\ken_walking1.xnb
+H:\5th Period - Waltner\Final_Project\streetfightertest\streetfightertest\streetfightertest\bin\x86\Debug\Content\ken_walking2.xnb
+H:\5th Period - Waltner\Final_Project\streetfightertest\streetfightertest\streetfightertest\bin\x86\Debug\Content\ken_walking3.xnb
+H:\5th Period - Waltner\Final_Project\streetfightertest\streetfightertest\streetfightertest\bin\x86\Debug\Content\ken_walking4.xnb
+H:\5th Period - Waltner\Final_Project\streetfightertest\streetfightertest\streetfightertest\bin\x86\Debug\Content\ken_walking5.xnb
+H:\5th Period - Waltner\Final_Project\streetfightertest\streetfightertest\streetfightertest\bin\x86\Debug\Content\ken_jumping1.xnb
+H:\5th Period - Waltner\Final_Project\streetfightertest\streetfightertest\streetfightertest\bin\x86\Debug\Content\ken_jumping2.xnb
+H:\5th Period - Waltner\Final_Project\streetfightertest\streetfightertest\streetfightertest\bin\x86\Debug\Content\ken_jumping3.xnb
+H:\5th Period - Waltner\Final_Project\streetfightertest\streetfightertest\streetfightertest\bin\x86\Debug\Content\ken_jumping4.xnb
+H:\5th Period - Waltner\Final_Project\streetfightertest\streetfightertest\streetfightertest\bin\x86\Debug\Content\ken_jumping5.xnb
+H:\5th Period - Waltner\Final_Project\streetfightertest\streetfightertest\streetfightertest\bin\x86\Debug\Content\ken_jumping6.xnb
+H:\5th Period - Waltner\Final_Project\streetfightertest\streetfightertest\streetfightertest\bin\x86\Debug\Content\ken_jumping7.xnb
+H:\5th Period - Waltner\Final_Project\streetfightertest\streetfightertest\streetfightertest\bin\x86\Debug\Content\ken_forwardjump1.xnb
+H:\5th Period - Waltner\Final_Project\streetfightertest\streetfightertest\streetfightertest\bin\x86\Debug\Content\ken_forwardjump2.xnb
+H:\5th Period - Waltner\Final_Project\streetfightertest\streetfightertest\streetfightertest\bin\x86\Debug\Content\ken_forwardjump3.xnb
+H:\5th Period - Waltner\Final_Project\streetfightertest\streetfightertest\streetfightertest\bin\x86\Debug\Content\ken_forwardjump4.xnb
+H:\5th Period - Waltner\Final_Project\streetfightertest\streetfightertest\streetfightertest\bin\x86\Debug\Content\ken_forwardjump5.xnb
+H:\5th Period - Waltner\Final_Project\streetfightertest\streetfightertest\streetfightertest\bin\x86\Debug\Content\ken_forwardjump6.xnb
+H:\5th Period - Waltner\Final_Project\streetfightertest\streetfightertest\streetfightertest\bin\x86\Debug\Content\ken_low_punch1.xnb
+H:\5th Period - Waltner\Final_Project\streetfightertest\streetfightertest\streetfightertest\bin\x86\Debug\Content\ken_low_punch2.xnb
+H:\5th Period - Waltner\Final_Project\streetfightertest\streetfightertest\streetfightertest\bin\x86\Debug\Content\ken_low_punch3.xnb
+H:\5th Period - Waltner\Final_Project\streetfightertest\streetfightertest\streetfightertest\bin\x86\Debug\Content\ken_medium_high_punch1.xnb
+H:\5th Period - Waltner\Final_Project\streetfightertest\streetfightertest\streetfightertest\bin\x86\Debug\Content\ken_medium_high_punch2.xnb
+H:\5th Period - Waltner\Final_Project\streetfightertest\streetfightertest\streetfightertest\bin\x86\Debug\Content\ken_medium_high_punch3.xnb
+H:\5th Period - Waltner\Final_Project\streetfightertest\streetfightertest\streetfightertest\bin\x86\Debug\Content\ken_medium_high_punch4.xnb
+H:\5th Period - Waltner\Final_Project\streetfightertest\streetfightertest\streetfightertest\bin\x86\Debug\Content\ken_medium_high_punch5.xnb
+H:\5th Period - Waltner\Final_Project\streetfightertest\streetfightertest\streetfightertest\bin\x86\Debug\Content\ken_crouch_low_medium_punch1.xnb
+H:\5th Period - Waltner\Final_Project\streetfightertest\streetfightertest\streetfightertest\bin\x86\Debug\Content\ken_crouch_low_medium_punch2.xnb
+H:\5th Period - Waltner\Final_Project\streetfightertest\streetfightertest\streetfightertest\bin\x86\Debug\Content\ken_crouch_low_medium_punch3.xnb
+H:\5th Period - Waltner\Final_Project\streetfightertest\streetfightertest\streetfightertest\bin\x86\Debug\Content\ken_crouch_high_punch1.xnb
+H:\5th Period - Waltner\Final_Project\streetfightertest\streetfightertest\streetfightertest\bin\x86\Debug\Content\ken_crouch_high_punch2.xnb
+H:\5th Period - Waltner\Final_Project\streetfightertest\streetfightertest\streetfightertest\bin\x86\Debug\Content\ken_crouch_high_punch3.xnb
+H:\5th Period - Waltner\Final_Project\streetfightertest\streetfightertest\streetfightertest\bin\x86\Debug\Content\ken_crouch_high_punch4.xnb
+H:\5th Period - Waltner\Final_Project\streetfightertest\streetfightertest\streetfightertest\bin\x86\Debug\Content\ken_crouch_high_punch5.xnb
+H:\5th Period - Waltner\Final_Project\streetfightertest\streetfightertest\streetfightertest\bin\x86\Debug\Content\ken_low_medium_kick1.xnb
+H:\5th Period - Waltner\Final_Project\streetfightertest\streetfightertest\streetfightertest\bin\x86\Debug\Content\ken_low_medium_kick2.xnb
+H:\5th Period - Waltner\Final_Project\streetfightertest\streetfightertest\streetfightertest\bin\x86\Debug\Content\ken_low_medium_kick3.xnb
+H:\5th Period - Waltner\Final_Project\streetfightertest\streetfightertest\streetfightertest\bin\x86\Debug\Content\ken_high_kick1.xnb
+H:\5th Period - Waltner\Final_Project\streetfightertest\streetfightertest\streetfightertest\bin\x86\Debug\Content\ken_high_kick2.xnb
+H:\5th Period - Waltner\Final_Project\streetfightertest\streetfightertest\streetfightertest\bin\x86\Debug\Content\ken_high_kick3.xnb
+H:\5th Period - Waltner\Final_Project\streetfightertest\streetfightertest\streetfightertest\bin\x86\Debug\Content\ken_high_kick4.xnb
+H:\5th Period - Waltner\Final_Project\streetfightertest\streetfightertest\streetfightertest\bin\x86\Debug\Content\ken_high_kick5.xnb
+H:\5th Period - Waltner\Final_Project\streetfightertest\streetfightertest\streetfightertest\bin\x86\Debug\Content\ken_crouch_low_kick1.xnb
+H:\5th Period - Waltner\Final_Project\streetfightertest\streetfightertest\streetfightertest\bin\x86\Debug\Content\ken_crouch_low_kick2.xnb
+H:\5th Period - Waltner\Final_Project\streetfightertest\streetfightertest\streetfightertest\bin\x86\Debug\Content\ken_crouch_low_kick3.xnb
+H:\5th Period - Waltner\Final_Project\streetfightertest\streetfightertest\streetfightertest\bin\x86\Debug\Content\ken_crouch_medium_kick1.xnb
+H:\5th Period - Waltner\Final_Project\streetfightertest\streetfightertest\streetfightertest\bin\x86\Debug\Content\ken_crouch_medium_kick2.xnb
+H:\5th Period - Waltner\Final_Project\streetfightertest\streetfightertest\streetfightertest\bin\x86\Debug\Content\ken_crouch_medium_kick3.xnb
+H:\5th Period - Waltner\Final_Project\streetfightertest\streetfightertest\streetfightertest\bin\x86\Debug\Content\ken_crouch_high_kick1.xnb
+H:\5th Period - Waltner\Final_Project\streetfightertest\streetfightertest\streetfightertest\bin\x86\Debug\Content\ken_crouch_high_kick2.xnb
+H:\5th Period - Waltner\Final_Project\streetfightertest\streetfightertest\streetfightertest\bin\x86\Debug\Content\ken_crouch_high_kick3.xnb
+H:\5th Period - Waltner\Final_Project\streetfightertest\streetfightertest\streetfightertest\bin\x86\Debug\Content\ken_crouch_high_kick4.xnb
+H:\5th Period - Waltner\Final_Project\streetfightertest\streetfightertest\streetfightertest\bin\x86\Debug\Content\ken_crouch_high_kick5.xnb
+H:\5th Period - Waltner\Final_Project\streetfightertest\streetfightertest\streetfightertest\bin\x86\Debug\Content\ken_shoryuken1.xnb
+H:\5th Period - Waltner\Final_Project\streetfightertest\streetfightertest\streetfightertest\bin\x86\Debug\Content\ken_shoryuken2.xnb
+H:\5th Period - Waltner\Final_Project\streetfightertest\streetfightertest\streetfightertest\bin\x86\Debug\Content\ken_shoryuken3.xnb
+H:\5th Period - Waltner\Final_Project\streetfightertest\streetfightertest\streetfightertest\bin\x86\Debug\Content\ken_shoryuken4.xnb
+H:\5th Period - Waltner\Final_Project\streetfightertest\streetfightertest\streetfightertest\bin\x86\Debug\Content\ken_shoryuken5.xnb
+H:\5th Period - Waltner\Final_Project\streetfightertest\streetfightertest\streetfightertest\bin\x86\Debug\Content\ken_shoryuken6.xnb
+H:\5th Period - Waltner\Final_Project\streetfightertest\streetfightertest\streetfightertest\bin\x86\Debug\Content\ken_shoryuken7.xnb
+H:\5th Period - Waltner\Final_Project\streetfightertest\streetfightertest\streetfightertest\bin\x86\Debug\Content\ken_hadouken1.xnb
+H:\5th Period - Waltner\Final_Project\streetfightertest\streetfightertest\streetfightertest\bin\x86\Debug\Content\ken_hadouken2.xnb
+H:\5th Period - Waltner\Final_Project\streetfightertest\streetfightertest\streetfightertest\bin\x86\Debug\Content\ken_hadouken3.xnb
+H:\5th Period - Waltner\Final_Project\streetfightertest\streetfightertest\streetfightertest\bin\x86\Debug\Content\ken_hadouken4.xnb
+H:\5th Period - Waltner\Final_Project\streetfightertest\streetfightertest\streetfightertest\bin\x86\Debug\Content\ken_projectile_hadouken1.xnb
+H:\5th Period - Waltner\Final_Project\streetfightertest\streetfightertest\streetfightertest\bin\x86\Debug\Content\ken_projectile_hadouken2.xnb
+H:\5th Period - Waltner\Final_Project\streetfightertest\streetfightertest\streetfightertest\bin\x86\Debug\Content\ken_projectile_hadouken3.xnb
+H:\5th Period - Waltner\Final_Project\streetfightertest\streetfightertest\streetfightertest\bin\x86\Debug\Content\ken_projectile_hadouken4.xnb
+H:\5th Period - Waltner\Final_Project\streetfightertest\streetfightertest\streetfightertest\bin\x86\Debug\Content\ken_projectile_hadouken5.xnb
+H:\5th Period - Waltner\Final_Project\streetfightertest\streetfightertest\streetfightertest\bin\x86\Debug\Content\ken_projectile_hadouken6.xnb
+H:\5th Period - Waltner\Final_Project\streetfightertest\streetfightertest\streetfightertest\bin\x86\Debug\Content\ken_tatsumaki1.xnb
+H:\5th Period - Waltner\Final_Project\streetfightertest\streetfightertest\streetfightertest\bin\x86\Debug\Content\ken_tatsumaki10.xnb
+H:\5th Period - Waltner\Final_Project\streetfightertest\streetfightertest\streetfightertest\bin\x86\Debug\Content\ken_tatsumaki11.xnb
+H:\5th Period - Waltner\Final_Project\streetfightertest\streetfightertest\streetfightertest\bin\x86\Debug\Content\ken_tatsumaki12.xnb
+H:\5th Period - Waltner\Final_Project\streetfightertest\streetfightertest\streetfightertest\bin\x86\Debug\Content\ken_tatsumaki13.xnb
+H:\5th Period - Waltner\Final_Project\streetfightertest\streetfightertest\streetfightertest\bin\x86\Debug\Content\ken_tatsumaki2.xnb
+H:\5th Period - Waltner\Final_Project\streetfightertest\streetfightertest\streetfightertest\bin\x86\Debug\Content\ken_tatsumaki3.xnb
+H:\5th Period - Waltner\Final_Project\streetfightertest\streetfightertest\streetfightertest\bin\x86\Debug\Content\ken_tatsumaki4.xnb
+H:\5th Period - Waltner\Final_Project\streetfightertest\streetfightertest\streetfightertest\bin\x86\Debug\Content\ken_tatsumaki5.xnb
+H:\5th Period - Waltner\Final_Project\streetfightertest\streetfightertest\streetfightertest\bin\x86\Debug\Content\ken_tatsumaki6.xnb
+H:\5th Period - Waltner\Final_Project\streetfightertest\streetfightertest\streetfightertest\bin\x86\Debug\Content\ken_tatsumaki7.xnb
+H:\5th Period - Waltner\Final_Project\streetfightertest\streetfightertest\streetfightertest\bin\x86\Debug\Content\ken_tatsumaki8.xnb
+H:\5th Period - Waltner\Final_Project\streetfightertest\streetfightertest\streetfightertest\bin\x86\Debug\Content\ken_tatsumaki9.xnb
+H:\5th Period - Waltner\Final_Project\streetfightertest\streetfightertest\streetfightertest\bin\x86\Debug\Content\ken_forward_low_punch1.xnb
+H:\5th Period - Waltner\Final_Project\streetfightertest\streetfightertest\streetfightertest\bin\x86\Debug\Content\ken_forward_low_punch2.xnb
+H:\5th Period - Waltner\Final_Project\streetfightertest\streetfightertest\streetfightertest\bin\x86\Debug\Content\ken_forward_low_punch3.xnb
+H:\5th Period - Waltner\Final_Project\streetfightertest\streetfightertest\streetfightertest\bin\x86\Debug\Content\ken_forward_medium_punch1.xnb
+H:\5th Period - Waltner\Final_Project\streetfightertest\streetfightertest\streetfightertest\bin\x86\Debug\Content\ken_forward_medium_punch2.xnb
+H:\5th Period - Waltner\Final_Project\streetfightertest\streetfightertest\streetfightertest\bin\x86\Debug\Content\ken_forward_medium_punch3.xnb
+H:\5th Period - Waltner\Final_Project\streetfightertest\streetfightertest\streetfightertest\bin\x86\Debug\Content\ken_forward_medium_punch4.xnb
+H:\5th Period - Waltner\Final_Project\streetfightertest\streetfightertest\streetfightertest\bin\x86\Debug\Content\ken_forward_medium_punch5.xnb
+H:\5th Period - Waltner\Final_Project\streetfightertest\streetfightertest\streetfightertest\bin\x86\Debug\Content\ken_forward_medium_punch6.xnb
+H:\5th Period - Waltner\Final_Project\streetfightertest\streetfightertest\streetfightertest\bin\x86\Debug\Content\ken_forward_medium_punch7.xnb
+H:\5th Period - Waltner\Final_Project\streetfightertest\streetfightertest\streetfightertest\bin\x86\Debug\Content\ken_forward_high_punch1.xnb
+H:\5th Period - Waltner\Final_Project\streetfightertest\streetfightertest\streetfightertest\bin\x86\Debug\Content\ken_forward_high_punch2.xnb
+H:\5th Period - Waltner\Final_Project\streetfightertest\streetfightertest\streetfightertest\bin\x86\Debug\Content\ken_forward_high_punch3.xnb
+H:\5th Period - Waltner\Final_Project\streetfightertest\streetfightertest\streetfightertest\bin\x86\Debug\Content\ken_forward_high_punch4.xnb
+H:\5th Period - Waltner\Final_Project\streetfightertest\streetfightertest\streetfightertest\bin\x86\Debug\Content\ken_forward_high_punch5.xnb
+H:\5th Period - Waltner\Final_Project\streetfightertest\streetfightertest\streetfightertest\bin\x86\Debug\Content\ken_forward_low_kick1.xnb
+H:\5th Period - Waltner\Final_Project\streetfightertest\streetfightertest\streetfightertest\bin\x86\Debug\Content\ken_forward_low_kick2.xnb
+H:\5th Period - Waltner\Final_Project\streetfightertest\streetfightertest\streetfightertest\bin\x86\Debug\Content\ken_forward_low_kick3.xnb
+H:\5th Period - Waltner\Final_Project\streetfightertest\streetfightertest\streetfightertest\bin\x86\Debug\Content\ken_forward_medium_kick1.xnb
+H:\5th Period - Waltner\Final_Project\streetfightertest\streetfightertest\streetfightertest\bin\x86\Debug\Content\ken_forward_medium_kick2.xnb
+H:\5th Period - Waltner\Final_Project\streetfightertest\streetfightertest\streetfightertest\bin\x86\Debug\Content\ken_forward_medium_kick3.xnb
+H:\5th Period - Waltner\Final_Project\streetfightertest\streetfightertest\streetfightertest\bin\x86\Debug\Content\ken_forward_medium_kick4.xnb
+H:\5th Period - Waltner\Final_Project\streetfightertest\streetfightertest\streetfightertest\bin\x86\Debug\Content\ken_forward_medium_kick5.xnb
+H:\5th Period - Waltner\Final_Project\streetfightertest\streetfightertest\streetfightertest\bin\x86\Debug\Content\ken_forward_high_kick1.xnb
+H:\5th Period - Waltner\Final_Project\streetfightertest\streetfightertest\streetfightertest\bin\x86\Debug\Content\ken_forward_high_kick2.xnb
+H:\5th Period - Waltner\Final_Project\streetfightertest\streetfightertest\streetfightertest\bin\x86\Debug\Content\ken_forward_high_kick3.xnb
+H:\5th Period - Waltner\Final_Project\streetfightertest\streetfightertest\streetfightertest\bin\x86\Debug\Content\ken_forward_high_kick4.xnb
+H:\5th Period - Waltner\Final_Project\streetfightertest\streetfightertest\streetfightertest\bin\x86\Debug\Content\ken_forward_high_kick5.xnb
+H:\5th Period - Waltner\Final_Project\streetfightertest\streetfightertest\streetfightertest\bin\x86\Debug\streetfightertest.exe
+H:\5th Period - Waltner\Final_Project\streetfightertest\streetfightertest\streetfightertest\bin\x86\Debug\streetfightertest.pdb
+H:\5th Period - Waltner\Final_Project\streetfightertest\streetfightertest\streetfightertest\obj\x86\Debug\streetfightertest.csprojResolveAssemblyReference.cache
+H:\5th Period - Waltner\Final_Project\streetfightertest\streetfightertest\streetfightertest\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+H:\5th Period - Waltner\Final_Project\streetfightertest\streetfightertest\streetfightertest\obj\x86\Debug\streetfightertest.exe
+H:\5th Period - Waltner\Final_Project\streetfightertest\streetfightertest\streetfightertest\obj\x86\Debug\streetfightertest.pdb
+H:\5th Period - Waltner\Final_Project\streetfightertest\streetfightertest\streetfightertest\bin\x86\Debug\Content\ryu_idle1.xnb
+H:\5th Period - Waltner\Final_Project\streetfightertest\streetfightertest\streetfightertest\bin\x86\Debug\Content\ryu_idle2.xnb
+H:\5th Period - Waltner\Final_Project\streetfightertest\streetfightertest\streetfightertest\bin\x86\Debug\Content\ryu_idle3.xnb
+H:\5th Period - Waltner\Final_Project\streetfightertest\streetfightertest\streetfightertest\bin\x86\Debug\Content\ryu_idle4.xnb
+H:\5th Period - Waltner\Final_Project\streetfightertest\streetfightertest\streetfightertest\bin\x86\Debug\Content\ryu_walking1.xnb
+H:\5th Period - Waltner\Final_Project\streetfightertest\streetfightertest\streetfightertest\bin\x86\Debug\Content\ryu_walking2.xnb
+H:\5th Period - Waltner\Final_Project\streetfightertest\streetfightertest\streetfightertest\bin\x86\Debug\Content\ryu_walking3.xnb
+H:\5th Period - Waltner\Final_Project\streetfightertest\streetfightertest\streetfightertest\bin\x86\Debug\Content\ryu_walking4.xnb
+H:\5th Period - Waltner\Final_Project\streetfightertest\streetfightertest\streetfightertest\bin\x86\Debug\Content\ryu_walking5.xnb
+H:\5th Period - Waltner\Final_Project\streetfightertest\streetfightertest\streetfightertest\bin\x86\Debug\Content\ryu_jumping1.xnb
+H:\5th Period - Waltner\Final_Project\streetfightertest\streetfightertest\streetfightertest\bin\x86\Debug\Content\ryu_jumping2.xnb
+H:\5th Period - Waltner\Final_Project\streetfightertest\streetfightertest\streetfightertest\bin\x86\Debug\Content\ryu_jumping3.xnb
+H:\5th Period - Waltner\Final_Project\streetfightertest\streetfightertest\streetfightertest\bin\x86\Debug\Content\ryu_jumping4.xnb
+H:\5th Period - Waltner\Final_Project\streetfightertest\streetfightertest\streetfightertest\bin\x86\Debug\Content\ryu_jumping5.xnb
+H:\5th Period - Waltner\Final_Project\streetfightertest\streetfightertest\streetfightertest\bin\x86\Debug\Content\ryu_jumping6.xnb
+H:\5th Period - Waltner\Final_Project\streetfightertest\streetfightertest\streetfightertest\bin\x86\Debug\Content\ryu_jumping7.xnb
+H:\5th Period - Waltner\Final_Project\streetfightertest\streetfightertest\streetfightertest\bin\x86\Debug\Content\ryu_crouch.xnb
+H:\5th Period - Waltner\Final_Project\streetfightertest\streetfightertest\streetfightertest\bin\x86\Debug\Content\ryu_block_crouching.xnb
+H:\5th Period - Waltner\Final_Project\streetfightertest\streetfightertest\streetfightertest\bin\x86\Debug\Content\ryu_block_standing.xnb
+H:\5th Period - Waltner\Final_Project\streetfightertest\streetfightertest\streetfightertest\bin\x86\Debug\Content\ryu_forward_jump1.xnb
+H:\5th Period - Waltner\Final_Project\streetfightertest\streetfightertest\streetfightertest\bin\x86\Debug\Content\ryu_forward_jump2.xnb
+H:\5th Period - Waltner\Final_Project\streetfightertest\streetfightertest\streetfightertest\bin\x86\Debug\Content\ryu_forward_jump3.xnb
+H:\5th Period - Waltner\Final_Project\streetfightertest\streetfightertest\streetfightertest\bin\x86\Debug\Content\ryu_forward_jump4.xnb
+H:\5th Period - Waltner\Final_Project\streetfightertest\streetfightertest\streetfightertest\bin\x86\Debug\Content\ryu_forward_jump5.xnb
+H:\5th Period - Waltner\Final_Project\streetfightertest\streetfightertest\streetfightertest\bin\x86\Debug\Content\ryu_forward_jump6.xnb
+H:\5th Period - Waltner\Final_Project\streetfightertest\streetfightertest\streetfightertest\bin\x86\Debug\Content\ryu_low_punch1.xnb
+H:\5th Period - Waltner\Final_Project\streetfightertest\streetfightertest\streetfightertest\bin\x86\Debug\Content\ryu_low_punch2.xnb
+H:\5th Period - Waltner\Final_Project\streetfightertest\streetfightertest\streetfightertest\bin\x86\Debug\Content\ryu_low_punch3.xnb
+H:\5th Period - Waltner\Final_Project\streetfightertest\streetfightertest\streetfightertest\bin\x86\Debug\Content\ryu_medium_high_punch1.xnb
+H:\5th Period - Waltner\Final_Project\streetfightertest\streetfightertest\streetfightertest\bin\x86\Debug\Content\ryu_medium_high_punch2.xnb
+H:\5th Period - Waltner\Final_Project\streetfightertest\streetfightertest\streetfightertest\bin\x86\Debug\Content\ryu_medium_high_punch3.xnb
+H:\5th Period - Waltner\Final_Project\streetfightertest\streetfightertest\streetfightertest\bin\x86\Debug\Content\ryu_medium_high_punch4.xnb
+H:\5th Period - Waltner\Final_Project\streetfightertest\streetfightertest\streetfightertest\bin\x86\Debug\Content\ryu_medium_high_punch5.xnb
+H:\5th Period - Waltner\Final_Project\streetfightertest\streetfightertest\streetfightertest\bin\x86\Debug\Content\ryu_forward_low_punch1.xnb
+H:\5th Period - Waltner\Final_Project\streetfightertest\streetfightertest\streetfightertest\bin\x86\Debug\Content\ryu_forward_low_punch2.xnb
+H:\5th Period - Waltner\Final_Project\streetfightertest\streetfightertest\streetfightertest\bin\x86\Debug\Content\ryu_forward_low_punch3.xnb
+H:\5th Period - Waltner\Final_Project\streetfightertest\streetfightertest\streetfightertest\bin\x86\Debug\Content\ryu_forward_medium_punch1.xnb
+H:\5th Period - Waltner\Final_Project\streetfightertest\streetfightertest\streetfightertest\bin\x86\Debug\Content\ryu_forward_medium_punch2.xnb
+H:\5th Period - Waltner\Final_Project\streetfightertest\streetfightertest\streetfightertest\bin\x86\Debug\Content\ryu_forward_medium_punch3.xnb
+H:\5th Period - Waltner\Final_Project\streetfightertest\streetfightertest\streetfightertest\bin\x86\Debug\Content\ryu_forward_medium_punch4.xnb
+H:\5th Period - Waltner\Final_Project\streetfightertest\streetfightertest\streetfightertest\bin\x86\Debug\Content\ryu_forward_medium_punch5.xnb
+H:\5th Period - Waltner\Final_Project\streetfightertest\streetfightertest\streetfightertest\bin\x86\Debug\Content\ryu_forward_medium_punch6.xnb
+H:\5th Period - Waltner\Final_Project\streetfightertest\streetfightertest\streetfightertest\bin\x86\Debug\Content\ryu_forward_medium_punch7.xnb
+H:\5th Period - Waltner\Final_Project\streetfightertest\streetfightertest\streetfightertest\bin\x86\Debug\Content\ryu_forward_high_punch1.xnb
+H:\5th Period - Waltner\Final_Project\streetfightertest\streetfightertest\streetfightertest\bin\x86\Debug\Content\ryu_forward_high_punch2.xnb
+H:\5th Period - Waltner\Final_Project\streetfightertest\streetfightertest\streetfightertest\bin\x86\Debug\Content\ryu_forward_high_punch3.xnb
+H:\5th Period - Waltner\Final_Project\streetfightertest\streetfightertest\streetfightertest\bin\x86\Debug\Content\ryu_forward_high_punch4.xnb
+H:\5th Period - Waltner\Final_Project\streetfightertest\streetfightertest\streetfightertest\bin\x86\Debug\Content\ryu_forward_high_punch5.xnb
+H:\5th Period - Waltner\Final_Project\streetfightertest\streetfightertest\streetfightertest\bin\x86\Debug\Content\ryu_low_medium_kick1.xnb
+H:\5th Period - Waltner\Final_Project\streetfightertest\streetfightertest\streetfightertest\bin\x86\Debug\Content\ryu_low_medium_kick2.xnb
+H:\5th Period - Waltner\Final_Project\streetfightertest\streetfightertest\streetfightertest\bin\x86\Debug\Content\ryu_low_medium_kick3.xnb
+H:\5th Period - Waltner\Final_Project\streetfightertest\streetfightertest\streetfightertest\bin\x86\Debug\Content\ryu_high_kick1.xnb
+H:\5th Period - Waltner\Final_Project\streetfightertest\streetfightertest\streetfightertest\bin\x86\Debug\Content\ryu_high_kick2.xnb
+H:\5th Period - Waltner\Final_Project\streetfightertest\streetfightertest\streetfightertest\bin\x86\Debug\Content\ryu_high_kick3.xnb
+H:\5th Period - Waltner\Final_Project\streetfightertest\streetfightertest\streetfightertest\bin\x86\Debug\Content\ryu_high_kick4.xnb
+H:\5th Period - Waltner\Final_Project\streetfightertest\streetfightertest\streetfightertest\bin\x86\Debug\Content\ryu_high_kick5.xnb
+H:\5th Period - Waltner\Final_Project\streetfightertest\streetfightertest\streetfightertest\bin\x86\Debug\Content\ryu_forward_low_kick1.xnb
+H:\5th Period - Waltner\Final_Project\streetfightertest\streetfightertest\streetfightertest\bin\x86\Debug\Content\ryu_forward_low_kick2.xnb
+H:\5th Period - Waltner\Final_Project\streetfightertest\streetfightertest\streetfightertest\bin\x86\Debug\Content\ryu_forward_low_kick3.xnb
+H:\5th Period - Waltner\Final_Project\streetfightertest\streetfightertest\streetfightertest\bin\x86\Debug\Content\ryu_forward_medium_kick1.xnb
+H:\5th Period - Waltner\Final_Project\streetfightertest\streetfightertest\streetfightertest\bin\x86\Debug\Content\ryu_forward_medium_kick2.xnb
+H:\5th Period - Waltner\Final_Project\streetfightertest\streetfightertest\streetfightertest\bin\x86\Debug\Content\ryu_forward_medium_kick3.xnb
+H:\5th Period - Waltner\Final_Project\streetfightertest\streetfightertest\streetfightertest\bin\x86\Debug\Content\ryu_forward_medium_kick4.xnb
+H:\5th Period - Waltner\Final_Project\streetfightertest\streetfightertest\streetfightertest\bin\x86\Debug\Content\ryu_forward_medium_kick5.xnb
+H:\5th Period - Waltner\Final_Project\streetfightertest\streetfightertest\streetfightertest\bin\x86\Debug\Content\ryu_forward_high_kick1.xnb
+H:\5th Period - Waltner\Final_Project\streetfightertest\streetfightertest\streetfightertest\bin\x86\Debug\Content\ryu_forward_high_kick2.xnb
+H:\5th Period - Waltner\Final_Project\streetfightertest\streetfightertest\streetfightertest\bin\x86\Debug\Content\ryu_forward_high_kick3.xnb
+H:\5th Period - Waltner\Final_Project\streetfightertest\streetfightertest\streetfightertest\bin\x86\Debug\Content\ryu_forward_high_kick4.xnb
+H:\5th Period - Waltner\Final_Project\streetfightertest\streetfightertest\streetfightertest\bin\x86\Debug\Content\ryu_forward_high_kick5.xnb
+H:\5th Period - Waltner\Final_Project\streetfightertest\streetfightertest\streetfightertest\bin\x86\Debug\Content\ryu_crouch_low_medium_punch1.xnb
+H:\5th Period - Waltner\Final_Project\streetfightertest\streetfightertest\streetfightertest\bin\x86\Debug\Content\ryu_crouch_low_medium_punch2.xnb
+H:\5th Period - Waltner\Final_Project\streetfightertest\streetfightertest\streetfightertest\bin\x86\Debug\Content\ryu_crouch_low_medium_punch3.xnb
+H:\5th Period - Waltner\Final_Project\streetfightertest\streetfightertest\streetfightertest\bin\x86\Debug\Content\ryu_crouch_high_punch1.xnb
+H:\5th Period - Waltner\Final_Project\streetfightertest\streetfightertest\streetfightertest\bin\x86\Debug\Content\ryu_crouch_high_punch2.xnb
+H:\5th Period - Waltner\Final_Project\streetfightertest\streetfightertest\streetfightertest\bin\x86\Debug\Content\ryu_crouch_high_punch3.xnb
+H:\5th Period - Waltner\Final_Project\streetfightertest\streetfightertest\streetfightertest\bin\x86\Debug\Content\ryu_crouch_high_punch4.xnb
+H:\5th Period - Waltner\Final_Project\streetfightertest\streetfightertest\streetfightertest\bin\x86\Debug\Content\ryu_crouch_high_punch5.xnb
+H:\5th Period - Waltner\Final_Project\streetfightertest\streetfightertest\streetfightertest\bin\x86\Debug\Content\ryu_crouch_low_kick1.xnb
+H:\5th Period - Waltner\Final_Project\streetfightertest\streetfightertest\streetfightertest\bin\x86\Debug\Content\ryu_crouch_low_kick2.xnb
+H:\5th Period - Waltner\Final_Project\streetfightertest\streetfightertest\streetfightertest\bin\x86\Debug\Content\ryu_crouch_low_kick3.xnb
+H:\5th Period - Waltner\Final_Project\streetfightertest\streetfightertest\streetfightertest\bin\x86\Debug\Content\ryu_crouch_medium_kick1.xnb
+H:\5th Period - Waltner\Final_Project\streetfightertest\streetfightertest\streetfightertest\bin\x86\Debug\Content\ryu_crouch_medium_kick2.xnb
+H:\5th Period - Waltner\Final_Project\streetfightertest\streetfightertest\streetfightertest\bin\x86\Debug\Content\ryu_crouch_medium_kick3.xnb
+H:\5th Period - Waltner\Final_Project\streetfightertest\streetfightertest\streetfightertest\bin\x86\Debug\Content\ryu_crouch_high_kick1.xnb
+H:\5th Period - Waltner\Final_Project\streetfightertest\streetfightertest\streetfightertest\bin\x86\Debug\Content\ryu_crouch_high_kick2.xnb
+H:\5th Period - Waltner\Final_Project\streetfightertest\streetfightertest\streetfightertest\bin\x86\Debug\Content\ryu_crouch_high_kick3.xnb
+H:\5th Period - Waltner\Final_Project\streetfightertest\streetfightertest\streetfightertest\bin\x86\Debug\Content\ryu_crouch_high_kick4.xnb
+H:\5th Period - Waltner\Final_Project\streetfightertest\streetfightertest\streetfightertest\bin\x86\Debug\Content\ryu_crouch_high_kick5.xnb
+H:\5th Period - Waltner\Final_Project\streetfightertest\streetfightertest\streetfightertest\bin\x86\Debug\Content\ryu_hadouken1.xnb
+H:\5th Period - Waltner\Final_Project\streetfightertest\streetfightertest\streetfightertest\bin\x86\Debug\Content\ryu_hadouken2.xnb
+H:\5th Period - Waltner\Final_Project\streetfightertest\streetfightertest\streetfightertest\bin\x86\Debug\Content\ryu_hadouken3.xnb
+H:\5th Period - Waltner\Final_Project\streetfightertest\streetfightertest\streetfightertest\bin\x86\Debug\Content\ryu_hadouken4.xnb
+H:\5th Period - Waltner\Final_Project\streetfightertest\streetfightertest\streetfightertest\bin\x86\Debug\Content\ryu_tatsumaki1.xnb
+H:\5th Period - Waltner\Final_Project\streetfightertest\streetfightertest\streetfightertest\bin\x86\Debug\Content\ryu_tatsumaki10.xnb
+H:\5th Period - Waltner\Final_Project\streetfightertest\streetfightertest\streetfightertest\bin\x86\Debug\Content\ryu_tatsumaki11.xnb
+H:\5th Period - Waltner\Final_Project\streetfightertest\streetfightertest\streetfightertest\bin\x86\Debug\Content\ryu_tatsumaki12.xnb
+H:\5th Period - Waltner\Final_Project\streetfightertest\streetfightertest\streetfightertest\bin\x86\Debug\Content\ryu_tatsumaki2.xnb
+H:\5th Period - Waltner\Final_Project\streetfightertest\streetfightertest\streetfightertest\bin\x86\Debug\Content\ryu_tatsumaki3.xnb
+H:\5th Period - Waltner\Final_Project\streetfightertest\streetfightertest\streetfightertest\bin\x86\Debug\Content\ryu_tatsumaki4.xnb
+H:\5th Period - Waltner\Final_Project\streetfightertest\streetfightertest\streetfightertest\bin\x86\Debug\Content\ryu_tatsumaki5.xnb
+H:\5th Period - Waltner\Final_Project\streetfightertest\streetfightertest\streetfightertest\bin\x86\Debug\Content\ryu_tatsumaki6.xnb
+H:\5th Period - Waltner\Final_Project\streetfightertest\streetfightertest\streetfightertest\bin\x86\Debug\Content\ryu_tatsumaki7.xnb
+H:\5th Period - Waltner\Final_Project\streetfightertest\streetfightertest\streetfightertest\bin\x86\Debug\Content\ryu_tatsumaki8.xnb
+H:\5th Period - Waltner\Final_Project\streetfightertest\streetfightertest\streetfightertest\bin\x86\Debug\Content\ryu_tatsumaki9.xnb
+H:\5th Period - Waltner\Final_Project\streetfightertest\streetfightertest\streetfightertest\bin\x86\Debug\Content\ryu_shoryuken1.xnb
+H:\5th Period - Waltner\Final_Project\streetfightertest\streetfightertest\streetfightertest\bin\x86\Debug\Content\ryu_shoryuken2.xnb
+H:\5th Period - Waltner\Final_Project\streetfightertest\streetfightertest\streetfightertest\bin\x86\Debug\Content\ryu_shoryuken3.xnb
+H:\5th Period - Waltner\Final_Project\streetfightertest\streetfightertest\streetfightertest\bin\x86\Debug\Content\ryu_shoryuken4.xnb
+H:\5th Period - Waltner\Final_Project\streetfightertest\streetfightertest\streetfightertest\bin\x86\Debug\Content\ryu_shoryuken5.xnb
+H:\5th Period - Waltner\Final_Project\streetfightertest\streetfightertest\streetfightertest\bin\x86\Debug\Content\ryu_shoryuken6.xnb
+H:\5th Period - Waltner\Final_Project\streetfightertest\streetfightertest\streetfightertest\bin\x86\Debug\Content\ryu_shoryuken7.xnb
+H:\5th Period - Waltner\Final_Project\streetfightertest\streetfightertest\streetfightertest\bin\x86\Debug\Content\hadouken_projectile1.xnb
+H:\5th Period - Waltner\Final_Project\streetfightertest\streetfightertest\streetfightertest\bin\x86\Debug\Content\hadouken_projectile2.xnb
+H:\5th Period - Waltner\Final_Project\streetfightertest\streetfightertest\streetfightertest\bin\x86\Debug\Content\hadouken_projectile3.xnb
+H:\5th Period - Waltner\Final_Project\streetfightertest\streetfightertest\streetfightertest\bin\x86\Debug\Content\hadouken_projectile4.xnb
+H:\5th Period - Waltner\Final_Project\streetfightertest\streetfightertest\streetfightertest\bin\x86\Debug\Content\hadouken_projectile5.xnb
+H:\5th Period - Waltner\Final_Project\streetfightertest\streetfightertest\streetfightertest\bin\x86\Debug\Content\hadouken_projectile6.xnb
+H:\5th Period - Waltner\Final_Project\streetfightertest\streetfightertest\streetfightertest\bin\x86\Debug\Content\hitbox.xnb
+H:\5th Period - Waltner\Final_Project\streetfightertest\streetfightertest\streetfightertest\bin\x86\Debug\Content\attack_hitbox.xnb
+F:\Street Fighter\streetfightertest\streetfightertest\streetfightertest\bin\x86\Debug\Content\ken_crouch.xnb
+F:\Street Fighter\streetfightertest\streetfightertest\streetfightertest\bin\x86\Debug\Content\ken_idle1.xnb
+F:\Street Fighter\streetfightertest\streetfightertest\streetfightertest\bin\x86\Debug\Content\ken_idle2.xnb
+F:\Street Fighter\streetfightertest\streetfightertest\streetfightertest\bin\x86\Debug\Content\ken_idle3.xnb
+F:\Street Fighter\streetfightertest\streetfightertest\streetfightertest\bin\x86\Debug\Content\ken_idle4.xnb
+F:\Street Fighter\streetfightertest\streetfightertest\streetfightertest\bin\x86\Debug\Content\ken_walking1.xnb
+F:\Street Fighter\streetfightertest\streetfightertest\streetfightertest\bin\x86\Debug\Content\ken_walking2.xnb
+F:\Street Fighter\streetfightertest\streetfightertest\streetfightertest\bin\x86\Debug\Content\ken_walking3.xnb
+F:\Street Fighter\streetfightertest\streetfightertest\streetfightertest\bin\x86\Debug\Content\ken_walking4.xnb
+F:\Street Fighter\streetfightertest\streetfightertest\streetfightertest\bin\x86\Debug\Content\ken_walking5.xnb
+F:\Street Fighter\streetfightertest\streetfightertest\streetfightertest\bin\x86\Debug\Content\ken_jumping1.xnb
+F:\Street Fighter\streetfightertest\streetfightertest\streetfightertest\bin\x86\Debug\Content\ken_jumping2.xnb
+F:\Street Fighter\streetfightertest\streetfightertest\streetfightertest\bin\x86\Debug\Content\ken_jumping3.xnb
+F:\Street Fighter\streetfightertest\streetfightertest\streetfightertest\bin\x86\Debug\Content\ken_jumping4.xnb
+F:\Street Fighter\streetfightertest\streetfightertest\streetfightertest\bin\x86\Debug\Content\ken_jumping5.xnb
+F:\Street Fighter\streetfightertest\streetfightertest\streetfightertest\bin\x86\Debug\Content\ken_jumping6.xnb
+F:\Street Fighter\streetfightertest\streetfightertest\streetfightertest\bin\x86\Debug\Content\ken_jumping7.xnb
+F:\Street Fighter\streetfightertest\streetfightertest\streetfightertest\bin\x86\Debug\Content\ken_forwardjump1.xnb
+F:\Street Fighter\streetfightertest\streetfightertest\streetfightertest\bin\x86\Debug\Content\ken_forwardjump2.xnb
+F:\Street Fighter\streetfightertest\streetfightertest\streetfightertest\bin\x86\Debug\Content\ken_forwardjump3.xnb
+F:\Street Fighter\streetfightertest\streetfightertest\streetfightertest\bin\x86\Debug\Content\ken_forwardjump4.xnb
+F:\Street Fighter\streetfightertest\streetfightertest\streetfightertest\bin\x86\Debug\Content\ken_forwardjump5.xnb
+F:\Street Fighter\streetfightertest\streetfightertest\streetfightertest\bin\x86\Debug\Content\ken_forwardjump6.xnb
+F:\Street Fighter\streetfightertest\streetfightertest\streetfightertest\bin\x86\Debug\Content\ken_low_punch1.xnb
+F:\Street Fighter\streetfightertest\streetfightertest\streetfightertest\bin\x86\Debug\Content\ken_low_punch2.xnb
+F:\Street Fighter\streetfightertest\streetfightertest\streetfightertest\bin\x86\Debug\Content\ken_low_punch3.xnb
+F:\Street Fighter\streetfightertest\streetfightertest\streetfightertest\bin\x86\Debug\Content\ken_medium_high_punch1.xnb
+F:\Street Fighter\streetfightertest\streetfightertest\streetfightertest\bin\x86\Debug\Content\ken_medium_high_punch2.xnb
+F:\Street Fighter\streetfightertest\streetfightertest\streetfightertest\bin\x86\Debug\Content\ken_medium_high_punch3.xnb
+F:\Street Fighter\streetfightertest\streetfightertest\streetfightertest\bin\x86\Debug\Content\ken_medium_high_punch4.xnb
+F:\Street Fighter\streetfightertest\streetfightertest\streetfightertest\bin\x86\Debug\Content\ken_medium_high_punch5.xnb
+F:\Street Fighter\streetfightertest\streetfightertest\streetfightertest\bin\x86\Debug\Content\ken_crouch_low_medium_punch1.xnb
+F:\Street Fighter\streetfightertest\streetfightertest\streetfightertest\bin\x86\Debug\Content\ken_crouch_low_medium_punch2.xnb
+F:\Street Fighter\streetfightertest\streetfightertest\streetfightertest\bin\x86\Debug\Content\ken_crouch_low_medium_punch3.xnb
+F:\Street Fighter\streetfightertest\streetfightertest\streetfightertest\bin\x86\Debug\Content\ken_crouch_high_punch1.xnb
+F:\Street Fighter\streetfightertest\streetfightertest\streetfightertest\bin\x86\Debug\Content\ken_crouch_high_punch2.xnb
+F:\Street Fighter\streetfightertest\streetfightertest\streetfightertest\bin\x86\Debug\Content\ken_crouch_high_punch3.xnb
+F:\Street Fighter\streetfightertest\streetfightertest\streetfightertest\bin\x86\Debug\Content\ken_crouch_high_punch4.xnb
+F:\Street Fighter\streetfightertest\streetfightertest\streetfightertest\bin\x86\Debug\Content\ken_crouch_high_punch5.xnb
+F:\Street Fighter\streetfightertest\streetfightertest\streetfightertest\bin\x86\Debug\Content\ken_low_medium_kick1.xnb
+F:\Street Fighter\streetfightertest\streetfightertest\streetfightertest\bin\x86\Debug\Content\ken_low_medium_kick2.xnb
+F:\Street Fighter\streetfightertest\streetfightertest\streetfightertest\bin\x86\Debug\Content\ken_low_medium_kick3.xnb
+F:\Street Fighter\streetfightertest\streetfightertest\streetfightertest\bin\x86\Debug\Content\ken_high_kick1.xnb
+F:\Street Fighter\streetfightertest\streetfightertest\streetfightertest\bin\x86\Debug\Content\ken_high_kick2.xnb
+F:\Street Fighter\streetfightertest\streetfightertest\streetfightertest\bin\x86\Debug\Content\ken_high_kick3.xnb
+F:\Street Fighter\streetfightertest\streetfightertest\streetfightertest\bin\x86\Debug\Content\ken_high_kick4.xnb
+F:\Street Fighter\streetfightertest\streetfightertest\streetfightertest\bin\x86\Debug\Content\ken_high_kick5.xnb
+F:\Street Fighter\streetfightertest\streetfightertest\streetfightertest\bin\x86\Debug\Content\ken_crouch_low_kick1.xnb
+F:\Street Fighter\streetfightertest\streetfightertest\streetfightertest\bin\x86\Debug\Content\ken_crouch_low_kick2.xnb
+F:\Street Fighter\streetfightertest\streetfightertest\streetfightertest\bin\x86\Debug\Content\ken_crouch_low_kick3.xnb
+F:\Street Fighter\streetfightertest\streetfightertest\streetfightertest\bin\x86\Debug\Content\ken_crouch_medium_kick1.xnb
+F:\Street Fighter\streetfightertest\streetfightertest\streetfightertest\bin\x86\Debug\Content\ken_crouch_medium_kick2.xnb
+F:\Street Fighter\streetfightertest\streetfightertest\streetfightertest\bin\x86\Debug\Content\ken_crouch_medium_kick3.xnb
+F:\Street Fighter\streetfightertest\streetfightertest\streetfightertest\bin\x86\Debug\Content\ken_crouch_high_kick1.xnb
+F:\Street Fighter\streetfightertest\streetfightertest\streetfightertest\bin\x86\Debug\Content\ken_crouch_high_kick2.xnb
+F:\Street Fighter\streetfightertest\streetfightertest\streetfightertest\bin\x86\Debug\Content\ken_crouch_high_kick3.xnb
+F:\Street Fighter\streetfightertest\streetfightertest\streetfightertest\bin\x86\Debug\Content\ken_crouch_high_kick4.xnb
+F:\Street Fighter\streetfightertest\streetfightertest\streetfightertest\bin\x86\Debug\Content\ken_crouch_high_kick5.xnb
+F:\Street Fighter\streetfightertest\streetfightertest\streetfightertest\bin\x86\Debug\Content\ken_shoryuken1.xnb
+F:\Street Fighter\streetfightertest\streetfightertest\streetfightertest\bin\x86\Debug\Content\ken_shoryuken2.xnb
+F:\Street Fighter\streetfightertest\streetfightertest\streetfightertest\bin\x86\Debug\Content\ken_shoryuken3.xnb
+F:\Street Fighter\streetfightertest\streetfightertest\streetfightertest\bin\x86\Debug\Content\ken_shoryuken4.xnb
+F:\Street Fighter\streetfightertest\streetfightertest\streetfightertest\bin\x86\Debug\Content\ken_shoryuken5.xnb
+F:\Street Fighter\streetfightertest\streetfightertest\streetfightertest\bin\x86\Debug\Content\ken_shoryuken6.xnb
+F:\Street Fighter\streetfightertest\streetfightertest\streetfightertest\bin\x86\Debug\Content\ken_shoryuken7.xnb
+F:\Street Fighter\streetfightertest\streetfightertest\streetfightertest\bin\x86\Debug\Content\ken_hadouken1.xnb
+F:\Street Fighter\streetfightertest\streetfightertest\streetfightertest\bin\x86\Debug\Content\ken_hadouken2.xnb
+F:\Street Fighter\streetfightertest\streetfightertest\streetfightertest\bin\x86\Debug\Content\ken_hadouken3.xnb
+F:\Street Fighter\streetfightertest\streetfightertest\streetfightertest\bin\x86\Debug\Content\ken_hadouken4.xnb
+F:\Street Fighter\streetfightertest\streetfightertest\streetfightertest\bin\x86\Debug\Content\ken_projectile_hadouken1.xnb
+F:\Street Fighter\streetfightertest\streetfightertest\streetfightertest\bin\x86\Debug\Content\ken_projectile_hadouken2.xnb
+F:\Street Fighter\streetfightertest\streetfightertest\streetfightertest\bin\x86\Debug\Content\ken_projectile_hadouken3.xnb
+F:\Street Fighter\streetfightertest\streetfightertest\streetfightertest\bin\x86\Debug\Content\ken_projectile_hadouken4.xnb
+F:\Street Fighter\streetfightertest\streetfightertest\streetfightertest\bin\x86\Debug\Content\ken_projectile_hadouken5.xnb
+F:\Street Fighter\streetfightertest\streetfightertest\streetfightertest\bin\x86\Debug\Content\ken_projectile_hadouken6.xnb
+F:\Street Fighter\streetfightertest\streetfightertest\streetfightertest\bin\x86\Debug\Content\ken_tatsumaki1.xnb
+F:\Street Fighter\streetfightertest\streetfightertest\streetfightertest\bin\x86\Debug\Content\ken_tatsumaki10.xnb
+F:\Street Fighter\streetfightertest\streetfightertest\streetfightertest\bin\x86\Debug\Content\ken_tatsumaki11.xnb
+F:\Street Fighter\streetfightertest\streetfightertest\streetfightertest\bin\x86\Debug\Content\ken_tatsumaki12.xnb
+F:\Street Fighter\streetfightertest\streetfightertest\streetfightertest\bin\x86\Debug\Content\ken_tatsumaki13.xnb
+F:\Street Fighter\streetfightertest\streetfightertest\streetfightertest\bin\x86\Debug\Content\ken_tatsumaki2.xnb
+F:\Street Fighter\streetfightertest\streetfightertest\streetfightertest\bin\x86\Debug\Content\ken_tatsumaki3.xnb
+F:\Street Fighter\streetfightertest\streetfightertest\streetfightertest\bin\x86\Debug\Content\ken_tatsumaki4.xnb
+F:\Street Fighter\streetfightertest\streetfightertest\streetfightertest\bin\x86\Debug\Content\ken_tatsumaki5.xnb
+F:\Street Fighter\streetfightertest\streetfightertest\streetfightertest\bin\x86\Debug\Content\ken_tatsumaki6.xnb
+F:\Street Fighter\streetfightertest\streetfightertest\streetfightertest\bin\x86\Debug\Content\ken_tatsumaki7.xnb
+F:\Street Fighter\streetfightertest\streetfightertest\streetfightertest\bin\x86\Debug\Content\ken_tatsumaki8.xnb
+F:\Street Fighter\streetfightertest\streetfightertest\streetfightertest\bin\x86\Debug\Content\ken_tatsumaki9.xnb
+F:\Street Fighter\streetfightertest\streetfightertest\streetfightertest\bin\x86\Debug\Content\ken_forward_low_punch1.xnb
+F:\Street Fighter\streetfightertest\streetfightertest\streetfightertest\bin\x86\Debug\Content\ken_forward_low_punch2.xnb
+F:\Street Fighter\streetfightertest\streetfightertest\streetfightertest\bin\x86\Debug\Content\ken_forward_low_punch3.xnb
+F:\Street Fighter\streetfightertest\streetfightertest\streetfightertest\bin\x86\Debug\Content\ken_forward_medium_punch1.xnb
+F:\Street Fighter\streetfightertest\streetfightertest\streetfightertest\bin\x86\Debug\Content\ken_forward_medium_punch2.xnb
+F:\Street Fighter\streetfightertest\streetfightertest\streetfightertest\bin\x86\Debug\Content\ken_forward_medium_punch3.xnb
+F:\Street Fighter\streetfightertest\streetfightertest\streetfightertest\bin\x86\Debug\Content\ken_forward_medium_punch4.xnb
+F:\Street Fighter\streetfightertest\streetfightertest\streetfightertest\bin\x86\Debug\Content\ken_forward_medium_punch5.xnb
+F:\Street Fighter\streetfightertest\streetfightertest\streetfightertest\bin\x86\Debug\Content\ken_forward_medium_punch6.xnb
+F:\Street Fighter\streetfightertest\streetfightertest\streetfightertest\bin\x86\Debug\Content\ken_forward_medium_punch7.xnb
+F:\Street Fighter\streetfightertest\streetfightertest\streetfightertest\bin\x86\Debug\Content\ken_forward_high_punch1.xnb
+F:\Street Fighter\streetfightertest\streetfightertest\streetfightertest\bin\x86\Debug\Content\ken_forward_high_punch2.xnb
+F:\Street Fighter\streetfightertest\streetfightertest\streetfightertest\bin\x86\Debug\Content\ken_forward_high_punch3.xnb
+F:\Street Fighter\streetfightertest\streetfightertest\streetfightertest\bin\x86\Debug\Content\ken_forward_high_punch4.xnb
+F:\Street Fighter\streetfightertest\streetfightertest\streetfightertest\bin\x86\Debug\Content\ken_forward_high_punch5.xnb
+F:\Street Fighter\streetfightertest\streetfightertest\streetfightertest\bin\x86\Debug\Content\ken_forward_low_kick1.xnb
+F:\Street Fighter\streetfightertest\streetfightertest\streetfightertest\bin\x86\Debug\Content\ken_forward_low_kick2.xnb
+F:\Street Fighter\streetfightertest\streetfightertest\streetfightertest\bin\x86\Debug\Content\ken_forward_low_kick3.xnb
+F:\Street Fighter\streetfightertest\streetfightertest\streetfightertest\bin\x86\Debug\Content\ken_forward_medium_kick1.xnb
+F:\Street Fighter\streetfightertest\streetfightertest\streetfightertest\bin\x86\Debug\Content\ken_forward_medium_kick2.xnb
+F:\Street Fighter\streetfightertest\streetfightertest\streetfightertest\bin\x86\Debug\Content\ken_forward_medium_kick3.xnb
+F:\Street Fighter\streetfightertest\streetfightertest\streetfightertest\bin\x86\Debug\Content\ken_forward_medium_kick4.xnb
+F:\Street Fighter\streetfightertest\streetfightertest\streetfightertest\bin\x86\Debug\Content\ken_forward_medium_kick5.xnb
+F:\Street Fighter\streetfightertest\streetfightertest\streetfightertest\bin\x86\Debug\Content\ken_forward_high_kick1.xnb
+F:\Street Fighter\streetfightertest\streetfightertest\streetfightertest\bin\x86\Debug\Content\ken_forward_high_kick2.xnb
+F:\Street Fighter\streetfightertest\streetfightertest\streetfightertest\bin\x86\Debug\Content\ken_forward_high_kick3.xnb
+F:\Street Fighter\streetfightertest\streetfightertest\streetfightertest\bin\x86\Debug\Content\ken_forward_high_kick4.xnb
+F:\Street Fighter\streetfightertest\streetfightertest\streetfightertest\bin\x86\Debug\Content\ken_forward_high_kick5.xnb
+F:\Street Fighter\streetfightertest\streetfightertest\streetfightertest\bin\x86\Debug\Content\ryu_idle1.xnb
+F:\Street Fighter\streetfightertest\streetfightertest\streetfightertest\bin\x86\Debug\Content\ryu_idle2.xnb
+F:\Street Fighter\streetfightertest\streetfightertest\streetfightertest\bin\x86\Debug\Content\ryu_idle3.xnb
+F:\Street Fighter\streetfightertest\streetfightertest\streetfightertest\bin\x86\Debug\Content\ryu_idle4.xnb
+F:\Street Fighter\streetfightertest\streetfightertest\streetfightertest\bin\x86\Debug\Content\ryu_walking1.xnb
+F:\Street Fighter\streetfightertest\streetfightertest\streetfightertest\bin\x86\Debug\Content\ryu_walking2.xnb
+F:\Street Fighter\streetfightertest\streetfightertest\streetfightertest\bin\x86\Debug\Content\ryu_walking3.xnb
+F:\Street Fighter\streetfightertest\streetfightertest\streetfightertest\bin\x86\Debug\Content\ryu_walking4.xnb
+F:\Street Fighter\streetfightertest\streetfightertest\streetfightertest\bin\x86\Debug\Content\ryu_walking5.xnb
+F:\Street Fighter\streetfightertest\streetfightertest\streetfightertest\bin\x86\Debug\Content\ryu_jumping1.xnb
+F:\Street Fighter\streetfightertest\streetfightertest\streetfightertest\bin\x86\Debug\Content\ryu_jumping2.xnb
+F:\Street Fighter\streetfightertest\streetfightertest\streetfightertest\bin\x86\Debug\Content\ryu_jumping3.xnb
+F:\Street Fighter\streetfightertest\streetfightertest\streetfightertest\bin\x86\Debug\Content\ryu_jumping4.xnb
+F:\Street Fighter\streetfightertest\streetfightertest\streetfightertest\bin\x86\Debug\Content\ryu_jumping5.xnb
+F:\Street Fighter\streetfightertest\streetfightertest\streetfightertest\bin\x86\Debug\Content\ryu_jumping6.xnb
+F:\Street Fighter\streetfightertest\streetfightertest\streetfightertest\bin\x86\Debug\Content\ryu_jumping7.xnb
+F:\Street Fighter\streetfightertest\streetfightertest\streetfightertest\bin\x86\Debug\Content\ryu_crouch.xnb
+F:\Street Fighter\streetfightertest\streetfightertest\streetfightertest\bin\x86\Debug\Content\ryu_block_crouching.xnb
+F:\Street Fighter\streetfightertest\streetfightertest\streetfightertest\bin\x86\Debug\Content\ryu_block_standing.xnb
+F:\Street Fighter\streetfightertest\streetfightertest\streetfightertest\bin\x86\Debug\Content\ryu_forward_jump1.xnb
+F:\Street Fighter\streetfightertest\streetfightertest\streetfightertest\bin\x86\Debug\Content\ryu_forward_jump2.xnb
+F:\Street Fighter\streetfightertest\streetfightertest\streetfightertest\bin\x86\Debug\Content\ryu_forward_jump3.xnb
+F:\Street Fighter\streetfightertest\streetfightertest\streetfightertest\bin\x86\Debug\Content\ryu_forward_jump4.xnb
+F:\Street Fighter\streetfightertest\streetfightertest\streetfightertest\bin\x86\Debug\Content\ryu_forward_jump5.xnb
+F:\Street Fighter\streetfightertest\streetfightertest\streetfightertest\bin\x86\Debug\Content\ryu_forward_jump6.xnb
+F:\Street Fighter\streetfightertest\streetfightertest\streetfightertest\bin\x86\Debug\Content\ryu_low_punch1.xnb
+F:\Street Fighter\streetfightertest\streetfightertest\streetfightertest\bin\x86\Debug\Content\ryu_low_punch2.xnb
+F:\Street Fighter\streetfightertest\streetfightertest\streetfightertest\bin\x86\Debug\Content\ryu_low_punch3.xnb
+F:\Street Fighter\streetfightertest\streetfightertest\streetfightertest\bin\x86\Debug\Content\ryu_medium_high_punch1.xnb
+F:\Street Fighter\streetfightertest\streetfightertest\streetfightertest\bin\x86\Debug\Content\ryu_medium_high_punch2.xnb
+F:\Street Fighter\streetfightertest\streetfightertest\streetfightertest\bin\x86\Debug\Content\ryu_medium_high_punch3.xnb
+F:\Street Fighter\streetfightertest\streetfightertest\streetfightertest\bin\x86\Debug\Content\ryu_medium_high_punch4.xnb
+F:\Street Fighter\streetfightertest\streetfightertest\streetfightertest\bin\x86\Debug\Content\ryu_medium_high_punch5.xnb
+F:\Street Fighter\streetfightertest\streetfightertest\streetfightertest\bin\x86\Debug\Content\ryu_forward_low_punch1.xnb
+F:\Street Fighter\streetfightertest\streetfightertest\streetfightertest\bin\x86\Debug\Content\ryu_forward_low_punch2.xnb
+F:\Street Fighter\streetfightertest\streetfightertest\streetfightertest\bin\x86\Debug\Content\ryu_forward_low_punch3.xnb
+F:\Street Fighter\streetfightertest\streetfightertest\streetfightertest\bin\x86\Debug\Content\ryu_forward_medium_punch1.xnb
+F:\Street Fighter\streetfightertest\streetfightertest\streetfightertest\bin\x86\Debug\Content\ryu_forward_medium_punch2.xnb
+F:\Street Fighter\streetfightertest\streetfightertest\streetfightertest\bin\x86\Debug\Content\ryu_forward_medium_punch3.xnb
+F:\Street Fighter\streetfightertest\streetfightertest\streetfightertest\bin\x86\Debug\Content\ryu_forward_medium_punch4.xnb
+F:\Street Fighter\streetfightertest\streetfightertest\streetfightertest\bin\x86\Debug\Content\ryu_forward_medium_punch5.xnb
+F:\Street Fighter\streetfightertest\streetfightertest\streetfightertest\bin\x86\Debug\Content\ryu_forward_medium_punch6.xnb
+F:\Street Fighter\streetfightertest\streetfightertest\streetfightertest\bin\x86\Debug\Content\ryu_forward_medium_punch7.xnb
+F:\Street Fighter\streetfightertest\streetfightertest\streetfightertest\bin\x86\Debug\Content\ryu_forward_high_punch1.xnb
+F:\Street Fighter\streetfightertest\streetfightertest\streetfightertest\bin\x86\Debug\Content\ryu_forward_high_punch2.xnb
+F:\Street Fighter\streetfightertest\streetfightertest\streetfightertest\bin\x86\Debug\Content\ryu_forward_high_punch3.xnb
+F:\Street Fighter\streetfightertest\streetfightertest\streetfightertest\bin\x86\Debug\Content\ryu_forward_high_punch4.xnb
+F:\Street Fighter\streetfightertest\streetfightertest\streetfightertest\bin\x86\Debug\Content\ryu_forward_high_punch5.xnb
+F:\Street Fighter\streetfightertest\streetfightertest\streetfightertest\bin\x86\Debug\Content\ryu_low_medium_kick1.xnb
+F:\Street Fighter\streetfightertest\streetfightertest\streetfightertest\bin\x86\Debug\Content\ryu_low_medium_kick2.xnb
+F:\Street Fighter\streetfightertest\streetfightertest\streetfightertest\bin\x86\Debug\Content\ryu_low_medium_kick3.xnb
+F:\Street Fighter\streetfightertest\streetfightertest\streetfightertest\bin\x86\Debug\Content\ryu_high_kick1.xnb
+F:\Street Fighter\streetfightertest\streetfightertest\streetfightertest\bin\x86\Debug\Content\ryu_high_kick2.xnb
+F:\Street Fighter\streetfightertest\streetfightertest\streetfightertest\bin\x86\Debug\Content\ryu_high_kick3.xnb
+F:\Street Fighter\streetfightertest\streetfightertest\streetfightertest\bin\x86\Debug\Content\ryu_high_kick4.xnb
+F:\Street Fighter\streetfightertest\streetfightertest\streetfightertest\bin\x86\Debug\Content\ryu_high_kick5.xnb
+F:\Street Fighter\streetfightertest\streetfightertest\streetfightertest\bin\x86\Debug\Content\ryu_forward_low_kick1.xnb
+F:\Street Fighter\streetfightertest\streetfightertest\streetfightertest\bin\x86\Debug\Content\ryu_forward_low_kick2.xnb
+F:\Street Fighter\streetfightertest\streetfightertest\streetfightertest\bin\x86\Debug\Content\ryu_forward_low_kick3.xnb
+F:\Street Fighter\streetfightertest\streetfightertest\streetfightertest\bin\x86\Debug\Content\ryu_forward_medium_kick1.xnb
+F:\Street Fighter\streetfightertest\streetfightertest\streetfightertest\bin\x86\Debug\Content\ryu_forward_medium_kick2.xnb
+F:\Street Fighter\streetfightertest\streetfightertest\streetfightertest\bin\x86\Debug\Content\ryu_forward_medium_kick3.xnb
+F:\Street Fighter\streetfightertest\streetfightertest\streetfightertest\bin\x86\Debug\Content\ryu_forward_medium_kick4.xnb
+F:\Street Fighter\streetfightertest\streetfightertest\streetfightertest\bin\x86\Debug\Content\ryu_forward_medium_kick5.xnb
+F:\Street Fighter\streetfightertest\streetfightertest\streetfightertest\bin\x86\Debug\Content\ryu_forward_high_kick1.xnb
+F:\Street Fighter\streetfightertest\streetfightertest\streetfightertest\bin\x86\Debug\Content\ryu_forward_high_kick2.xnb
+F:\Street Fighter\streetfightertest\streetfightertest\streetfightertest\bin\x86\Debug\Content\ryu_forward_high_kick3.xnb
+F:\Street Fighter\streetfightertest\streetfightertest\streetfightertest\bin\x86\Debug\Content\ryu_forward_high_kick4.xnb
+F:\Street Fighter\streetfightertest\streetfightertest\streetfightertest\bin\x86\Debug\Content\ryu_forward_high_kick5.xnb
+F:\Street Fighter\streetfightertest\streetfightertest\streetfightertest\bin\x86\Debug\Content\ryu_crouch_low_medium_punch1.xnb
+F:\Street Fighter\streetfightertest\streetfightertest\streetfightertest\bin\x86\Debug\Content\ryu_crouch_low_medium_punch2.xnb
+F:\Street Fighter\streetfightertest\streetfightertest\streetfightertest\bin\x86\Debug\Content\ryu_crouch_low_medium_punch3.xnb
+F:\Street Fighter\streetfightertest\streetfightertest\streetfightertest\bin\x86\Debug\Content\ryu_crouch_high_punch1.xnb
+F:\Street Fighter\streetfightertest\streetfightertest\streetfightertest\bin\x86\Debug\Content\ryu_crouch_high_punch2.xnb
+F:\Street Fighter\streetfightertest\streetfightertest\streetfightertest\bin\x86\Debug\Content\ryu_crouch_high_punch3.xnb
+F:\Street Fighter\streetfightertest\streetfightertest\streetfightertest\bin\x86\Debug\Content\ryu_crouch_high_punch4.xnb
+F:\Street Fighter\streetfightertest\streetfightertest\streetfightertest\bin\x86\Debug\Content\ryu_crouch_high_punch5.xnb
+F:\Street Fighter\streetfightertest\streetfightertest\streetfightertest\bin\x86\Debug\Content\ryu_crouch_low_kick1.xnb
+F:\Street Fighter\streetfightertest\streetfightertest\streetfightertest\bin\x86\Debug\Content\ryu_crouch_low_kick2.xnb
+F:\Street Fighter\streetfightertest\streetfightertest\streetfightertest\bin\x86\Debug\Content\ryu_crouch_low_kick3.xnb
+F:\Street Fighter\streetfightertest\streetfightertest\streetfightertest\bin\x86\Debug\Content\ryu_crouch_medium_kick1.xnb
+F:\Street Fighter\streetfightertest\streetfightertest\streetfightertest\bin\x86\Debug\Content\ryu_crouch_medium_kick2.xnb
+F:\Street Fighter\streetfightertest\streetfightertest\streetfightertest\bin\x86\Debug\Content\ryu_crouch_medium_kick3.xnb
+F:\Street Fighter\streetfightertest\streetfightertest\streetfightertest\bin\x86\Debug\Content\ryu_crouch_high_kick1.xnb
+F:\Street Fighter\streetfightertest\streetfightertest\streetfightertest\bin\x86\Debug\Content\ryu_crouch_high_kick2.xnb
+F:\Street Fighter\streetfightertest\streetfightertest\streetfightertest\bin\x86\Debug\Content\ryu_crouch_high_kick3.xnb
+F:\Street Fighter\streetfightertest\streetfightertest\streetfightertest\bin\x86\Debug\Content\ryu_crouch_high_kick4.xnb
+F:\Street Fighter\streetfightertest\streetfightertest\streetfightertest\bin\x86\Debug\Content\ryu_crouch_high_kick5.xnb
+F:\Street Fighter\streetfightertest\streetfightertest\streetfightertest\bin\x86\Debug\Content\ryu_hadouken1.xnb
+F:\Street Fighter\streetfightertest\streetfightertest\streetfightertest\bin\x86\Debug\Content\ryu_hadouken2.xnb
+F:\Street Fighter\streetfightertest\streetfightertest\streetfightertest\bin\x86\Debug\Content\ryu_hadouken3.xnb
+F:\Street Fighter\streetfightertest\streetfightertest\streetfightertest\bin\x86\Debug\Content\ryu_hadouken4.xnb
+F:\Street Fighter\streetfightertest\streetfightertest\streetfightertest\bin\x86\Debug\Content\ryu_tatsumaki1.xnb
+F:\Street Fighter\streetfightertest\streetfightertest\streetfightertest\bin\x86\Debug\Content\ryu_tatsumaki10.xnb
+F:\Street Fighter\streetfightertest\streetfightertest\streetfightertest\bin\x86\Debug\Content\ryu_tatsumaki11.xnb
+F:\Street Fighter\streetfightertest\streetfightertest\streetfightertest\bin\x86\Debug\Content\ryu_tatsumaki12.xnb
+F:\Street Fighter\streetfightertest\streetfightertest\streetfightertest\bin\x86\Debug\Content\ryu_tatsumaki2.xnb
+F:\Street Fighter\streetfightertest\streetfightertest\streetfightertest\bin\x86\Debug\Content\ryu_tatsumaki3.xnb
+F:\Street Fighter\streetfightertest\streetfightertest\streetfightertest\bin\x86\Debug\Content\ryu_tatsumaki4.xnb
+F:\Street Fighter\streetfightertest\streetfightertest\streetfightertest\bin\x86\Debug\Content\ryu_tatsumaki5.xnb
+F:\Street Fighter\streetfightertest\streetfightertest\streetfightertest\bin\x86\Debug\Content\ryu_tatsumaki6.xnb
+F:\Street Fighter\streetfightertest\streetfightertest\streetfightertest\bin\x86\Debug\Content\ryu_tatsumaki7.xnb
+F:\Street Fighter\streetfightertest\streetfightertest\streetfightertest\bin\x86\Debug\Content\ryu_tatsumaki8.xnb
+F:\Street Fighter\streetfightertest\streetfightertest\streetfightertest\bin\x86\Debug\Content\ryu_tatsumaki9.xnb
+F:\Street Fighter\streetfightertest\streetfightertest\streetfightertest\bin\x86\Debug\Content\ryu_shoryuken1.xnb
+F:\Street Fighter\streetfightertest\streetfightertest\streetfightertest\bin\x86\Debug\Content\ryu_shoryuken2.xnb
+F:\Street Fighter\streetfightertest\streetfightertest\streetfightertest\bin\x86\Debug\Content\ryu_shoryuken3.xnb
+F:\Street Fighter\streetfightertest\streetfightertest\streetfightertest\bin\x86\Debug\Content\ryu_shoryuken4.xnb
+F:\Street Fighter\streetfightertest\streetfightertest\streetfightertest\bin\x86\Debug\Content\ryu_shoryuken5.xnb
+F:\Street Fighter\streetfightertest\streetfightertest\streetfightertest\bin\x86\Debug\Content\ryu_shoryuken6.xnb
+F:\Street Fighter\streetfightertest\streetfightertest\streetfightertest\bin\x86\Debug\Content\ryu_shoryuken7.xnb
+F:\Street Fighter\streetfightertest\streetfightertest\streetfightertest\bin\x86\Debug\Content\hadouken_projectile1.xnb
+F:\Street Fighter\streetfightertest\streetfightertest\streetfightertest\bin\x86\Debug\Content\hadouken_projectile2.xnb
+F:\Street Fighter\streetfightertest\streetfightertest\streetfightertest\bin\x86\Debug\Content\hadouken_projectile3.xnb
+F:\Street Fighter\streetfightertest\streetfightertest\streetfightertest\bin\x86\Debug\Content\hadouken_projectile4.xnb
+F:\Street Fighter\streetfightertest\streetfightertest\streetfightertest\bin\x86\Debug\Content\hadouken_projectile5.xnb
+F:\Street Fighter\streetfightertest\streetfightertest\streetfightertest\bin\x86\Debug\Content\hadouken_projectile6.xnb
+F:\Street Fighter\streetfightertest\streetfightertest\streetfightertest\bin\x86\Debug\Content\hitbox.xnb
+F:\Street Fighter\streetfightertest\streetfightertest\streetfightertest\bin\x86\Debug\Content\attack_hitbox.xnb
+F:\Street Fighter\streetfightertest\streetfightertest\streetfightertest\bin\x86\Debug\streetfightertest.exe
+F:\Street Fighter\streetfightertest\streetfightertest\streetfightertest\bin\x86\Debug\streetfightertest.pdb
+F:\Street Fighter\streetfightertest\streetfightertest\streetfightertest\obj\x86\Debug\streetfightertest.csprojResolveAssemblyReference.cache
+F:\Street Fighter\streetfightertest\streetfightertest\streetfightertest\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+F:\Street Fighter\streetfightertest\streetfightertest\streetfightertest\obj\x86\Debug\streetfightertest.exe
+F:\Street Fighter\streetfightertest\streetfightertest\streetfightertest\obj\x86\Debug\streetfightertest.pdb
+H:\5th Period - Waltner\Final_Project\streetfightertest\streetfightertest\streetfightertest\bin\x86\Debug\Content\health_bar_danger.xnb
+H:\5th Period - Waltner\Final_Project\streetfightertest\streetfightertest\streetfightertest\bin\x86\Debug\Content\health_bar_healthy.xnb
+H:\5th Period - Waltner\Final_Project\streetfightertest\streetfightertest\streetfightertest\bin\x86\Debug\Content\health_bar_warning.xnb
+H:\5th Period - Waltner\Final_Project\streetfightertest\streetfightertest\streetfightertest\bin\x86\Debug\Content\ken_block_crouching.xnb
+H:\5th Period - Waltner\Final_Project\streetfightertest\streetfightertest\streetfightertest\bin\x86\Debug\Content\ken_block_standing.xnb
+F:\Street Fighter\streetfightertest\streetfightertest\streetfightertest\bin\x86\Debug\Content\health_bar_danger.xnb
+F:\Street Fighter\streetfightertest\streetfightertest\streetfightertest\bin\x86\Debug\Content\health_bar_healthy.xnb
+F:\Street Fighter\streetfightertest\streetfightertest\streetfightertest\bin\x86\Debug\Content\health_bar_warning.xnb
+F:\Street Fighter\streetfightertest\streetfightertest\streetfightertest\bin\x86\Debug\Content\ken_block_crouching.xnb
+F:\Street Fighter\streetfightertest\streetfightertest\streetfightertest\bin\x86\Debug\Content\ken_block_standing.xnb
+F:\Street Fighter\streetfightertest\streetfightertest\streetfightertest\bin\x86\Debug\Content\ken_hit1.xnb
+F:\Street Fighter\streetfightertest\streetfightertest\streetfightertest\bin\x86\Debug\Content\ken_hit2.xnb
+F:\Street Fighter\streetfightertest\streetfightertest\streetfightertest\bin\x86\Debug\Content\ken_hit3.xnb
+F:\Street Fighter\streetfightertest\streetfightertest\streetfightertest\bin\x86\Debug\Content\ken_hit4.xnb
+F:\Street Fighter\streetfightertest\streetfightertest\streetfightertest\bin\x86\Debug\Content\ken_face_hit1.xnb
+F:\Street Fighter\streetfightertest\streetfightertest\streetfightertest\bin\x86\Debug\Content\ken_face_hit2.xnb
+F:\Street Fighter\streetfightertest\streetfightertest\streetfightertest\bin\x86\Debug\Content\ken_face_hit3.xnb
+F:\Street Fighter\streetfightertest\streetfightertest\streetfightertest\bin\x86\Debug\Content\ken_face_hit4.xnb
+F:\Street Fighter\streetfightertest\streetfightertest\streetfightertest\bin\x86\Debug\Content\ken_crouch_hit.xnb
+H:\5th Period - Waltner\Final_Project\streetfightertest\streetfightertest\streetfightertest\bin\x86\Debug\Content\ken_hit1.xnb
+H:\5th Period - Waltner\Final_Project\streetfightertest\streetfightertest\streetfightertest\bin\x86\Debug\Content\ken_hit2.xnb
+H:\5th Period - Waltner\Final_Project\streetfightertest\streetfightertest\streetfightertest\bin\x86\Debug\Content\ken_hit3.xnb
+H:\5th Period - Waltner\Final_Project\streetfightertest\streetfightertest\streetfightertest\bin\x86\Debug\Content\ken_hit4.xnb
+H:\5th Period - Waltner\Final_Project\streetfightertest\streetfightertest\streetfightertest\bin\x86\Debug\Content\ken_face_hit1.xnb
+H:\5th Period - Waltner\Final_Project\streetfightertest\streetfightertest\streetfightertest\bin\x86\Debug\Content\ken_face_hit2.xnb
+H:\5th Period - Waltner\Final_Project\streetfightertest\streetfightertest\streetfightertest\bin\x86\Debug\Content\ken_face_hit3.xnb
+H:\5th Period - Waltner\Final_Project\streetfightertest\streetfightertest\streetfightertest\bin\x86\Debug\Content\ken_face_hit4.xnb
+H:\5th Period - Waltner\Final_Project\streetfightertest\streetfightertest\streetfightertest\bin\x86\Debug\Content\ken_crouch_hit.xnb
+H:\5th Period - Waltner\Final_Project\streetfightertest\streetfightertest\streetfightertest\bin\x86\Debug\Content\ryu_hit1.xnb
+H:\5th Period - Waltner\Final_Project\streetfightertest\streetfightertest\streetfightertest\bin\x86\Debug\Content\ryu_hit2.xnb
+H:\5th Period - Waltner\Final_Project\streetfightertest\streetfightertest\streetfightertest\bin\x86\Debug\Content\ryu_hit3.xnb
+H:\5th Period - Waltner\Final_Project\streetfightertest\streetfightertest\streetfightertest\bin\x86\Debug\Content\ryu_hit4.xnb
+H:\5th Period - Waltner\Final_Project\streetfightertest\streetfightertest\streetfightertest\bin\x86\Debug\Content\ryu_face_hit1.xnb
+H:\5th Period - Waltner\Final_Project\streetfightertest\streetfightertest\streetfightertest\bin\x86\Debug\Content\ryu_face_hit2.xnb
+H:\5th Period - Waltner\Final_Project\streetfightertest\streetfightertest\streetfightertest\bin\x86\Debug\Content\ryu_face_hit3.xnb
+H:\5th Period - Waltner\Final_Project\streetfightertest\streetfightertest\streetfightertest\bin\x86\Debug\Content\ryu_face_hit4.xnb
+H:\5th Period - Waltner\Final_Project\streetfightertest\streetfightertest\streetfightertest\bin\x86\Debug\Content\ryu_crouch_hit.xnb
+H:\5th Period - Waltner\Final_Project\streetfightertest\streetfightertest\streetfightertest\bin\x86\Debug\Content\ryu_knockdown1.xnb
+H:\5th Period - Waltner\Final_Project\streetfightertest\streetfightertest\streetfightertest\bin\x86\Debug\Content\ryu_knockdown2.xnb
+H:\5th Period - Waltner\Final_Project\streetfightertest\streetfightertest\streetfightertest\bin\x86\Debug\Content\ryu_knockdown3.xnb
+H:\5th Period - Waltner\Final_Project\streetfightertest\streetfightertest\streetfightertest\bin\x86\Debug\Content\ryu_knockdown4.xnb
+H:\5th Period - Waltner\Final_Project\streetfightertest\streetfightertest\streetfightertest\bin\x86\Debug\Content\ryu_knockdown5.xnb
+H:\5th Period - Waltner\Final_Project\streetfightertest\streetfightertest\streetfightertest\bin\x86\Debug\Content\ryu_knockdown6.xnb
+H:\5th Period - Waltner\Final_Project\streetfightertest\streetfightertest\streetfightertest\bin\x86\Debug\Content\ryu_knockdown7.xnb
+H:\5th Period - Waltner\Final_Project\streetfightertest\streetfightertest\streetfightertest\bin\x86\Debug\Content\ryu_knockdown8.xnb
+H:\5th Period - Waltner\Final_Project\streetfightertest\streetfightertest\streetfightertest\bin\x86\Debug\Content\ryu_knockout1.xnb
+H:\5th Period - Waltner\Final_Project\streetfightertest\streetfightertest\streetfightertest\bin\x86\Debug\Content\ryu_knockout2.xnb
+H:\5th Period - Waltner\Final_Project\streetfightertest\streetfightertest\streetfightertest\bin\x86\Debug\Content\ryu_knockout3.xnb
+H:\5th Period - Waltner\Final_Project\streetfightertest\streetfightertest\streetfightertest\bin\x86\Debug\Content\ryu_knockout4.xnb
+H:\5th Period - Waltner\Final_Project\streetfightertest\streetfightertest\streetfightertest\bin\x86\Debug\Content\ryu_knockout5.xnb
+H:\5th Period - Waltner\Final_Project\streetfightertest\streetfightertest\streetfightertest\bin\x86\Debug\Content\ryu_victory1.xnb
+H:\5th Period - Waltner\Final_Project\streetfightertest\streetfightertest\streetfightertest\bin\x86\Debug\Content\ryu_victory2.xnb
+H:\5th Period - Waltner\Final_Project\streetfightertest\streetfightertest\streetfightertest\bin\x86\Debug\Content\ryu_victory3.xnb
+H:\5th Period - Waltner\Final_Project\streetfightertest\streetfightertest\streetfightertest\bin\x86\Debug\Content\ken_knockdown1.xnb
+H:\5th Period - Waltner\Final_Project\streetfightertest\streetfightertest\streetfightertest\bin\x86\Debug\Content\ken_knockdown2.xnb
+H:\5th Period - Waltner\Final_Project\streetfightertest\streetfightertest\streetfightertest\bin\x86\Debug\Content\ken_knockdown3.xnb
+H:\5th Period - Waltner\Final_Project\streetfightertest\streetfightertest\streetfightertest\bin\x86\Debug\Content\ken_knockdown4.xnb
+H:\5th Period - Waltner\Final_Project\streetfightertest\streetfightertest\streetfightertest\bin\x86\Debug\Content\ken_knockdown5.xnb
+H:\5th Period - Waltner\Final_Project\streetfightertest\streetfightertest\streetfightertest\bin\x86\Debug\Content\ken_knockdown6.xnb
+H:\5th Period - Waltner\Final_Project\streetfightertest\streetfightertest\streetfightertest\bin\x86\Debug\Content\ken_knockdown7.xnb
+H:\5th Period - Waltner\Final_Project\streetfightertest\streetfightertest\streetfightertest\bin\x86\Debug\Content\ken_knockdown8.xnb
+H:\5th Period - Waltner\Final_Project\streetfightertest\streetfightertest\streetfightertest\bin\x86\Debug\Content\ken_knockout1.xnb
+H:\5th Period - Waltner\Final_Project\streetfightertest\streetfightertest\streetfightertest\bin\x86\Debug\Content\ken_knockout2.xnb
+H:\5th Period - Waltner\Final_Project\streetfightertest\streetfightertest\streetfightertest\bin\x86\Debug\Content\ken_knockout3.xnb
+H:\5th Period - Waltner\Final_Project\streetfightertest\streetfightertest\streetfightertest\bin\x86\Debug\Content\ken_knockout4.xnb
+H:\5th Period - Waltner\Final_Project\streetfightertest\streetfightertest\streetfightertest\bin\x86\Debug\Content\ken_knockout5.xnb
+H:\5th Period - Waltner\Final_Project\streetfightertest\streetfightertest\streetfightertest\bin\x86\Debug\Content\ken_victory1.xnb
+H:\5th Period - Waltner\Final_Project\streetfightertest\streetfightertest\streetfightertest\bin\x86\Debug\Content\ken_victory2.xnb
+H:\5th Period - Waltner\Final_Project\streetfightertest\streetfightertest\streetfightertest\bin\x86\Debug\Content\ken_victory3.xnb
+H:\5th Period - Waltner\Final_Project\streetfightertest\streetfightertest\streetfightertest\bin\x86\Debug\Content\ken_knockdown9.xnb
+H:\5th Period - Waltner\Final_Project\streetfightertest\streetfightertest\streetfightertest\bin\x86\Debug\Content\ryu_knockdown9.xnb
+F:\Street Fighter\streetfightertest\streetfightertest\streetfightertest\bin\x86\Debug\Content\ryu_hit1.xnb
+F:\Street Fighter\streetfightertest\streetfightertest\streetfightertest\bin\x86\Debug\Content\ryu_hit2.xnb
+F:\Street Fighter\streetfightertest\streetfightertest\streetfightertest\bin\x86\Debug\Content\ryu_hit3.xnb
+F:\Street Fighter\streetfightertest\streetfightertest\streetfightertest\bin\x86\Debug\Content\ryu_hit4.xnb
+F:\Street Fighter\streetfightertest\streetfightertest\streetfightertest\bin\x86\Debug\Content\ryu_face_hit1.xnb
+F:\Street Fighter\streetfightertest\streetfightertest\streetfightertest\bin\x86\Debug\Content\ryu_face_hit2.xnb
+F:\Street Fighter\streetfightertest\streetfightertest\streetfightertest\bin\x86\Debug\Content\ryu_face_hit3.xnb
+F:\Street Fighter\streetfightertest\streetfightertest\streetfightertest\bin\x86\Debug\Content\ryu_face_hit4.xnb
+F:\Street Fighter\streetfightertest\streetfightertest\streetfightertest\bin\x86\Debug\Content\ryu_crouch_hit.xnb
+F:\Street Fighter\streetfightertest\streetfightertest\streetfightertest\bin\x86\Debug\Content\ryu_knockout1.xnb
+F:\Street Fighter\streetfightertest\streetfightertest\streetfightertest\bin\x86\Debug\Content\ryu_knockout2.xnb
+F:\Street Fighter\streetfightertest\streetfightertest\streetfightertest\bin\x86\Debug\Content\ryu_knockout3.xnb
+F:\Street Fighter\streetfightertest\streetfightertest\streetfightertest\bin\x86\Debug\Content\ryu_knockout4.xnb
+F:\Street Fighter\streetfightertest\streetfightertest\streetfightertest\bin\x86\Debug\Content\ryu_knockout5.xnb
+F:\Street Fighter\streetfightertest\streetfightertest\streetfightertest\bin\x86\Debug\Content\ryu_victory1.xnb
+F:\Street Fighter\streetfightertest\streetfightertest\streetfightertest\bin\x86\Debug\Content\ryu_victory2.xnb
+F:\Street Fighter\streetfightertest\streetfightertest\streetfightertest\bin\x86\Debug\Content\ryu_victory3.xnb
+F:\Street Fighter\streetfightertest\streetfightertest\streetfightertest\bin\x86\Debug\Content\ken_knockout1.xnb
+F:\Street Fighter\streetfightertest\streetfightertest\streetfightertest\bin\x86\Debug\Content\ken_knockout2.xnb
+F:\Street Fighter\streetfightertest\streetfightertest\streetfightertest\bin\x86\Debug\Content\ken_knockout3.xnb
+F:\Street Fighter\streetfightertest\streetfightertest\streetfightertest\bin\x86\Debug\Content\ken_knockout4.xnb
+F:\Street Fighter\streetfightertest\streetfightertest\streetfightertest\bin\x86\Debug\Content\ken_knockout5.xnb
+F:\Street Fighter\streetfightertest\streetfightertest\streetfightertest\bin\x86\Debug\Content\ken_victory1.xnb
+F:\Street Fighter\streetfightertest\streetfightertest\streetfightertest\bin\x86\Debug\Content\ken_victory2.xnb
+F:\Street Fighter\streetfightertest\streetfightertest\streetfightertest\bin\x86\Debug\Content\ken_victory3.xnb
+F:\Street Fighter\streetfightertest\streetfightertest\streetfightertest\bin\x86\Debug\Content\ken_knockdown1.xnb
+F:\Street Fighter\streetfightertest\streetfightertest\streetfightertest\bin\x86\Debug\Content\ken_knockdown2.xnb
+F:\Street Fighter\streetfightertest\streetfightertest\streetfightertest\bin\x86\Debug\Content\ken_knockdown3.xnb
+F:\Street Fighter\streetfightertest\streetfightertest\streetfightertest\bin\x86\Debug\Content\ken_knockdown4.xnb
+F:\Street Fighter\streetfightertest\streetfightertest\streetfightertest\bin\x86\Debug\Content\ken_knockdown5.xnb
+F:\Street Fighter\streetfightertest\streetfightertest\streetfightertest\bin\x86\Debug\Content\ken_knockdown6.xnb
+F:\Street Fighter\streetfightertest\streetfightertest\streetfightertest\bin\x86\Debug\Content\ken_knockdown7.xnb
+F:\Street Fighter\streetfightertest\streetfightertest\streetfightertest\bin\x86\Debug\Content\ken_knockdown8.xnb
+F:\Street Fighter\streetfightertest\streetfightertest\streetfightertest\bin\x86\Debug\Content\ken_knockdown9.xnb
+F:\Street Fighter\streetfightertest\streetfightertest\streetfightertest\bin\x86\Debug\Content\ryu_knockdown1.xnb
+F:\Street Fighter\streetfightertest\streetfightertest\streetfightertest\bin\x86\Debug\Content\ryu_knockdown2.xnb
+F:\Street Fighter\streetfightertest\streetfightertest\streetfightertest\bin\x86\Debug\Content\ryu_knockdown3.xnb
+F:\Street Fighter\streetfightertest\streetfightertest\streetfightertest\bin\x86\Debug\Content\ryu_knockdown4.xnb
+F:\Street Fighter\streetfightertest\streetfightertest\streetfightertest\bin\x86\Debug\Content\ryu_knockdown5.xnb
+F:\Street Fighter\streetfightertest\streetfightertest\streetfightertest\bin\x86\Debug\Content\ryu_knockdown6.xnb
+F:\Street Fighter\streetfightertest\streetfightertest\streetfightertest\bin\x86\Debug\Content\ryu_knockdown7.xnb
+F:\Street Fighter\streetfightertest\streetfightertest\streetfightertest\bin\x86\Debug\Content\ryu_knockdown8.xnb
+F:\Street Fighter\streetfightertest\streetfightertest\streetfightertest\bin\x86\Debug\Content\ryu_knockdown9.xnb
+H:\5th Period - Waltner\Final_Project\streetfightertest\streetfightertest\streetfightertest\bin\x86\Debug\Content\TitleFont.xnb
+H:\5th Period - Waltner\Final_Project\streetfightertest\streetfightertest\streetfightertest\bin\x86\Debug\Content\TextFont.xnb
+F:\Street Fighter\streetfightertest\streetfightertest\streetfightertest\bin\x86\Debug\Content\TitleFont.xnb
+F:\Street Fighter\streetfightertest\streetfightertest\streetfightertest\bin\x86\Debug\Content\TextFont.xnb
+C:\Users\Wilson\Documents\Visual Studio 2010\Projects\streetfightertest\streetfightertest\streetfightertest\bin\x86\Debug\Content\ken_crouch.xnb
+C:\Users\Wilson\Documents\Visual Studio 2010\Projects\streetfightertest\streetfightertest\streetfightertest\bin\x86\Debug\Content\ken_idle1.xnb
+C:\Users\Wilson\Documents\Visual Studio 2010\Projects\streetfightertest\streetfightertest\streetfightertest\bin\x86\Debug\Content\ken_idle2.xnb
+C:\Users\Wilson\Documents\Visual Studio 2010\Projects\streetfightertest\streetfightertest\streetfightertest\bin\x86\Debug\Content\ken_idle3.xnb
+C:\Users\Wilson\Documents\Visual Studio 2010\Projects\streetfightertest\streetfightertest\streetfightertest\bin\x86\Debug\Content\ken_idle4.xnb
+C:\Users\Wilson\Documents\Visual Studio 2010\Projects\streetfightertest\streetfightertest\streetfightertest\bin\x86\Debug\Content\ken_walking1.xnb
+C:\Users\Wilson\Documents\Visual Studio 2010\Projects\streetfightertest\streetfightertest\streetfightertest\bin\x86\Debug\Content\ken_walking2.xnb
+C:\Users\Wilson\Documents\Visual Studio 2010\Projects\streetfightertest\streetfightertest\streetfightertest\bin\x86\Debug\Content\ken_walking3.xnb
+C:\Users\Wilson\Documents\Visual Studio 2010\Projects\streetfightertest\streetfightertest\streetfightertest\bin\x86\Debug\Content\ken_walking4.xnb
+C:\Users\Wilson\Documents\Visual Studio 2010\Projects\streetfightertest\streetfightertest\streetfightertest\bin\x86\Debug\Content\ken_walking5.xnb
+C:\Users\Wilson\Documents\Visual Studio 2010\Projects\streetfightertest\streetfightertest\streetfightertest\bin\x86\Debug\Content\ken_jumping1.xnb
+C:\Users\Wilson\Documents\Visual Studio 2010\Projects\streetfightertest\streetfightertest\streetfightertest\bin\x86\Debug\Content\ken_jumping2.xnb
+C:\Users\Wilson\Documents\Visual Studio 2010\Projects\streetfightertest\streetfightertest\streetfightertest\bin\x86\Debug\Content\ken_jumping3.xnb
+C:\Users\Wilson\Documents\Visual Studio 2010\Projects\streetfightertest\streetfightertest\streetfightertest\bin\x86\Debug\Content\ken_jumping4.xnb
+C:\Users\Wilson\Documents\Visual Studio 2010\Projects\streetfightertest\streetfightertest\streetfightertest\bin\x86\Debug\Content\ken_jumping5.xnb
+C:\Users\Wilson\Documents\Visual Studio 2010\Projects\streetfightertest\streetfightertest\streetfightertest\bin\x86\Debug\Content\ken_jumping6.xnb
+C:\Users\Wilson\Documents\Visual Studio 2010\Projects\streetfightertest\streetfightertest\streetfightertest\bin\x86\Debug\Content\ken_jumping7.xnb
+C:\Users\Wilson\Documents\Visual Studio 2010\Projects\streetfightertest\streetfightertest\streetfightertest\bin\x86\Debug\Content\ken_forwardjump1.xnb
+C:\Users\Wilson\Documents\Visual Studio 2010\Projects\streetfightertest\streetfightertest\streetfightertest\bin\x86\Debug\Content\ken_forwardjump2.xnb
+C:\Users\Wilson\Documents\Visual Studio 2010\Projects\streetfightertest\streetfightertest\streetfightertest\bin\x86\Debug\Content\ken_forwardjump3.xnb
+C:\Users\Wilson\Documents\Visual Studio 2010\Projects\streetfightertest\streetfightertest\streetfightertest\bin\x86\Debug\Content\ken_forwardjump4.xnb
+C:\Users\Wilson\Documents\Visual Studio 2010\Projects\streetfightertest\streetfightertest\streetfightertest\bin\x86\Debug\Content\ken_forwardjump5.xnb
+C:\Users\Wilson\Documents\Visual Studio 2010\Projects\streetfightertest\streetfightertest\streetfightertest\bin\x86\Debug\Content\ken_forwardjump6.xnb
+C:\Users\Wilson\Documents\Visual Studio 2010\Projects\streetfightertest\streetfightertest\streetfightertest\bin\x86\Debug\Content\ken_low_punch1.xnb
+C:\Users\Wilson\Documents\Visual Studio 2010\Projects\streetfightertest\streetfightertest\streetfightertest\bin\x86\Debug\Content\ken_low_punch2.xnb
+C:\Users\Wilson\Documents\Visual Studio 2010\Projects\streetfightertest\streetfightertest\streetfightertest\bin\x86\Debug\Content\ken_low_punch3.xnb
+C:\Users\Wilson\Documents\Visual Studio 2010\Projects\streetfightertest\streetfightertest\streetfightertest\bin\x86\Debug\Content\ken_medium_high_punch1.xnb
+C:\Users\Wilson\Documents\Visual Studio 2010\Projects\streetfightertest\streetfightertest\streetfightertest\bin\x86\Debug\Content\ken_medium_high_punch2.xnb
+C:\Users\Wilson\Documents\Visual Studio 2010\Projects\streetfightertest\streetfightertest\streetfightertest\bin\x86\Debug\Content\ken_medium_high_punch3.xnb
+C:\Users\Wilson\Documents\Visual Studio 2010\Projects\streetfightertest\streetfightertest\streetfightertest\bin\x86\Debug\Content\ken_medium_high_punch4.xnb
+C:\Users\Wilson\Documents\Visual Studio 2010\Projects\streetfightertest\streetfightertest\streetfightertest\bin\x86\Debug\Content\ken_medium_high_punch5.xnb
+C:\Users\Wilson\Documents\Visual Studio 2010\Projects\streetfightertest\streetfightertest\streetfightertest\bin\x86\Debug\Content\ken_crouch_low_medium_punch1.xnb
+C:\Users\Wilson\Documents\Visual Studio 2010\Projects\streetfightertest\streetfightertest\streetfightertest\bin\x86\Debug\Content\ken_crouch_low_medium_punch2.xnb
+C:\Users\Wilson\Documents\Visual Studio 2010\Projects\streetfightertest\streetfightertest\streetfightertest\bin\x86\Debug\Content\ken_crouch_low_medium_punch3.xnb
+C:\Users\Wilson\Documents\Visual Studio 2010\Projects\streetfightertest\streetfightertest\streetfightertest\bin\x86\Debug\Content\ken_crouch_high_punch1.xnb
+C:\Users\Wilson\Documents\Visual Studio 2010\Projects\streetfightertest\streetfightertest\streetfightertest\bin\x86\Debug\Content\ken_crouch_high_punch2.xnb
+C:\Users\Wilson\Documents\Visual Studio 2010\Projects\streetfightertest\streetfightertest\streetfightertest\bin\x86\Debug\Content\ken_crouch_high_punch3.xnb
+C:\Users\Wilson\Documents\Visual Studio 2010\Projects\streetfightertest\streetfightertest\streetfightertest\bin\x86\Debug\Content\ken_crouch_high_punch4.xnb
+C:\Users\Wilson\Documents\Visual Studio 2010\Projects\streetfightertest\streetfightertest\streetfightertest\bin\x86\Debug\Content\ken_crouch_high_punch5.xnb
+C:\Users\Wilson\Documents\Visual Studio 2010\Projects\streetfightertest\streetfightertest\streetfightertest\bin\x86\Debug\Content\ken_low_medium_kick1.xnb
+C:\Users\Wilson\Documents\Visual Studio 2010\Projects\streetfightertest\streetfightertest\streetfightertest\bin\x86\Debug\Content\ken_low_medium_kick2.xnb
+C:\Users\Wilson\Documents\Visual Studio 2010\Projects\streetfightertest\streetfightertest\streetfightertest\bin\x86\Debug\Content\ken_low_medium_kick3.xnb
+C:\Users\Wilson\Documents\Visual Studio 2010\Projects\streetfightertest\streetfightertest\streetfightertest\bin\x86\Debug\Content\ken_high_kick1.xnb
+C:\Users\Wilson\Documents\Visual Studio 2010\Projects\streetfightertest\streetfightertest\streetfightertest\bin\x86\Debug\Content\ken_high_kick2.xnb
+C:\Users\Wilson\Documents\Visual Studio 2010\Projects\streetfightertest\streetfightertest\streetfightertest\bin\x86\Debug\Content\ken_high_kick3.xnb
+C:\Users\Wilson\Documents\Visual Studio 2010\Projects\streetfightertest\streetfightertest\streetfightertest\bin\x86\Debug\Content\ken_high_kick4.xnb
+C:\Users\Wilson\Documents\Visual Studio 2010\Projects\streetfightertest\streetfightertest\streetfightertest\bin\x86\Debug\Content\ken_high_kick5.xnb
+C:\Users\Wilson\Documents\Visual Studio 2010\Projects\streetfightertest\streetfightertest\streetfightertest\bin\x86\Debug\Content\ken_crouch_low_kick1.xnb
+C:\Users\Wilson\Documents\Visual Studio 2010\Projects\streetfightertest\streetfightertest\streetfightertest\bin\x86\Debug\Content\ken_crouch_low_kick2.xnb
+C:\Users\Wilson\Documents\Visual Studio 2010\Projects\streetfightertest\streetfightertest\streetfightertest\bin\x86\Debug\Content\ken_crouch_low_kick3.xnb
+C:\Users\Wilson\Documents\Visual Studio 2010\Projects\streetfightertest\streetfightertest\streetfightertest\bin\x86\Debug\Content\ken_crouch_medium_kick1.xnb
+C:\Users\Wilson\Documents\Visual Studio 2010\Projects\streetfightertest\streetfightertest\streetfightertest\bin\x86\Debug\Content\ken_crouch_medium_kick2.xnb
+C:\Users\Wilson\Documents\Visual Studio 2010\Projects\streetfightertest\streetfightertest\streetfightertest\bin\x86\Debug\Content\ken_crouch_medium_kick3.xnb
+C:\Users\Wilson\Documents\Visual Studio 2010\Projects\streetfightertest\streetfightertest\streetfightertest\bin\x86\Debug\Content\ken_crouch_high_kick1.xnb
+C:\Users\Wilson\Documents\Visual Studio 2010\Projects\streetfightertest\streetfightertest\streetfightertest\bin\x86\Debug\Content\ken_crouch_high_kick2.xnb
+C:\Users\Wilson\Documents\Visual Studio 2010\Projects\streetfightertest\streetfightertest\streetfightertest\bin\x86\Debug\Content\ken_crouch_high_kick3.xnb
+C:\Users\Wilson\Documents\Visual Studio 2010\Projects\streetfightertest\streetfightertest\streetfightertest\bin\x86\Debug\Content\ken_crouch_high_kick4.xnb
+C:\Users\Wilson\Documents\Visual Studio 2010\Projects\streetfightertest\streetfightertest\streetfightertest\bin\x86\Debug\Content\ken_crouch_high_kick5.xnb
+C:\Users\Wilson\Documents\Visual Studio 2010\Projects\streetfightertest\streetfightertest\streetfightertest\bin\x86\Debug\Content\ken_shoryuken1.xnb
+C:\Users\Wilson\Documents\Visual Studio 2010\Projects\streetfightertest\streetfightertest\streetfightertest\bin\x86\Debug\Content\ken_shoryuken2.xnb
+C:\Users\Wilson\Documents\Visual Studio 2010\Projects\streetfightertest\streetfightertest\streetfightertest\bin\x86\Debug\Content\ken_shoryuken3.xnb
+C:\Users\Wilson\Documents\Visual Studio 2010\Projects\streetfightertest\streetfightertest\streetfightertest\bin\x86\Debug\Content\ken_shoryuken4.xnb
+C:\Users\Wilson\Documents\Visual Studio 2010\Projects\streetfightertest\streetfightertest\streetfightertest\bin\x86\Debug\Content\ken_shoryuken5.xnb
+C:\Users\Wilson\Documents\Visual Studio 2010\Projects\streetfightertest\streetfightertest\streetfightertest\bin\x86\Debug\Content\ken_shoryuken6.xnb
+C:\Users\Wilson\Documents\Visual Studio 2010\Projects\streetfightertest\streetfightertest\streetfightertest\bin\x86\Debug\Content\ken_shoryuken7.xnb
+C:\Users\Wilson\Documents\Visual Studio 2010\Projects\streetfightertest\streetfightertest\streetfightertest\bin\x86\Debug\Content\ken_hadouken1.xnb
+C:\Users\Wilson\Documents\Visual Studio 2010\Projects\streetfightertest\streetfightertest\streetfightertest\bin\x86\Debug\Content\ken_hadouken2.xnb
+C:\Users\Wilson\Documents\Visual Studio 2010\Projects\streetfightertest\streetfightertest\streetfightertest\bin\x86\Debug\Content\ken_hadouken3.xnb
+C:\Users\Wilson\Documents\Visual Studio 2010\Projects\streetfightertest\streetfightertest\streetfightertest\bin\x86\Debug\Content\ken_hadouken4.xnb
+C:\Users\Wilson\Documents\Visual Studio 2010\Projects\streetfightertest\streetfightertest\streetfightertest\bin\x86\Debug\Content\ken_projectile_hadouken1.xnb
+C:\Users\Wilson\Documents\Visual Studio 2010\Projects\streetfightertest\streetfightertest\streetfightertest\bin\x86\Debug\Content\ken_projectile_hadouken2.xnb
+C:\Users\Wilson\Documents\Visual Studio 2010\Projects\streetfightertest\streetfightertest\streetfightertest\bin\x86\Debug\Content\ken_projectile_hadouken3.xnb
+C:\Users\Wilson\Documents\Visual Studio 2010\Projects\streetfightertest\streetfightertest\streetfightertest\bin\x86\Debug\Content\ken_projectile_hadouken4.xnb
+C:\Users\Wilson\Documents\Visual Studio 2010\Projects\streetfightertest\streetfightertest\streetfightertest\bin\x86\Debug\Content\ken_projectile_hadouken5.xnb
+C:\Users\Wilson\Documents\Visual Studio 2010\Projects\streetfightertest\streetfightertest\streetfightertest\bin\x86\Debug\Content\ken_projectile_hadouken6.xnb
+C:\Users\Wilson\Documents\Visual Studio 2010\Projects\streetfightertest\streetfightertest\streetfightertest\bin\x86\Debug\Content\ken_tatsumaki1.xnb
+C:\Users\Wilson\Documents\Visual Studio 2010\Projects\streetfightertest\streetfightertest\streetfightertest\bin\x86\Debug\Content\ken_tatsumaki10.xnb
+C:\Users\Wilson\Documents\Visual Studio 2010\Projects\streetfightertest\streetfightertest\streetfightertest\bin\x86\Debug\Content\ken_tatsumaki11.xnb
+C:\Users\Wilson\Documents\Visual Studio 2010\Projects\streetfightertest\streetfightertest\streetfightertest\bin\x86\Debug\Content\ken_tatsumaki12.xnb
+C:\Users\Wilson\Documents\Visual Studio 2010\Projects\streetfightertest\streetfightertest\streetfightertest\bin\x86\Debug\Content\ken_tatsumaki13.xnb
+C:\Users\Wilson\Documents\Visual Studio 2010\Projects\streetfightertest\streetfightertest\streetfightertest\bin\x86\Debug\Content\ken_tatsumaki2.xnb
+C:\Users\Wilson\Documents\Visual Studio 2010\Projects\streetfightertest\streetfightertest\streetfightertest\bin\x86\Debug\Content\ken_tatsumaki3.xnb
+C:\Users\Wilson\Documents\Visual Studio 2010\Projects\streetfightertest\streetfightertest\streetfightertest\bin\x86\Debug\Content\ken_tatsumaki4.xnb
+C:\Users\Wilson\Documents\Visual Studio 2010\Projects\streetfightertest\streetfightertest\streetfightertest\bin\x86\Debug\Content\ken_tatsumaki5.xnb
+C:\Users\Wilson\Documents\Visual Studio 2010\Projects\streetfightertest\streetfightertest\streetfightertest\bin\x86\Debug\Content\ken_tatsumaki6.xnb
+C:\Users\Wilson\Documents\Visual Studio 2010\Projects\streetfightertest\streetfightertest\streetfightertest\bin\x86\Debug\Content\ken_tatsumaki7.xnb
+C:\Users\Wilson\Documents\Visual Studio 2010\Projects\streetfightertest\streetfightertest\streetfightertest\bin\x86\Debug\Content\ken_tatsumaki8.xnb
+C:\Users\Wilson\Documents\Visual Studio 2010\Projects\streetfightertest\streetfightertest\streetfightertest\bin\x86\Debug\Content\ken_tatsumaki9.xnb
+C:\Users\Wilson\Documents\Visual Studio 2010\Projects\streetfightertest\streetfightertest\streetfightertest\bin\x86\Debug\Content\ken_forward_low_punch1.xnb
+C:\Users\Wilson\Documents\Visual Studio 2010\Projects\streetfightertest\streetfightertest\streetfightertest\bin\x86\Debug\Content\ken_forward_low_punch2.xnb
+C:\Users\Wilson\Documents\Visual Studio 2010\Projects\streetfightertest\streetfightertest\streetfightertest\bin\x86\Debug\Content\ken_forward_low_punch3.xnb
+C:\Users\Wilson\Documents\Visual Studio 2010\Projects\streetfightertest\streetfightertest\streetfightertest\bin\x86\Debug\Content\ken_forward_medium_punch1.xnb
+C:\Users\Wilson\Documents\Visual Studio 2010\Projects\streetfightertest\streetfightertest\streetfightertest\bin\x86\Debug\Content\ken_forward_medium_punch2.xnb
+C:\Users\Wilson\Documents\Visual Studio 2010\Projects\streetfightertest\streetfightertest\streetfightertest\bin\x86\Debug\Content\ken_forward_medium_punch3.xnb
+C:\Users\Wilson\Documents\Visual Studio 2010\Projects\streetfightertest\streetfightertest\streetfightertest\bin\x86\Debug\Content\ken_forward_medium_punch4.xnb
+C:\Users\Wilson\Documents\Visual Studio 2010\Projects\streetfightertest\streetfightertest\streetfightertest\bin\x86\Debug\Content\ken_forward_medium_punch5.xnb
+C:\Users\Wilson\Documents\Visual Studio 2010\Projects\streetfightertest\streetfightertest\streetfightertest\bin\x86\Debug\Content\ken_forward_medium_punch6.xnb
+C:\Users\Wilson\Documents\Visual Studio 2010\Projects\streetfightertest\streetfightertest\streetfightertest\bin\x86\Debug\Content\ken_forward_medium_punch7.xnb
+C:\Users\Wilson\Documents\Visual Studio 2010\Projects\streetfightertest\streetfightertest\streetfightertest\bin\x86\Debug\Content\ken_forward_high_punch1.xnb
+C:\Users\Wilson\Documents\Visual Studio 2010\Projects\streetfightertest\streetfightertest\streetfightertest\bin\x86\Debug\Content\ken_forward_high_punch2.xnb
+C:\Users\Wilson\Documents\Visual Studio 2010\Projects\streetfightertest\streetfightertest\streetfightertest\bin\x86\Debug\Content\ken_forward_high_punch3.xnb
+C:\Users\Wilson\Documents\Visual Studio 2010\Projects\streetfightertest\streetfightertest\streetfightertest\bin\x86\Debug\Content\ken_forward_high_punch4.xnb
+C:\Users\Wilson\Documents\Visual Studio 2010\Projects\streetfightertest\streetfightertest\streetfightertest\bin\x86\Debug\Content\ken_forward_high_punch5.xnb
+C:\Users\Wilson\Documents\Visual Studio 2010\Projects\streetfightertest\streetfightertest\streetfightertest\bin\x86\Debug\Content\ken_forward_low_kick1.xnb
+C:\Users\Wilson\Documents\Visual Studio 2010\Projects\streetfightertest\streetfightertest\streetfightertest\bin\x86\Debug\Content\ken_forward_low_kick2.xnb
+C:\Users\Wilson\Documents\Visual Studio 2010\Projects\streetfightertest\streetfightertest\streetfightertest\bin\x86\Debug\Content\ken_forward_low_kick3.xnb
+C:\Users\Wilson\Documents\Visual Studio 2010\Projects\streetfightertest\streetfightertest\streetfightertest\bin\x86\Debug\Content\ken_forward_medium_kick1.xnb
+C:\Users\Wilson\Documents\Visual Studio 2010\Projects\streetfightertest\streetfightertest\streetfightertest\bin\x86\Debug\Content\ken_forward_medium_kick2.xnb
+C:\Users\Wilson\Documents\Visual Studio 2010\Projects\streetfightertest\streetfightertest\streetfightertest\bin\x86\Debug\Content\ken_forward_medium_kick3.xnb
+C:\Users\Wilson\Documents\Visual Studio 2010\Projects\streetfightertest\streetfightertest\streetfightertest\bin\x86\Debug\Content\ken_forward_medium_kick4.xnb
+C:\Users\Wilson\Documents\Visual Studio 2010\Projects\streetfightertest\streetfightertest\streetfightertest\bin\x86\Debug\Content\ken_forward_medium_kick5.xnb
+C:\Users\Wilson\Documents\Visual Studio 2010\Projects\streetfightertest\streetfightertest\streetfightertest\bin\x86\Debug\Content\ken_forward_high_kick1.xnb
+C:\Users\Wilson\Documents\Visual Studio 2010\Projects\streetfightertest\streetfightertest\streetfightertest\bin\x86\Debug\Content\ken_forward_high_kick2.xnb
+C:\Users\Wilson\Documents\Visual Studio 2010\Projects\streetfightertest\streetfightertest\streetfightertest\bin\x86\Debug\Content\ken_forward_high_kick3.xnb
+C:\Users\Wilson\Documents\Visual Studio 2010\Projects\streetfightertest\streetfightertest\streetfightertest\bin\x86\Debug\Content\ken_forward_high_kick4.xnb
+C:\Users\Wilson\Documents\Visual Studio 2010\Projects\streetfightertest\streetfightertest\streetfightertest\bin\x86\Debug\Content\ken_forward_high_kick5.xnb
+C:\Users\Wilson\Documents\Visual Studio 2010\Projects\streetfightertest\streetfightertest\streetfightertest\bin\x86\Debug\Content\ryu_idle1.xnb
+C:\Users\Wilson\Documents\Visual Studio 2010\Projects\streetfightertest\streetfightertest\streetfightertest\bin\x86\Debug\Content\ryu_idle2.xnb
+C:\Users\Wilson\Documents\Visual Studio 2010\Projects\streetfightertest\streetfightertest\streetfightertest\bin\x86\Debug\Content\ryu_idle3.xnb
+C:\Users\Wilson\Documents\Visual Studio 2010\Projects\streetfightertest\streetfightertest\streetfightertest\bin\x86\Debug\Content\ryu_idle4.xnb
+C:\Users\Wilson\Documents\Visual Studio 2010\Projects\streetfightertest\streetfightertest\streetfightertest\bin\x86\Debug\Content\ryu_walking1.xnb
+C:\Users\Wilson\Documents\Visual Studio 2010\Projects\streetfightertest\streetfightertest\streetfightertest\bin\x86\Debug\Content\ryu_walking2.xnb
+C:\Users\Wilson\Documents\Visual Studio 2010\Projects\streetfightertest\streetfightertest\streetfightertest\bin\x86\Debug\Content\ryu_walking3.xnb
+C:\Users\Wilson\Documents\Visual Studio 2010\Projects\streetfightertest\streetfightertest\streetfightertest\bin\x86\Debug\Content\ryu_walking4.xnb
+C:\Users\Wilson\Documents\Visual Studio 2010\Projects\streetfightertest\streetfightertest\streetfightertest\bin\x86\Debug\Content\ryu_walking5.xnb
+C:\Users\Wilson\Documents\Visual Studio 2010\Projects\streetfightertest\streetfightertest\streetfightertest\bin\x86\Debug\Content\ryu_jumping1.xnb
+C:\Users\Wilson\Documents\Visual Studio 2010\Projects\streetfightertest\streetfightertest\streetfightertest\bin\x86\Debug\Content\ryu_jumping2.xnb
+C:\Users\Wilson\Documents\Visual Studio 2010\Projects\streetfightertest\streetfightertest\streetfightertest\bin\x86\Debug\Content\ryu_jumping3.xnb
+C:\Users\Wilson\Documents\Visual Studio 2010\Projects\streetfightertest\streetfightertest\streetfightertest\bin\x86\Debug\Content\ryu_jumping4.xnb
+C:\Users\Wilson\Documents\Visual Studio 2010\Projects\streetfightertest\streetfightertest\streetfightertest\bin\x86\Debug\Content\ryu_jumping5.xnb
+C:\Users\Wilson\Documents\Visual Studio 2010\Projects\streetfightertest\streetfightertest\streetfightertest\bin\x86\Debug\Content\ryu_jumping6.xnb
+C:\Users\Wilson\Documents\Visual Studio 2010\Projects\streetfightertest\streetfightertest\streetfightertest\bin\x86\Debug\Content\ryu_jumping7.xnb
+C:\Users\Wilson\Documents\Visual Studio 2010\Projects\streetfightertest\streetfightertest\streetfightertest\bin\x86\Debug\Content\ryu_crouch.xnb
+C:\Users\Wilson\Documents\Visual Studio 2010\Projects\streetfightertest\streetfightertest\streetfightertest\bin\x86\Debug\Content\ryu_block_crouching.xnb
+C:\Users\Wilson\Documents\Visual Studio 2010\Projects\streetfightertest\streetfightertest\streetfightertest\bin\x86\Debug\Content\ryu_block_standing.xnb
+C:\Users\Wilson\Documents\Visual Studio 2010\Projects\streetfightertest\streetfightertest\streetfightertest\bin\x86\Debug\Content\ryu_forward_jump1.xnb
+C:\Users\Wilson\Documents\Visual Studio 2010\Projects\streetfightertest\streetfightertest\streetfightertest\bin\x86\Debug\Content\ryu_forward_jump2.xnb
+C:\Users\Wilson\Documents\Visual Studio 2010\Projects\streetfightertest\streetfightertest\streetfightertest\bin\x86\Debug\Content\ryu_forward_jump3.xnb
+C:\Users\Wilson\Documents\Visual Studio 2010\Projects\streetfightertest\streetfightertest\streetfightertest\bin\x86\Debug\Content\ryu_forward_jump4.xnb
+C:\Users\Wilson\Documents\Visual Studio 2010\Projects\streetfightertest\streetfightertest\streetfightertest\bin\x86\Debug\Content\ryu_forward_jump5.xnb
+C:\Users\Wilson\Documents\Visual Studio 2010\Projects\streetfightertest\streetfightertest\streetfightertest\bin\x86\Debug\Content\ryu_forward_jump6.xnb
+C:\Users\Wilson\Documents\Visual Studio 2010\Projects\streetfightertest\streetfightertest\streetfightertest\bin\x86\Debug\Content\ryu_low_punch1.xnb
+C:\Users\Wilson\Documents\Visual Studio 2010\Projects\streetfightertest\streetfightertest\streetfightertest\bin\x86\Debug\Content\ryu_low_punch2.xnb
+C:\Users\Wilson\Documents\Visual Studio 2010\Projects\streetfightertest\streetfightertest\streetfightertest\bin\x86\Debug\Content\ryu_low_punch3.xnb
+C:\Users\Wilson\Documents\Visual Studio 2010\Projects\streetfightertest\streetfightertest\streetfightertest\bin\x86\Debug\Content\ryu_medium_high_punch1.xnb
+C:\Users\Wilson\Documents\Visual Studio 2010\Projects\streetfightertest\streetfightertest\streetfightertest\bin\x86\Debug\Content\ryu_medium_high_punch2.xnb
+C:\Users\Wilson\Documents\Visual Studio 2010\Projects\streetfightertest\streetfightertest\streetfightertest\bin\x86\Debug\Content\ryu_medium_high_punch3.xnb
+C:\Users\Wilson\Documents\Visual Studio 2010\Projects\streetfightertest\streetfightertest\streetfightertest\bin\x86\Debug\Content\ryu_medium_high_punch4.xnb
+C:\Users\Wilson\Documents\Visual Studio 2010\Projects\streetfightertest\streetfightertest\streetfightertest\bin\x86\Debug\Content\ryu_medium_high_punch5.xnb
+C:\Users\Wilson\Documents\Visual Studio 2010\Projects\streetfightertest\streetfightertest\streetfightertest\bin\x86\Debug\Content\ryu_forward_low_punch1.xnb
+C:\Users\Wilson\Documents\Visual Studio 2010\Projects\streetfightertest\streetfightertest\streetfightertest\bin\x86\Debug\Content\ryu_forward_low_punch2.xnb
+C:\Users\Wilson\Documents\Visual Studio 2010\Projects\streetfightertest\streetfightertest\streetfightertest\bin\x86\Debug\Content\ryu_forward_low_punch3.xnb
+C:\Users\Wilson\Documents\Visual Studio 2010\Projects\streetfightertest\streetfightertest\streetfightertest\bin\x86\Debug\Content\ryu_forward_medium_punch1.xnb
+C:\Users\Wilson\Documents\Visual Studio 2010\Projects\streetfightertest\streetfightertest\streetfightertest\bin\x86\Debug\Content\ryu_forward_medium_punch2.xnb
+C:\Users\Wilson\Documents\Visual Studio 2010\Projects\streetfightertest\streetfightertest\streetfightertest\bin\x86\Debug\Content\ryu_forward_medium_punch3.xnb
+C:\Users\Wilson\Documents\Visual Studio 2010\Projects\streetfightertest\streetfightertest\streetfightertest\bin\x86\Debug\Content\ryu_forward_medium_punch4.xnb
+C:\Users\Wilson\Documents\Visual Studio 2010\Projects\streetfightertest\streetfightertest\streetfightertest\bin\x86\Debug\Content\ryu_forward_medium_punch5.xnb
+C:\Users\Wilson\Documents\Visual Studio 2010\Projects\streetfightertest\streetfightertest\streetfightertest\bin\x86\Debug\Content\ryu_forward_medium_punch6.xnb
+C:\Users\Wilson\Documents\Visual Studio 2010\Projects\streetfightertest\streetfightertest\streetfightertest\bin\x86\Debug\Content\ryu_forward_medium_punch7.xnb
+C:\Users\Wilson\Documents\Visual Studio 2010\Projects\streetfightertest\streetfightertest\streetfightertest\bin\x86\Debug\Content\ryu_forward_high_punch1.xnb
+C:\Users\Wilson\Documents\Visual Studio 2010\Projects\streetfightertest\streetfightertest\streetfightertest\bin\x86\Debug\Content\ryu_forward_high_punch2.xnb
+C:\Users\Wilson\Documents\Visual Studio 2010\Projects\streetfightertest\streetfightertest\streetfightertest\bin\x86\Debug\Content\ryu_forward_high_punch3.xnb
+C:\Users\Wilson\Documents\Visual Studio 2010\Projects\streetfightertest\streetfightertest\streetfightertest\bin\x86\Debug\Content\ryu_forward_high_punch4.xnb
+C:\Users\Wilson\Documents\Visual Studio 2010\Projects\streetfightertest\streetfightertest\streetfightertest\bin\x86\Debug\Content\ryu_forward_high_punch5.xnb
+C:\Users\Wilson\Documents\Visual Studio 2010\Projects\streetfightertest\streetfightertest\streetfightertest\bin\x86\Debug\Content\ryu_low_medium_kick1.xnb
+C:\Users\Wilson\Documents\Visual Studio 2010\Projects\streetfightertest\streetfightertest\streetfightertest\bin\x86\Debug\Content\ryu_low_medium_kick2.xnb
+C:\Users\Wilson\Documents\Visual Studio 2010\Projects\streetfightertest\streetfightertest\streetfightertest\bin\x86\Debug\Content\ryu_low_medium_kick3.xnb
+C:\Users\Wilson\Documents\Visual Studio 2010\Projects\streetfightertest\streetfightertest\streetfightertest\bin\x86\Debug\Content\ryu_high_kick1.xnb
+C:\Users\Wilson\Documents\Visual Studio 2010\Projects\streetfightertest\streetfightertest\streetfightertest\bin\x86\Debug\Content\ryu_high_kick2.xnb
+C:\Users\Wilson\Documents\Visual Studio 2010\Projects\streetfightertest\streetfightertest\streetfightertest\bin\x86\Debug\Content\ryu_high_kick3.xnb
+C:\Users\Wilson\Documents\Visual Studio 2010\Projects\streetfightertest\streetfightertest\streetfightertest\bin\x86\Debug\Content\ryu_high_kick4.xnb
+C:\Users\Wilson\Documents\Visual Studio 2010\Projects\streetfightertest\streetfightertest\streetfightertest\bin\x86\Debug\Content\ryu_high_kick5.xnb
+C:\Users\Wilson\Documents\Visual Studio 2010\Projects\streetfightertest\streetfightertest\streetfightertest\bin\x86\Debug\Content\ryu_forward_low_kick1.xnb
+C:\Users\Wilson\Documents\Visual Studio 2010\Projects\streetfightertest\streetfightertest\streetfightertest\bin\x86\Debug\Content\ryu_forward_low_kick2.xnb
+C:\Users\Wilson\Documents\Visual Studio 2010\Projects\streetfightertest\streetfightertest\streetfightertest\bin\x86\Debug\Content\ryu_forward_low_kick3.xnb
+C:\Users\Wilson\Documents\Visual Studio 2010\Projects\streetfightertest\streetfightertest\streetfightertest\bin\x86\Debug\Content\ryu_forward_medium_kick1.xnb
+C:\Users\Wilson\Documents\Visual Studio 2010\Projects\streetfightertest\streetfightertest\streetfightertest\bin\x86\Debug\Content\ryu_forward_medium_kick2.xnb
+C:\Users\Wilson\Documents\Visual Studio 2010\Projects\streetfightertest\streetfightertest\streetfightertest\bin\x86\Debug\Content\ryu_forward_medium_kick3.xnb
+C:\Users\Wilson\Documents\Visual Studio 2010\Projects\streetfightertest\streetfightertest\streetfightertest\bin\x86\Debug\Content\ryu_forward_medium_kick4.xnb
+C:\Users\Wilson\Documents\Visual Studio 2010\Projects\streetfightertest\streetfightertest\streetfightertest\bin\x86\Debug\Content\ryu_forward_medium_kick5.xnb
+C:\Users\Wilson\Documents\Visual Studio 2010\Projects\streetfightertest\streetfightertest\streetfightertest\bin\x86\Debug\Content\ryu_forward_high_kick1.xnb
+C:\Users\Wilson\Documents\Visual Studio 2010\Projects\streetfightertest\streetfightertest\streetfightertest\bin\x86\Debug\Content\ryu_forward_high_kick2.xnb
+C:\Users\Wilson\Documents\Visual Studio 2010\Projects\streetfightertest\streetfightertest\streetfightertest\bin\x86\Debug\Content\ryu_forward_high_kick3.xnb
+C:\Users\Wilson\Documents\Visual Studio 2010\Projects\streetfightertest\streetfightertest\streetfightertest\bin\x86\Debug\Content\ryu_forward_high_kick4.xnb
+C:\Users\Wilson\Documents\Visual Studio 2010\Projects\streetfightertest\streetfightertest\streetfightertest\bin\x86\Debug\Content\ryu_forward_high_kick5.xnb
+C:\Users\Wilson\Documents\Visual Studio 2010\Projects\streetfightertest\streetfightertest\streetfightertest\bin\x86\Debug\Content\ryu_crouch_low_medium_punch1.xnb
+C:\Users\Wilson\Documents\Visual Studio 2010\Projects\streetfightertest\streetfightertest\streetfightertest\bin\x86\Debug\Content\ryu_crouch_low_medium_punch2.xnb
+C:\Users\Wilson\Documents\Visual Studio 2010\Projects\streetfightertest\streetfightertest\streetfightertest\bin\x86\Debug\Content\ryu_crouch_low_medium_punch3.xnb
+C:\Users\Wilson\Documents\Visual Studio 2010\Projects\streetfightertest\streetfightertest\streetfightertest\bin\x86\Debug\Content\ryu_crouch_high_punch1.xnb
+C:\Users\Wilson\Documents\Visual Studio 2010\Projects\streetfightertest\streetfightertest\streetfightertest\bin\x86\Debug\Content\ryu_crouch_high_punch2.xnb
+C:\Users\Wilson\Documents\Visual Studio 2010\Projects\streetfightertest\streetfightertest\streetfightertest\bin\x86\Debug\Content\ryu_crouch_high_punch3.xnb
+C:\Users\Wilson\Documents\Visual Studio 2010\Projects\streetfightertest\streetfightertest\streetfightertest\bin\x86\Debug\Content\ryu_crouch_high_punch4.xnb
+C:\Users\Wilson\Documents\Visual Studio 2010\Projects\streetfightertest\streetfightertest\streetfightertest\bin\x86\Debug\Content\ryu_crouch_high_punch5.xnb
+C:\Users\Wilson\Documents\Visual Studio 2010\Projects\streetfightertest\streetfightertest\streetfightertest\bin\x86\Debug\Content\ryu_crouch_low_kick1.xnb
+C:\Users\Wilson\Documents\Visual Studio 2010\Projects\streetfightertest\streetfightertest\streetfightertest\bin\x86\Debug\Content\ryu_crouch_low_kick2.xnb
+C:\Users\Wilson\Documents\Visual Studio 2010\Projects\streetfightertest\streetfightertest\streetfightertest\bin\x86\Debug\Content\ryu_crouch_low_kick3.xnb
+C:\Users\Wilson\Documents\Visual Studio 2010\Projects\streetfightertest\streetfightertest\streetfightertest\bin\x86\Debug\Content\ryu_crouch_medium_kick1.xnb
+C:\Users\Wilson\Documents\Visual Studio 2010\Projects\streetfightertest\streetfightertest\streetfightertest\bin\x86\Debug\Content\ryu_crouch_medium_kick2.xnb
+C:\Users\Wilson\Documents\Visual Studio 2010\Projects\streetfightertest\streetfightertest\streetfightertest\bin\x86\Debug\Content\ryu_crouch_medium_kick3.xnb
+C:\Users\Wilson\Documents\Visual Studio 2010\Projects\streetfightertest\streetfightertest\streetfightertest\bin\x86\Debug\Content\ryu_crouch_high_kick1.xnb
+C:\Users\Wilson\Documents\Visual Studio 2010\Projects\streetfightertest\streetfightertest\streetfightertest\bin\x86\Debug\Content\ryu_crouch_high_kick2.xnb
+C:\Users\Wilson\Documents\Visual Studio 2010\Projects\streetfightertest\streetfightertest\streetfightertest\bin\x86\Debug\Content\ryu_crouch_high_kick3.xnb
+C:\Users\Wilson\Documents\Visual Studio 2010\Projects\streetfightertest\streetfightertest\streetfightertest\bin\x86\Debug\Content\ryu_crouch_high_kick4.xnb
+C:\Users\Wilson\Documents\Visual Studio 2010\Projects\streetfightertest\streetfightertest\streetfightertest\bin\x86\Debug\Content\ryu_crouch_high_kick5.xnb
+C:\Users\Wilson\Documents\Visual Studio 2010\Projects\streetfightertest\streetfightertest\streetfightertest\bin\x86\Debug\Content\ryu_hadouken1.xnb
+C:\Users\Wilson\Documents\Visual Studio 2010\Projects\streetfightertest\streetfightertest\streetfightertest\bin\x86\Debug\Content\ryu_hadouken2.xnb
+C:\Users\Wilson\Documents\Visual Studio 2010\Projects\streetfightertest\streetfightertest\streetfightertest\bin\x86\Debug\Content\ryu_hadouken3.xnb
+C:\Users\Wilson\Documents\Visual Studio 2010\Projects\streetfightertest\streetfightertest\streetfightertest\bin\x86\Debug\Content\ryu_hadouken4.xnb
+C:\Users\Wilson\Documents\Visual Studio 2010\Projects\streetfightertest\streetfightertest\streetfightertest\bin\x86\Debug\Content\ryu_tatsumaki1.xnb
+C:\Users\Wilson\Documents\Visual Studio 2010\Projects\streetfightertest\streetfightertest\streetfightertest\bin\x86\Debug\Content\ryu_tatsumaki10.xnb
+C:\Users\Wilson\Documents\Visual Studio 2010\Projects\streetfightertest\streetfightertest\streetfightertest\bin\x86\Debug\Content\ryu_tatsumaki11.xnb
+C:\Users\Wilson\Documents\Visual Studio 2010\Projects\streetfightertest\streetfightertest\streetfightertest\bin\x86\Debug\Content\ryu_tatsumaki12.xnb
+C:\Users\Wilson\Documents\Visual Studio 2010\Projects\streetfightertest\streetfightertest\streetfightertest\bin\x86\Debug\Content\ryu_tatsumaki2.xnb
+C:\Users\Wilson\Documents\Visual Studio 2010\Projects\streetfightertest\streetfightertest\streetfightertest\bin\x86\Debug\Content\ryu_tatsumaki3.xnb
+C:\Users\Wilson\Documents\Visual Studio 2010\Projects\streetfightertest\streetfightertest\streetfightertest\bin\x86\Debug\Content\ryu_tatsumaki4.xnb
+C:\Users\Wilson\Documents\Visual Studio 2010\Projects\streetfightertest\streetfightertest\streetfightertest\bin\x86\Debug\Content\ryu_tatsumaki5.xnb
+C:\Users\Wilson\Documents\Visual Studio 2010\Projects\streetfightertest\streetfightertest\streetfightertest\bin\x86\Debug\Content\ryu_tatsumaki6.xnb
+C:\Users\Wilson\Documents\Visual Studio 2010\Projects\streetfightertest\streetfightertest\streetfightertest\bin\x86\Debug\Content\ryu_tatsumaki7.xnb
+C:\Users\Wilson\Documents\Visual Studio 2010\Projects\streetfightertest\streetfightertest\streetfightertest\bin\x86\Debug\Content\ryu_tatsumaki8.xnb
+C:\Users\Wilson\Documents\Visual Studio 2010\Projects\streetfightertest\streetfightertest\streetfightertest\bin\x86\Debug\Content\ryu_tatsumaki9.xnb
+C:\Users\Wilson\Documents\Visual Studio 2010\Projects\streetfightertest\streetfightertest\streetfightertest\bin\x86\Debug\Content\ryu_shoryuken1.xnb
+C:\Users\Wilson\Documents\Visual Studio 2010\Projects\streetfightertest\streetfightertest\streetfightertest\bin\x86\Debug\Content\ryu_shoryuken2.xnb
+C:\Users\Wilson\Documents\Visual Studio 2010\Projects\streetfightertest\streetfightertest\streetfightertest\bin\x86\Debug\Content\ryu_shoryuken3.xnb
+C:\Users\Wilson\Documents\Visual Studio 2010\Projects\streetfightertest\streetfightertest\streetfightertest\bin\x86\Debug\Content\ryu_shoryuken4.xnb
+C:\Users\Wilson\Documents\Visual Studio 2010\Projects\streetfightertest\streetfightertest\streetfightertest\bin\x86\Debug\Content\ryu_shoryuken5.xnb
+C:\Users\Wilson\Documents\Visual Studio 2010\Projects\streetfightertest\streetfightertest\streetfightertest\bin\x86\Debug\Content\ryu_shoryuken6.xnb
+C:\Users\Wilson\Documents\Visual Studio 2010\Projects\streetfightertest\streetfightertest\streetfightertest\bin\x86\Debug\Content\ryu_shoryuken7.xnb
+C:\Users\Wilson\Documents\Visual Studio 2010\Projects\streetfightertest\streetfightertest\streetfightertest\bin\x86\Debug\Content\hadouken_projectile1.xnb
+C:\Users\Wilson\Documents\Visual Studio 2010\Projects\streetfightertest\streetfightertest\streetfightertest\bin\x86\Debug\Content\hadouken_projectile2.xnb
+C:\Users\Wilson\Documents\Visual Studio 2010\Projects\streetfightertest\streetfightertest\streetfightertest\bin\x86\Debug\Content\hadouken_projectile3.xnb
+C:\Users\Wilson\Documents\Visual Studio 2010\Projects\streetfightertest\streetfightertest\streetfightertest\bin\x86\Debug\Content\hadouken_projectile4.xnb
+C:\Users\Wilson\Documents\Visual Studio 2010\Projects\streetfightertest\streetfightertest\streetfightertest\bin\x86\Debug\Content\hadouken_projectile5.xnb
+C:\Users\Wilson\Documents\Visual Studio 2010\Projects\streetfightertest\streetfightertest\streetfightertest\bin\x86\Debug\Content\hadouken_projectile6.xnb
+C:\Users\Wilson\Documents\Visual Studio 2010\Projects\streetfightertest\streetfightertest\streetfightertest\bin\x86\Debug\Content\hitbox.xnb
+C:\Users\Wilson\Documents\Visual Studio 2010\Projects\streetfightertest\streetfightertest\streetfightertest\bin\x86\Debug\Content\attack_hitbox.xnb
+C:\Users\Wilson\Documents\Visual Studio 2010\Projects\streetfightertest\streetfightertest\streetfightertest\bin\x86\Debug\Content\health_bar_danger.xnb
+C:\Users\Wilson\Documents\Visual Studio 2010\Projects\streetfightertest\streetfightertest\streetfightertest\bin\x86\Debug\Content\health_bar_healthy.xnb
+C:\Users\Wilson\Documents\Visual Studio 2010\Projects\streetfightertest\streetfightertest\streetfightertest\bin\x86\Debug\Content\health_bar_warning.xnb
+C:\Users\Wilson\Documents\Visual Studio 2010\Projects\streetfightertest\streetfightertest\streetfightertest\bin\x86\Debug\Content\ken_block_crouching.xnb
+C:\Users\Wilson\Documents\Visual Studio 2010\Projects\streetfightertest\streetfightertest\streetfightertest\bin\x86\Debug\Content\ken_block_standing.xnb
+C:\Users\Wilson\Documents\Visual Studio 2010\Projects\streetfightertest\streetfightertest\streetfightertest\bin\x86\Debug\Content\ken_hit1.xnb
+C:\Users\Wilson\Documents\Visual Studio 2010\Projects\streetfightertest\streetfightertest\streetfightertest\bin\x86\Debug\Content\ken_hit2.xnb
+C:\Users\Wilson\Documents\Visual Studio 2010\Projects\streetfightertest\streetfightertest\streetfightertest\bin\x86\Debug\Content\ken_hit3.xnb
+C:\Users\Wilson\Documents\Visual Studio 2010\Projects\streetfightertest\streetfightertest\streetfightertest\bin\x86\Debug\Content\ken_hit4.xnb
+C:\Users\Wilson\Documents\Visual Studio 2010\Projects\streetfightertest\streetfightertest\streetfightertest\bin\x86\Debug\Content\ken_face_hit1.xnb
+C:\Users\Wilson\Documents\Visual Studio 2010\Projects\streetfightertest\streetfightertest\streetfightertest\bin\x86\Debug\Content\ken_face_hit2.xnb
+C:\Users\Wilson\Documents\Visual Studio 2010\Projects\streetfightertest\streetfightertest\streetfightertest\bin\x86\Debug\Content\ken_face_hit3.xnb
+C:\Users\Wilson\Documents\Visual Studio 2010\Projects\streetfightertest\streetfightertest\streetfightertest\bin\x86\Debug\Content\ken_face_hit4.xnb
+C:\Users\Wilson\Documents\Visual Studio 2010\Projects\streetfightertest\streetfightertest\streetfightertest\bin\x86\Debug\Content\ken_crouch_hit.xnb
+C:\Users\Wilson\Documents\Visual Studio 2010\Projects\streetfightertest\streetfightertest\streetfightertest\bin\x86\Debug\Content\ryu_hit1.xnb
+C:\Users\Wilson\Documents\Visual Studio 2010\Projects\streetfightertest\streetfightertest\streetfightertest\bin\x86\Debug\Content\ryu_hit2.xnb
+C:\Users\Wilson\Documents\Visual Studio 2010\Projects\streetfightertest\streetfightertest\streetfightertest\bin\x86\Debug\Content\ryu_hit3.xnb
+C:\Users\Wilson\Documents\Visual Studio 2010\Projects\streetfightertest\streetfightertest\streetfightertest\bin\x86\Debug\Content\ryu_hit4.xnb
+C:\Users\Wilson\Documents\Visual Studio 2010\Projects\streetfightertest\streetfightertest\streetfightertest\bin\x86\Debug\Content\ryu_face_hit1.xnb
+C:\Users\Wilson\Documents\Visual Studio 2010\Projects\streetfightertest\streetfightertest\streetfightertest\bin\x86\Debug\Content\ryu_face_hit2.xnb
+C:\Users\Wilson\Documents\Visual Studio 2010\Projects\streetfightertest\streetfightertest\streetfightertest\bin\x86\Debug\Content\ryu_face_hit3.xnb
+C:\Users\Wilson\Documents\Visual Studio 2010\Projects\streetfightertest\streetfightertest\streetfightertest\bin\x86\Debug\Content\ryu_face_hit4.xnb
+C:\Users\Wilson\Documents\Visual Studio 2010\Projects\streetfightertest\streetfightertest\streetfightertest\bin\x86\Debug\Content\ryu_crouch_hit.xnb
+C:\Users\Wilson\Documents\Visual Studio 2010\Projects\streetfightertest\streetfightertest\streetfightertest\bin\x86\Debug\Content\ryu_knockout1.xnb
+C:\Users\Wilson\Documents\Visual Studio 2010\Projects\streetfightertest\streetfightertest\streetfightertest\bin\x86\Debug\Content\ryu_knockout2.xnb
+C:\Users\Wilson\Documents\Visual Studio 2010\Projects\streetfightertest\streetfightertest\streetfightertest\bin\x86\Debug\Content\ryu_knockout3.xnb
+C:\Users\Wilson\Documents\Visual Studio 2010\Projects\streetfightertest\streetfightertest\streetfightertest\bin\x86\Debug\Content\ryu_knockout4.xnb
+C:\Users\Wilson\Documents\Visual Studio 2010\Projects\streetfightertest\streetfightertest\streetfightertest\bin\x86\Debug\Content\ryu_knockout5.xnb
+C:\Users\Wilson\Documents\Visual Studio 2010\Projects\streetfightertest\streetfightertest\streetfightertest\bin\x86\Debug\Content\ryu_victory1.xnb
+C:\Users\Wilson\Documents\Visual Studio 2010\Projects\streetfightertest\streetfightertest\streetfightertest\bin\x86\Debug\Content\ryu_victory2.xnb
+C:\Users\Wilson\Documents\Visual Studio 2010\Projects\streetfightertest\streetfightertest\streetfightertest\bin\x86\Debug\Content\ryu_victory3.xnb
+C:\Users\Wilson\Documents\Visual Studio 2010\Projects\streetfightertest\streetfightertest\streetfightertest\bin\x86\Debug\Content\ken_knockout1.xnb
+C:\Users\Wilson\Documents\Visual Studio 2010\Projects\streetfightertest\streetfightertest\streetfightertest\bin\x86\Debug\Content\ken_knockout2.xnb
+C:\Users\Wilson\Documents\Visual Studio 2010\Projects\streetfightertest\streetfightertest\streetfightertest\bin\x86\Debug\Content\ken_knockout3.xnb
+C:\Users\Wilson\Documents\Visual Studio 2010\Projects\streetfightertest\streetfightertest\streetfightertest\bin\x86\Debug\Content\ken_knockout4.xnb
+C:\Users\Wilson\Documents\Visual Studio 2010\Projects\streetfightertest\streetfightertest\streetfightertest\bin\x86\Debug\Content\ken_knockout5.xnb
+C:\Users\Wilson\Documents\Visual Studio 2010\Projects\streetfightertest\streetfightertest\streetfightertest\bin\x86\Debug\Content\ken_victory1.xnb
+C:\Users\Wilson\Documents\Visual Studio 2010\Projects\streetfightertest\streetfightertest\streetfightertest\bin\x86\Debug\Content\ken_victory2.xnb
+C:\Users\Wilson\Documents\Visual Studio 2010\Projects\streetfightertest\streetfightertest\streetfightertest\bin\x86\Debug\Content\ken_victory3.xnb
+C:\Users\Wilson\Documents\Visual Studio 2010\Projects\streetfightertest\streetfightertest\streetfightertest\bin\x86\Debug\Content\ken_knockdown1.xnb
+C:\Users\Wilson\Documents\Visual Studio 2010\Projects\streetfightertest\streetfightertest\streetfightertest\bin\x86\Debug\Content\ken_knockdown2.xnb
+C:\Users\Wilson\Documents\Visual Studio 2010\Projects\streetfightertest\streetfightertest\streetfightertest\bin\x86\Debug\Content\ken_knockdown3.xnb
+C:\Users\Wilson\Documents\Visual Studio 2010\Projects\streetfightertest\streetfightertest\streetfightertest\bin\x86\Debug\Content\ken_knockdown4.xnb
+C:\Users\Wilson\Documents\Visual Studio 2010\Projects\streetfightertest\streetfightertest\streetfightertest\bin\x86\Debug\Content\ken_knockdown5.xnb
+C:\Users\Wilson\Documents\Visual Studio 2010\Projects\streetfightertest\streetfightertest\streetfightertest\bin\x86\Debug\Content\ken_knockdown6.xnb
+C:\Users\Wilson\Documents\Visual Studio 2010\Projects\streetfightertest\streetfightertest\streetfightertest\bin\x86\Debug\Content\ken_knockdown7.xnb
+C:\Users\Wilson\Documents\Visual Studio 2010\Projects\streetfightertest\streetfightertest\streetfightertest\bin\x86\Debug\Content\ken_knockdown8.xnb
+C:\Users\Wilson\Documents\Visual Studio 2010\Projects\streetfightertest\streetfightertest\streetfightertest\bin\x86\Debug\Content\ken_knockdown9.xnb
+C:\Users\Wilson\Documents\Visual Studio 2010\Projects\streetfightertest\streetfightertest\streetfightertest\bin\x86\Debug\Content\ryu_knockdown1.xnb
+C:\Users\Wilson\Documents\Visual Studio 2010\Projects\streetfightertest\streetfightertest\streetfightertest\bin\x86\Debug\Content\ryu_knockdown2.xnb
+C:\Users\Wilson\Documents\Visual Studio 2010\Projects\streetfightertest\streetfightertest\streetfightertest\bin\x86\Debug\Content\ryu_knockdown3.xnb
+C:\Users\Wilson\Documents\Visual Studio 2010\Projects\streetfightertest\streetfightertest\streetfightertest\bin\x86\Debug\Content\ryu_knockdown4.xnb
+C:\Users\Wilson\Documents\Visual Studio 2010\Projects\streetfightertest\streetfightertest\streetfightertest\bin\x86\Debug\Content\ryu_knockdown5.xnb
+C:\Users\Wilson\Documents\Visual Studio 2010\Projects\streetfightertest\streetfightertest\streetfightertest\bin\x86\Debug\Content\ryu_knockdown6.xnb
+C:\Users\Wilson\Documents\Visual Studio 2010\Projects\streetfightertest\streetfightertest\streetfightertest\bin\x86\Debug\Content\ryu_knockdown7.xnb
+C:\Users\Wilson\Documents\Visual Studio 2010\Projects\streetfightertest\streetfightertest\streetfightertest\bin\x86\Debug\Content\ryu_knockdown8.xnb
+C:\Users\Wilson\Documents\Visual Studio 2010\Projects\streetfightertest\streetfightertest\streetfightertest\bin\x86\Debug\Content\ryu_knockdown9.xnb
+C:\Users\Wilson\Documents\Visual Studio 2010\Projects\streetfightertest\streetfightertest\streetfightertest\bin\x86\Debug\Content\TitleFont.xnb
+C:\Users\Wilson\Documents\Visual Studio 2010\Projects\streetfightertest\streetfightertest\streetfightertest\bin\x86\Debug\Content\TextFont.xnb
+C:\Users\Wilson\Documents\Visual Studio 2010\Projects\streetfightertest\streetfightertest\streetfightertest\bin\x86\Debug\streetfightertest.exe
+C:\Users\Wilson\Documents\Visual Studio 2010\Projects\streetfightertest\streetfightertest\streetfightertest\bin\x86\Debug\streetfightertest.pdb
+C:\Users\Wilson\Documents\Visual Studio 2010\Projects\streetfightertest\streetfightertest\streetfightertest\obj\x86\Debug\streetfightertest.csprojResolveAssemblyReference.cache
+C:\Users\Wilson\Documents\Visual Studio 2010\Projects\streetfightertest\streetfightertest\streetfightertest\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+C:\Users\Wilson\Documents\Visual Studio 2010\Projects\streetfightertest\streetfightertest\streetfightertest\obj\x86\Debug\streetfightertest.exe
+C:\Users\Wilson\Documents\Visual Studio 2010\Projects\streetfightertest\streetfightertest\streetfightertest\obj\x86\Debug\streetfightertest.pdb
+C:\Users\Wilson\Documents\Visual Studio 2010\Projects\streetfightertest\streetfightertest\streetfightertest\bin\x86\Debug\Content\street_fighter_background.xnb
+C:\Users\Wilson\Documents\Visual Studio 2010\Projects\streetfightertest\streetfightertest\streetfightertest\bin\x86\Debug\Content\character_sounds\ken_attack.xnb
+C:\Users\Wilson\Documents\Visual Studio 2010\Projects\streetfightertest\streetfightertest\streetfightertest\bin\x86\Debug\Content\character_sounds\ken_death.xnb
+C:\Users\Wilson\Documents\Visual Studio 2010\Projects\streetfightertest\streetfightertest\streetfightertest\bin\x86\Debug\Content\character_sounds\ken_hadouken.xnb
+C:\Users\Wilson\Documents\Visual Studio 2010\Projects\streetfightertest\streetfightertest\streetfightertest\bin\x86\Debug\Content\character_sounds\ken_shoryuken.xnb
+C:\Users\Wilson\Documents\Visual Studio 2010\Projects\streetfightertest\streetfightertest\streetfightertest\bin\x86\Debug\Content\character_sounds\ken_tatsumaki.xnb
+C:\Users\Wilson\Documents\Visual Studio 2010\Projects\streetfightertest\streetfightertest\streetfightertest\bin\x86\Debug\Content\character_sounds\ryu_attack.xnb
+C:\Users\Wilson\Documents\Visual Studio 2010\Projects\streetfightertest\streetfightertest\streetfightertest\bin\x86\Debug\Content\character_sounds\ryu_death.xnb
+C:\Users\Wilson\Documents\Visual Studio 2010\Projects\streetfightertest\streetfightertest\streetfightertest\bin\x86\Debug\Content\character_sounds\ryu_hadouken.xnb
+C:\Users\Wilson\Documents\Visual Studio 2010\Projects\streetfightertest\streetfightertest\streetfightertest\bin\x86\Debug\Content\character_sounds\ryu_shoryuken.xnb
+C:\Users\Wilson\Documents\Visual Studio 2010\Projects\streetfightertest\streetfightertest\streetfightertest\bin\x86\Debug\Content\character_sounds\ryu_tatsumaki.xnb
+C:\Users\Wilson\Documents\Visual Studio 2010\Projects\streetfightertest\streetfightertest\streetfightertest\bin\x86\Debug\Content\hit_sounds\block.xnb
+C:\Users\Wilson\Documents\Visual Studio 2010\Projects\streetfightertest\streetfightertest\streetfightertest\bin\x86\Debug\Content\hit_sounds\hit_high.xnb
+C:\Users\Wilson\Documents\Visual Studio 2010\Projects\streetfightertest\streetfightertest\streetfightertest\bin\x86\Debug\Content\hit_sounds\hit_medium.xnb
+C:\Users\Wilson\Documents\Visual Studio 2010\Projects\streetfightertest\streetfightertest\streetfightertest\bin\x86\Debug\Content\hit_sounds\hit_small.xnb
+C:\Users\Wilson\Documents\Visual Studio 2010\Projects\streetfightertest\streetfightertest\streetfightertest\bin\x86\Debug\Content\narrator_sounds\fight.xnb
+C:\Users\Wilson\Documents\Visual Studio 2010\Projects\streetfightertest\streetfightertest\streetfightertest\bin\x86\Debug\Content\narrator_sounds\you_win.xnb
+H:\5th Period - Waltner\Final_Project\streetfightertest\streetfightertest\streetfightertest\bin\x86\Debug\Content\street_fighter_background.xnb
+H:\5th Period - Waltner\Final_Project\streetfightertest\streetfightertest\streetfightertest\bin\x86\Debug\Content\hit_sounds\hit_high.xnb
+H:\5th Period - Waltner\Final_Project\streetfightertest\streetfightertest\streetfightertest\bin\x86\Debug\Content\hit_sounds\hit_medium.xnb
+H:\5th Period - Waltner\Final_Project\streetfightertest\streetfightertest\streetfightertest\bin\x86\Debug\Content\hit_sounds\hit_small.xnb
+H:\5th Period - Waltner\Final_Project\streetfightertest\streetfightertest\streetfightertest\bin\x86\Debug\Content\character_sounds\ken_attack.xnb
+H:\5th Period - Waltner\Final_Project\streetfightertest\streetfightertest\streetfightertest\bin\x86\Debug\Content\character_sounds\ken_death.xnb
+H:\5th Period - Waltner\Final_Project\streetfightertest\streetfightertest\streetfightertest\bin\x86\Debug\Content\character_sounds\ken_hadouken.xnb
+H:\5th Period - Waltner\Final_Project\streetfightertest\streetfightertest\streetfightertest\bin\x86\Debug\Content\character_sounds\ken_shoryuken.xnb
+H:\5th Period - Waltner\Final_Project\streetfightertest\streetfightertest\streetfightertest\bin\x86\Debug\Content\character_sounds\ken_tatsumaki.xnb
+H:\5th Period - Waltner\Final_Project\streetfightertest\streetfightertest\streetfightertest\bin\x86\Debug\Content\character_sounds\ryu_attack.xnb
+H:\5th Period - Waltner\Final_Project\streetfightertest\streetfightertest\streetfightertest\bin\x86\Debug\Content\character_sounds\ryu_death.xnb
+H:\5th Period - Waltner\Final_Project\streetfightertest\streetfightertest\streetfightertest\bin\x86\Debug\Content\character_sounds\ryu_hadouken.xnb
+H:\5th Period - Waltner\Final_Project\streetfightertest\streetfightertest\streetfightertest\bin\x86\Debug\Content\character_sounds\ryu_shoryuken.xnb
+H:\5th Period - Waltner\Final_Project\streetfightertest\streetfightertest\streetfightertest\bin\x86\Debug\Content\character_sounds\ryu_tatsumaki.xnb
+H:\5th Period - Waltner\Final_Project\streetfightertest\streetfightertest\streetfightertest\bin\x86\Debug\Content\hit_sounds\block.xnb
+H:\5th Period - Waltner\Final_Project\streetfightertest\streetfightertest\streetfightertest\bin\x86\Debug\Content\narrator_sounds\fight.xnb
+H:\5th Period - Waltner\Final_Project\streetfightertest\streetfightertest\streetfightertest\bin\x86\Debug\Content\narrator_sounds\you_win.xnb

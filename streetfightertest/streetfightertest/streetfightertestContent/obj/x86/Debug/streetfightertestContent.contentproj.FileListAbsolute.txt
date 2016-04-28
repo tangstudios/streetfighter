@@ -1,0 +1,5 @@
+H:\5th Period - Waltner\game\streetfightertest\streetfightertest\streetfightertestContent\obj\x86\Debug\streetfightertestContent.contentprojResolveAssemblyReference.cache
+E:\Street Fighter\streetfightertest\streetfightertest\streetfightertestContent\obj\x86\Debug\streetfightertestContent.contentprojResolveAssemblyReference.cache
+H:\5th Period - Waltner\Final_Project\streetfightertest\streetfightertest\streetfightertestContent\obj\x86\Debug\streetfightertestContent.contentprojResolveAssemblyReference.cache
+F:\Street Fighter\streetfightertest\streetfightertest\streetfightertestContent\obj\x86\Debug\streetfightertestContent.contentprojResolveAssemblyReference.cache
+C:\Users\Wilson\Documents\Visual Studio 2010\Projects\streetfightertest\streetfightertest\streetfightertestContent\obj\x86\Debug\streetfightertestContent.contentprojResolveAssemblyReference.cache
